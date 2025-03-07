@@ -1,0 +1,31 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 173" width="650" height="173">
+	<title>logo_full_light-svg</title>
+	<defs>
+		<image  width="45" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAYCAMAAABZc4S2AAAAAXNSR0IB2cksfwAAAM9QTFRFIUKRIUKRAAAAIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRIUKRcCsrhwAAAEV0Uk5T1aAAEsPYdY7/wBXqQ6qK1gdO9CC1YAzt3Gq4Kc05VZwrzjWVWoP+C0u/MsYc8eMOBPs8AsH9gEDKN8j472PsLsx8iRlu2EjByAAAAQNJREFUeJyN0uluwjAMAOBiLo+uDNgobOMO1y5a2BiMm8H7PxN20vIDJGJLTuz2i5QmdZyrSAAkU7pKJ8FExrzJOngVdwA515T3kY6Ud1vnDc6hSD8UtC6edbSaV3kQR6xLj7rNCvQTZZk7P4VYqVr0M+ULd68lxJpn0XVKl7sGFU2bbrVp6FCnaO5aNaseddT0B1Y9pOEN4J2mD7Dqzy/EUQD8tcquwxriePL9gzgt2zX88uVz7bYEekbj/G+KuAgFOqBxmdHbFmjg615RNkRamb9pORDpodFtEGk+cbNtiQ7TWq9lGvKMN1uh5hPHXXih/b1San3W/j+1ByoCFT8/cnECNQAlwxwkHv8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #7cc245 } 
+		.s1 { fill: #214291 } 
+		.s2 { fill: #7bc245 } 
+		.s3 { fill: #234091 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m300.6 20.5l18.6 5.8v55.3h-18.6c0 0-0.1-61.2 0-61.1z"/>
+		<path id="Layer" class="s0" d="m272.9 0h74.2v17.4h-74.2z"/>
+		<path id="Layer" class="s0" d="m412.7 16.2v14.5h-44.6v36.9h44.2v14h-49.5c0 0-9.8 0-9.9-13.1v-39.2c0 0 0.1-12.9 10-13.1z"/>
+		<path id="Layer" class="s0" d="m403.2 41.8l5.4 14h-31.5l-5.5-14z"/>
+		<path id="Layer" class="s0" d="m483.7 30.7h-42.2c0 0-6-0.5-5.8 6.9v24.2c0 0 0.1 5.6 6.4 5.8h41.5c0 0 2.4 12.3-13.2 14h-34.8c0 0-14 0.8-15.1-17.6v-31.6c0 0 0.3-15.8 14-16.2h34.6c0 0 15.6-0.1 14.6 14.5z"/>
+		<path id="Layer" class="s0" d="m491.9 16.2h15.2v65.4h-15.2z"/>
+		<path id="Layer" class="s0" d="m543.7 16.2h15.2v65.4h-15.2z"/>
+		<path id="Layer" class="s0" d="m544.7 55.8h-28.4l-5.5-14h34.1z"/>
+		<path id="Layer" class="s1" d="m310.3 89.4c10.6-0.3 14.9 10 14.9 10l28.7 71.4h-21.1l-4.6-11.5h-20.9l-7-17.4 20.8-0.1-11.3-28.8-23.4 57.8h-20.9l32.6-81c0.4 0.3 12.2-0.4 12.2-0.4z"/>
+		<path id="Layer" class="s1" d="m377.6 170.8c-8.4 0.3-11.9-7.9-11.9-7.9l-22.8-57.3h16.8l3.7 9.5 5.6 14 9 22.9 18.6-46.4h16.7l-25.9 65.2c-0.4-0.2-9.8 0-9.8 0z"/>
+		<path id="Layer" class="s1" d="m455.5 119.7v51.1h-15.2v-65.2h52.6c0 0 13.2-0.7 14.5 12.8v36.1c0 0 0.1 16-15 16.3h-27.7l-5.4-14.1h27c0 0 6.2-0.9 6.2-6.1v-26c0 0-0.7-5.2-6.7-5.2h-30.3z"/>
+		<path id="Layer" class="s1" d="m528.5 151.1c0 5.5 6.8 5.8 6.8 5.8h24.1c6.1-0.3 6.1-5.6 6.1-5.6v-45.7h14.8v48.3c0 17.4-14.2 16.9-14.2 16.9h-39.6c-11.9-0.4-12.9-14.2-12.9-14.2v-51h14.9z"/>
+		<path id="Layer" class="s1" d="m649.8 119.5h-40.1c-8 0.4-6.3 6.6-6.3 6.6 0.8 4 6.7 4.1 6.7 4.1l23.4 2.2c18.9 1.8 16.4 18.7 16.4 18.7 0.6 21.1-15.4 19.7-15.4 19.7h-32.6c-16.8-0.9-15.2-14-15.2-14h40.2c5.7-0.4 6.1-3.4 6.1-3.4v-3.6c-0.7-3.3-5.8-3.5-5.8-3.5l-20.8-1.9c-24.1-0.7-19.7-24.6-19.7-24.6 0.9-14.9 14.5-14.2 14.5-14.2h34.1c15.8 0.5 14.5 13.9 14.5 13.9z"/>
+		<path id="Layer" class="s1" d="m418.8 105.6h15.2v65.2h-15.2z"/>
+		<path id="Layer" class="s2" d="m21.4 0.8h72.2l31.5 72.4-50.9 99.7h-58.3l60.3-127.4-76.2 0.3z"/>
+		<path id="Layer" class="s3" d="m107.2 0.7h56.7l76.8 171.6-53 0.4-13.7-23.3-76.4-0.3 23.5-46.5h29.5z"/>
+	</g>
+	<use id="Layer 1" href="#img1" x="604" y="1"/>
+</svg>

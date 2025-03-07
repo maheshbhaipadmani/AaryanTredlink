@@ -1,0 +1,137 @@
+.sitemap-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  
+  .sitemap-title {
+    margin-bottom: 40px;
+    color: #05635D;
+    text-align: center;
+    font-weight: 700;
+  }
+  
+  .sitemap-section {
+    margin-bottom: 30px;
+  }
+  
+  .sitemap-main {
+    background-color: #05635D;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    font-weight: 600;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .sitemap-main i {
+    margin-right: 10px;
+  }
+  
+  .sitemap-main:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  }
+  
+  .sitemap-submenu {
+    background-color: #D4B46D;
+    color: #05635D;
+    padding: 12px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: 500;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .sitemap-submenu i {
+    margin-right: 8px;
+  }
+  
+  .sitemap-submenu:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  }
+  
+  .sitemap-sub-submenu {
+    background-color: #f8f9fa;
+    color: #05635D;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px solid #D4B46D;
+    text-align: center;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .sitemap-sub-submenu i {
+    margin-right: 8px;
+  }
+  
+  .sitemap-sub-submenu:hover {
+    background-color: #ffffff;
+    border-color: #05635D;
+  }
+  
+  .sitemap-arrow {
+    height: 30px;
+    position: relative;
+  }
+  
+  .sitemap-arrow::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    height: 100%;
+    width: 2px;
+    background-color: #D4B46D;
+  }
+  
+  .sitemap-row {
+    margin-bottom: 15px;
+  }
+  
+  .level-arrow {
+    position: relative;
+  }
+  
+  .level-arrow::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -15px;
+    width: 15px;
+    height: 2px;
+    background-color: #D4B46D;
+  }
+  .sitemap-container a{
+      text-decoration: none;
+  }
+
+  .sitemap-container a:hover{
+      color: inherit;
+  }
+  
+  @media (max-width: 768px) {
+    .sitemap-container {
+      padding: 20px 10px;
+    }
+    
+    .sitemap-main, .sitemap-submenu, .sitemap-sub-submenu {
+      padding: 10px 5px;
+      font-size: 14px;
+    }
+  }
