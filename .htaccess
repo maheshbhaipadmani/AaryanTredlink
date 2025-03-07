@@ -1,0 +1,32 @@
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+Header always set Content-Security-Policy "upgrade-insecure-requests"
+
+
+# Define custom error pages
+ErrorDocument 404 /error-404.html	
+
+# Rewrite rules for clean URLs
+RewriteRule ^Home$ index.php [L,NC]
+RewriteRule ^About$ about.php [L,NC]
+RewriteRule ^Contact$ contact.php [L,NC]
+RewriteRule ^Air-Conditioning$ air-conditioning.php [L,NC]
+RewriteRule ^Air-Conditioning-Repair$ air-conditioning-repair.php [L,NC]
+RewriteRule ^Air-Conditioning-Maintenance$ air-conditioning-maintenance.php [L,NC]
+RewriteRule ^Air-Conditioning-Products$ air-conditioning-products.php [L,NC]
+RewriteRule ^It-Products$ installation.php [L,NC]
+RewriteRule ^It-Products-Repair$ repair.php [L,NC]
+RewriteRule ^It-Products-Maintenance$ maintenance.php [L,NC]
+RewriteRule ^It-Products-Products$ it-products-products.php [L,NC]
+RewriteRule ^Office-Automation$ office-automation.php [L,NC]
+RewriteRule ^Office-Automation-Repair$ office-automation-repair.php [L,NC]
+RewriteRule ^Office-Automation-Maintenance$ office-automation-maintenance.php [L,NC]
+RewriteRule ^Office-Automation-Products$ office-automation-products.php [L,NC]
+RewriteRule ^Refrigeration$ refrigeration.php [L,NC]
+RewriteRule ^Refrigeration-Repair$ refrigeration-repair.php [L,NC]
+RewriteRule ^Refrigeration-Maintenance$ refrigeration-maintenance.php [L,NC]
+RewriteRule ^Refrigeration-Products$ refrigeration-products.php [L,NC]
+RewriteRule ^SiteMap$ sitemap.html [L,NC]
+
+# RewriteRule ^Natural Sesame Seeds natural-sesame-seeds.php [L]  
