@@ -22,8 +22,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-6">
                 <div class="bg-color-3 relative overflow-hidden rounded-20px mb-4 p-3 pb-4">
                     <div class="text-center">
-                        <img src="images/product/air-conditioning/main.png" class="w-80" alt="High-efficiency air conditioning system"
-                        >
+                        <img src="images/product/air-conditioning/main.png" class="w-80"
+                            alt="High-efficiency air conditioning system">
                     </div>
 
                     <div class="col-lg-12">
@@ -41,23 +41,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/misc/9.webp" class="img-fluid hover-scale-1-2" alt="Premium air conditioning unit for home and office">
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="item">
-                                    <a href="https://www.youtube.com/watch?v=frCNfh-qA7U"
-                                        class="popup-youtube d-block hover">
-                                        <div class="relative overflow-hidden rounded-10">
-                                            <div
-                                                class="absolute start-0 w-100 abs-middle fs-36 text-white text-center z-2">
-                                                <h4 class="mb-0 hover-scale-in-3"><i class="fa fa-play-circle-o"></i>
-                                                </h4>
-                                            </div>
-                                            <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
-                                            </div>
-                                            <img src="images/misc/11.webp" class="img-fluid hover-scale-1-2" alt="Cooling solutions – Air conditioning systems"
-                                            >
+                                            <img src="images/misc/9.webp" class="img-fluid hover-scale-1-2"
+                                                alt="Premium air conditioning unit for home and office">
                                         </div>
                                     </a>
                                 </div>
@@ -70,41 +55,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/misc/8.webp" class="img-fluid hover-scale-1-2" alt="High-efficiency air conditioning system">
+                                            <img src="images/misc/8.webp" class="img-fluid hover-scale-1-2"
+                                                alt="High-efficiency air conditioning system">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/misc/13.webp" class="image-popup d-block hover">
-                                        <div class="relative overflow-hidden rounded-10">
-                                            <div
-                                                class="absolute start-0 w-100 abs-middle fs-36 text-white text-center z-2">
-                                                <h4 class="mb-0 hover-scale-in-3"><i class="fa fa-search-plus"></i></h4>
-                                            </div>
-                                            <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
-                                            </div>
-                                            <img src="images/misc/13.webp" class="img-fluid hover-scale-1-2" alt="Abstract design background"
-                                            >
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="item">
-                                    <a href="https://www.youtube.com/watch?v=frCNfh-qA7U"
-                                        class="popup-youtube d-block hover">
-                                        <div class="relative overflow-hidden rounded-10">
-                                            <div
-                                                class="absolute start-0 w-100 abs-middle fs-36 text-white text-center z-2">
-                                                <h4 class="mb-0 hover-scale-in-3"><i class="fa fa-play-circle-o"></i>
-                                                </h4>
-                                            </div>
-                                            <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
-                                            </div>
-                                            <img src="images/misc/12.webp" class="img-fluid hover-scale-1-2" alt="Highlighted product display">
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="item">
-                                    <a href="images/product/air-conditioning/air-conditioner-3d-rendered-images-modern-appliance-graphics_788415-8567.avif"
+                                    <a href="images/product/air-conditioning/room-ac-1.jpg"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -113,13 +70,28 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/air-conditioning/air-conditioner-3d-rendered-images-modern-appliance-graphics_788415-8567.avif"
+                                            <img src="images/product/air-conditioning/room-ac-1.jpg"
+                                                class="img-fluid hover-scale-1-2" alt="Abstract design background">
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="item">
+                                    <a href="images/product/air-conditioning/room-ac.jpg"
+                                        class="image-popup d-block hover">
+                                        <div class="relative overflow-hidden rounded-10">
+                                            <div
+                                                class="absolute start-0 w-100 abs-middle fs-36 text-white text-center z-2">
+                                                <h4 class="mb-0 hover-scale-in-3"><i class="fa fa-search-plus"></i></h4>
+                                            </div>
+                                            <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
+                                            </div>
+                                            <img src="images/product/air-conditioning/room-ac.jpg"
                                                 class="img-fluid hover-scale-1-2" alt="UI graphic element">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/air-conditioning/cleaning-technician-inspecting-cleaning-air-vents-ducts_995578-24822.jpg"
+                                    <a href="images/product/air-conditioning/HVAC-Solutions.jpg"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -128,13 +100,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/air-conditioning/cleaning-technician-inspecting-cleaning-air-vents-ducts_995578-24822.jpg"
+                                            <img src="images/product/air-conditioning/HVAC-Solutions.jpg"
                                                 class="img-fluid hover-scale-1-2" alt="Beautiful scenic view">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/air-conditioning/man-working-roof-with-large-air-conditioner_1294094-13719.jpg"
+                                    <a href="images/product/air-conditioning/air-conditioner.jpg"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -143,8 +115,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/air-conditioning/man-working-roof-with-large-air-conditioner_1294094-13719.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="Technician working on a large air conditioning unit on a rooftop">
+                                            <img src="images/product/air-conditioning/air-conditioner.jpg"
+                                                class="img-fluid hover-scale-1-2"
+                                                alt="Technician working on a large air conditioning unit on a rooftop">
                                         </div>
                                     </a>
                                 </div>
@@ -205,81 +178,55 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="spacer-single" style="background-size: cover; background-repeat: no-repeat;">
                 </div>
             </div>
-            <div class="col-lg-12" style="background-size: cover; background-repeat: no-repeat;">
-                <div class="owl-4-dots owl-carousel owl-theme owl-loaded owl-drag"
-                    style="background-size: cover; background-repeat: no-repeat;">
-                    <div class="owl-stage-outer">
-                        <div class="owl-stage"
-                            style="transform: translate3d(-1201px, 0px, 0px); transition: all; width: 3603px;">
-                            <!-- 1.Windows AC -->
-                            <div class="owl-item cloned" style="width: 275.25px; margin-right: 25px;">
-                                <div class="item" style="background-size: cover; background-repeat: no-repeat;">
-                                    <div class="relative" style="background-size: cover; background-repeat: no-repeat;">
-                                        <img src="./images/product/air-conditioning/svg/window-ac.png"
-                                            class="w-80px mb-3" alt="air-conditioning">
-                                        <div class="relative">
-                                            <h4>Windows AC</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- 2. Split AC -->
-                            <div class="owl-item cloned" style="width: 275.25px; margin-right: 25px;">
-                                <div class="item" style="background-size: cover; background-repeat: no-repeat;">
-                                    <div class="relative" style="background-size: cover; background-repeat: no-repeat;">
-                                        <img src="./images/product/air-conditioning/svg/cooling.png" class="w-80px mb-3"
-                                            alt="cooling">
-                                        <div class="relative">
-                                            <h4>Split AC</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- 3.Cassette AC -->
-                            <div class="owl-item cloned" style="width: 275.25px; margin-right: 25px;">
-                                <div class="item" style="background-size: cover; background-repeat: no-repeat;">
-                                    <div class="relative" style="background-size: cover; background-repeat: no-repeat;">
-                                        <img src="./images/product/air-conditioning/svg/air-conditioner.png"
-                                            class="w-80px mb-3" alt="air-conditioner">
-                                        <div class="relative">
-                                            <h4>Cassette AC</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- 4. VRV/VRF Solutions -->
-                            <div class="owl-item cloned" style="width: 275.25px; margin-right: 25px;">
-                                <div class="item" style="background-size: cover; background-repeat: no-repeat;">
-                                    <div class="relative" style="background-size: cover; background-repeat: no-repeat;">
-                                        <img src="./images/product/air-conditioning/svg/refrigerator.png"
-                                            class="w-80px mb-3" alt="VRV/VRF Solutions">
-                                        <div class="relative">
-                                            <h4>VRV/VRF <br> Solutions</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- 5. HVAC Solutions Solutions -->
-                            <div class="owl-item active" style="width: 275.25px; margin-right: 25px;">
-                                <div class="item" style="background-size: cover; background-repeat: no-repeat;">
-                                    <div class="relative" style="background-size: cover; background-repeat: no-repeat;">
-                                        <img src="./images/product/air-conditioning/svg/ductwork.png"
-                                            class="w-80px mb-3" alt="HVAC Solutions Solutions">
-                                        <div class="relative">
-                                            <h4>HVAC Solutions</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+            <div class="container">
+                <div class="row">
+                    <!-- 1. Windows AC -->
+                    <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
+                        <div class="item text-center p-3 border rounded">
+                            <img src="./images/product/air-conditioning/svg/window-ac.png" class="w-80px mb-3"
+                                alt="Windows AC">
+                            <h4>Windows AC</h4>
                         </div>
                     </div>
-                    <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span
-                                aria-label="Previous">‹</span></button><button type="button" role="presentation"
-                            class="owl-next"><span aria-label="Next">›</span></button></div>
-                    <div class="owl-dots disabled"><button role="button" class="owl-dot active"><span></span></button>
+
+                    <!-- 2. Split AC -->
+                    <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
+                        <div class="item text-center p-3 border rounded">
+                            <img src="./images/product/air-conditioning/svg/cooling.png" class="w-80px mb-3"
+                                alt="Split AC">
+                            <h4>Split AC</h4>
+                        </div>
+                    </div>
+
+                    <!-- 3. Cassette AC -->
+                    <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
+                        <div class="item text-center p-3 border rounded">
+                            <img src="./images/product/air-conditioning/svg/air-conditioner.png" class="w-80px mb-3"
+                                alt="Cassette AC">
+                            <h4>Cassette AC</h4>
+                        </div>
+                    </div>
+
+                    <!-- 4. VRV/VRF Solutions -->
+                    <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
+                        <div class="item text-center p-3 border rounded">
+                            <img src="./images/product/air-conditioning/svg/refrigerator.png" class="w-80px mb-3"
+                                alt="VRV/VRF Solutions">
+                            <h4>VRV/VRF Solutions</h4>
+                        </div>
+                    </div>
+
+                    <!-- 5. HVAC Solutions -->
+                    <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
+                        <div class="item text-center p-3 border rounded">
+                            <img src="./images/product/air-conditioning/svg/ductwork.png" class="w-80px mb-3"
+                                alt="HVAC Solutions">
+                            <h4>HVAC Solutions</h4>
+                        </div>
                     </div>
                 </div>
             </div>
+
         </div>
 
     </div>

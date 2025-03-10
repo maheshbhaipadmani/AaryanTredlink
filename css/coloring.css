@@ -260,6 +260,7 @@ a.btn-line.hover,
 .de-marquee-list .d-item-block.bg-color-2,
 body::-webkit-scrollbar-thumb,#de_modal::-webkit-scrollbar-thumb{
     background: #05635D;
+    color: #ffffff !important;
 }
 
 section.dark {

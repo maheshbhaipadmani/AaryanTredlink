@@ -14,10 +14,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Product</div>
-                <h1>Office Automation</h1>
+                <h1>Office Automation Products & Solutions</h1>
                 <ul class="crumb">
                     <li><a href="Home">Home</a></li>
-                    <li class="active">Office Automation</li>
+                    <li class="active">Office Automation Products & Solutions</li>
                 </ul>
             </div>
             <div class="col-lg-6 text-lg-end">
@@ -130,12 +130,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="row g-4">
                     <div class="col-md-12 wow fadeInUp">
                         <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
-                            <img src="images/logo/1.webp" class="img-fluid px-4" alt="Company Logo 1">
-                            <img src="images/logo/2.webp" class="img-fluid px-4" alt="Company Logo 2">
-                            <img src="images/logo/3.webp" class="img-fluid px-4" alt="Company Logo 3">
-                            <img src="images/logo/4.webp" class="img-fluid px-4" alt="Company Logo 4">
-                            <img src="images/logo/5.webp" class="img-fluid px-4" alt="Company Logo 5">
-                            <img src="images/logo/6.webp" class="img-fluid px-4" alt="Company Logo 6">
+                            <img src="                           <img src="images/home/logo/3.idbi.jpg" class="img-fluid px-4" alt="Company Logo 1">" class="img-fluid px-4" alt="Company Logo 1">
+                                                        <img src="images/home/logo/6.podar-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 2">
+                                                        <img src="images/home/logo/25.cera.png" class="img-fluid px-4" alt="Company Logo 3">
+                                                        <img src="images/home/logo/20.dainikbank-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 4">
+                                                        <img src="images/home/logo/26.allabadlbank.png" class="img-fluid px-4" alt="Company Logo 5">
+                                                        <img src="images/home/logo/16.sffron-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 6">
                         </div>
                     </div>
                 </div>

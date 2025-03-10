@@ -20747,3 +20747,40 @@ img {
     width: auto;
   }
 }
+
+/* Custom CSS for menu with your colors */
+
+/* Active state styling */
+#mainmenu .menu-item.active {
+  color: #D4B46D;
+  font-weight: 700;
+  /* background-color: rgba(5, 99, 93, 0.05); */
+  border-radius: 4px;
+  position: relative;
+}
+
+/* Bottom border for active state */
+#mainmenu .menu-item.active::after {
+  content: '';
+  position: absolute;
+  bottom: 15%;
+  left: 10%;
+  width: 80%;
+  height: 2px;
+  background-color: #D4B46D;
+}
+
+/* Hover effect */
+#mainmenu .menu-item:hover {
+  color: #D4B46D;
+}
+
+#mainmenu .menu-item:hover::after {
+  content: '';
+  position: absolute;
+  bottom: 15%;
+  left: 25%;
+  width: 50%;
+  height: 2px;
+  background-color: #D4B46D;
+}

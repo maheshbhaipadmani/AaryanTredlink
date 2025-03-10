@@ -1,7 +1,7 @@
 <?php
 $page = basename($_SERVER['PHP_SELF']);
 echo
-  '
+    '
 <body>
     <div id="wrapper">
         <div class="float-text show-on-scroll">
@@ -35,7 +35,7 @@ echo
                                     </div>
 
                                     <div class="topbar-widget"><a href="javascript:void(0);"><i class="icofont-wall-clock"></i>Mon - Fri
-                                            08.00 - 18.00</a></div>
+                                            08.00 AM - 18.00 PM</a></div>
                                 </div>
 
                                 <div class="social-icons">
@@ -43,7 +43,7 @@ echo
                                     <a href="#"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
                                     <a href="#"><i class="fa-brands fa-youtube fa-lg"></i></a>
                                     <a href="#"><i class="fa-brands fa-pinterest fa-lg"></i></a>
-                                    <a href="#"><i class="fa-brands fa-instagram fa-lg"></i></a>
+                                    <a href="https://www.instagram.com/aaryantradelink.ahmedabad?igsh=MWczZWEzNmM0bXlwNg=="><i class="fa-brands fa-instagram fa-lg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -70,9 +70,15 @@ echo
                             </div>
                             <div class="de-flex-col header-col-mid">
                                 <ul id="mainmenu">
-                                    <li><a class="menu-item" href="Home">Home</a></li>
-                                    <li><a class="menu-item" href="About">About Us</a></li>
-                                    <li><a class="menu-item" href="javascript:void(0);">Products</a>
+                               <li><a class="menu-item ' ?><?php if ($page == "index.php") {
+                                    echo 'active';
+                                } ?><?php echo '" href="Home">Home</a></li>
+                                    <li><a class="menu-item ' ?><?php if ($page == "about.php") {
+                                         echo 'active';
+                                     } ?><?php echo '" href="About">About Us</a></li>
+                                    <li class=" "><a class="menu-item ' ?><?php if ($page == "refrigeration-products.php" || $page == "office-automation-products.php" || $page == "air-conditioning-products.php" || $page == "it-products-products.php") {
+                                         echo 'active';
+                                     } ?><?php echo ' " aria-current="page" href="javascript:void(0);">Products</a>
                                         <ul>
                                             <li><a class="menu-item" href="It-Products-Products">IT Products</a>
                                             </li>
@@ -84,22 +90,32 @@ echo
                                                     href="Refrigeration-Products">Refrigeration</a></li>
                                         </ul>
                                     </li>
-                                    <li><a class="menu-item" href="javascript:void(0);">Services</a>
+                                    <li><a class="menu-item ' ?><?php if ($page == "refrigeration-maintenance.php" || $page == "refrigeration-repair.php" || $page == "refrigeration.php" || $page == "office-automation-maintenance.php" || $page == "office-automation-repair.php" || $page == "office-automation.php" || $page == "maintenance.php" || $page == "air-conditioning.php" || $page == "repair.php" || $page == "air-conditioning-repair.php" || $page == "installation.php") {
+                                         echo 'active';
+                                     } ?><?php echo ' " aria-current="page" href="javascript:void(0);">Services</a>
                                         <ul>
-                                            <li><a class="menu-item" href="It-Products">IT Products</a>
+                                            <li><a class="menu-item ' ?><?php if ($page == "maintenance.php" || $page == "repair.php" || $page == "installation.php") {
+                                                 echo 'active';
+                                             } ?><?php echo ' " aria-current="page" href="It-Products">IT Products</a>
                                             </li>
-                                            <li><a class="menu-item" href="Office-Automation">Office Automation</a>
+                                            <li><a class="menu-item ' ?><?php if ($page == "office-automation-maintenance.php" || $page == "office-automation-repair.php" || $page == "office-automation.php") {
+                                                 echo 'active';
+                                             } ?><?php echo ' " href="Office-Automation">Office Automation</a>
                                             </li>
-                                            <li><a class="menu-item" href="Air-Conditioning">Air Conditioning</a>
+                                            <li><a class="menu-item ' ?><?php if ($page == "air-conditioning-maintenance.php" || $page == "air-conditioning-repair.php" || $page == "air-conditioning.php") {
+                                                 echo 'active';
+                                             } ?><?php echo '" href="Air-Conditioning">Air Conditioning</a>
                                             </li>
-                                            <li><a class="menu-item" href="Refrigeration">Refrigeration</a></li>
+                                            <li><a class="menu-item ' ?><?php if ($page == "refrigeration-maintenance.php" || $page == "refrigeration-repair.php" || $page == "refrigeration.php") {
+                                                 echo 'active';
+                                             } ?><?php echo '" href="Refrigeration">Refrigeration</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </div>
                             <div class="de-flex-col">
                                 <div class="menu_side_area">
-                                    <a href="Contact" class="btn-main bg-color-2">Contact</a>
+                                    <a href="Contact" class="btn-main bg-color-2">Contact Us</a>
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>
@@ -115,4 +131,4 @@ echo
             <div id="top"></div>
 
 '
-                  ?>
+                                                  ?>

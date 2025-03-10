@@ -98,7 +98,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-4">
                             <h4>Our Office</h4>
                             <div class="img-with-cap mb20">
-                                <div class="d-title">Mon - Fri 08.00 - 18.00</div>
+                                <div class="d-title">Mon - Fri 08.00 AM - 18.00 PM</div>
                                 <div class="d-overlay"></div>
                                 <img src="images/misc/5.webp" class="img-fullwidth rounded-1" alt="misc 5">
                             </div>

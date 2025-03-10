@@ -16,7 +16,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="swiper-wrapper">
                 <!-- Efficient Refrigeration -->
                 <div class="swiper-slide">
-                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/commercial-refrigeration.jpg)">
+                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/2.webp)">
                         <div class="sw-caption">
                             <div class="container">
                                 <div class="row gx-5 align-items-center">
@@ -159,7 +159,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 <!-- Cooling & Comfort -->
                 <div class="swiper-slide">
-                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/2.webp)">
+                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/commercial-refrigeration.jpg)">
                         <div class="sw-caption">
                             <div class="container">
                                 <div class="row gx-5 align-items-center">
@@ -372,7 +372,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 <!-- counter -->
 <section class="bg-color text-light section-dark jarallax">
-    <img src="images/background/4.webp" class="jarallax-img" alt="jarallax-img">
+    <img src="images/background/4.jpg" class="jarallax-img" alt="jarallax-img">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 offset-lg-3 text-center">
@@ -830,90 +830,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
 </section>
 <!-- faq -->
 
-<section class="bg-color-3">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 offset-lg-3 text-center">
-                <div class="subtitle bg-color-2 text-white wow fadeInUp mb-3">Top 6 Reasons</div>
-                <h2 class="wow fadeInUp" data-wow-delay=".2s">Why Choose Us</h2>
-                <p class="lead wow fadeInUp">Qui culpa qui consequat officia cillum quis irure aliquip ut
-                    dolore sit eu culpa ut irure nisi occaecat dolore adipisicing do pariatur.</p>
-                <div class="spacer-single"></div>
-            </div>
-        </div>
-        <div class="row g-4">
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".0s">
-                <div>
-                    <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                    <div class="pl-80">
-                        <h4>Expert Technicians</h4>
-                        <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                            peace of mind for your HVAC needs.</p>
-                    </div>
-                </div>
-            </div>
 
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
-                <div>
-                    <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                    <div class="pl-80">
-                        <h4>Flexible Scheduling</h4>
-                        <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                            peace of mind for your HVAC needs.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".4s">
-                <div>
-                    <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                    <div class="pl-80">
-                        <h4>Transparent Pricing</h4>
-                        <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                            peace of mind for your HVAC needs.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
-                <div>
-                    <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                    <div class="pl-80">
-                        <h4>Quality Parts</h4>
-                        <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                            peace of mind for your HVAC needs.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
-                <div>
-                    <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                    <div class="pl-80">
-                        <h4>Emergency Services</h4>
-                        <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                            peace of mind for your HVAC needs.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="1s">
-                <div>
-                    <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                    <div class="pl-80">
-                        <h4>Satisfaction Guarantee</h4>
-                        <p class="mb-0">Trust us to deliver reliable solutions and exceptional service, and
-                            peace of mind for your HVAC needs.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="spacer-double"></div>
-        </div>
-    </div>
-</section>
-
-<section class="no-top mt-100">
+<!-- <section class="no-top mt-100">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -937,7 +855,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- CTA -->
 <section class="no-top relative">

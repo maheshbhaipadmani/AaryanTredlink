@@ -218,7 +218,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="bg-color-3 relative hover overflow-hidden rounded-20px">
                                 <div class="text-center py-3">
                                     <img src="images/products/1.webp" class="w-80" alt="products1">
-                                    <h4>AeroChill</h4>
+                                    <!-- <h4>AeroChill</h4> -->
                                 </div>
                             </div>
                         </div>
@@ -247,7 +247,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <!-- What We Offer -->
 
             <!-- Our Team -->
-            <section class="no-top">
+            <!-- <section class="no-top">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
@@ -337,7 +337,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- Our Team -->
 
             <!-- Our Valued Clients -->

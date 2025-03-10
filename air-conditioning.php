@@ -141,7 +141,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="row g-4">
                                 <div class="col-md-12 wow fadeInUp">
                                     <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
-                                    <img src="images/logo/1.webp" class="img-fluid px-4" alt="Aaryan Tradelink Official Logo - Version 1">
+                                    <img src="                           <img src="images/home/logo/3.idbi.jpg" class="img-fluid px-4" alt="Company Logo 1">" class="img-fluid px-4" alt="Aaryan Tradelink Official Logo - Version 1">
                                     <img src="images/logo/2.webp" class="img-fluid px-4" alt="Aaryan Tradelink Business Logo - Version 2">
                                     <img src="images/logo/3.webp" class="img-fluid px-4" alt="Aaryan Tradelink Corporate Branding - Logo 3">
                                     <img src="images/logo/4.webp" class="img-fluid px-4" alt="Aaryan Tradelink Company Identity - Logo 4">

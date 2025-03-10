@@ -52,31 +52,31 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="col-lg-12">
                                     <div class="bg-color p-4 py-5 rounded-20px mb-2 text-center">
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn" data-wow-delay=".0s">
-                                            <img src="images/logo/1.webp" class="img-fluid">
+                                            <img src="./images/home/logo/2.ajanta.jpg" class="img-fluid">
                                         </div>
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn" data-wow-delay=".2s">
-                                            <img src="images/logo/2.webp" class="img-fluid">
+                                            <img src="images/home/logo/17.gtu-removebg-preview.png" class="img-fluid">
                                         </div>
 
                                         <div class="mb-2 sm-hide"></div>
 
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn" data-wow-delay=".4s">
-                                            <img src="images/logo/3.webp" class="img-fluid">
+                                            <img src="images/home/logo/13.sr-removebg-preview.png" class="img-fluid">
                                         </div>
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn" data-wow-delay=".6s">
-                                            <img src="images/logo/4.webp" class="img-fluid">
+                                                                                        <img src="images/home/logo/14.torrento.png" class="img-fluid">
                                         </div>
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn" data-wow-delay=".8s">
-                                            <img src="images/logo/5.webp" class="img-fluid">
+                                                                                        <img src="images/home/logo/15.canarabank-removebg-preview.png" class="img-fluid">
                                         </div>
 
                                         <div class="mb-2 sm-hide"></div>
 
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn" data-wow-delay="1s">
-                                            <img src="images/logo/6.webp" class="img-fluid">
+                                            <img src="images/home/logo/27.aeroneron-composite-private-limited-satellite-ahmedabad-cable-tray-manufacturers-xpy6k1x5u5.png" class="img-fluid">
                                         </div>
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn" data-wow-delay="1.2s">
-                                            <img src="images/logo/1.webp" class="img-fluid">
+                                            <img src="./images/home/logo/18.jbmgrou_-removebg-preview.png" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
