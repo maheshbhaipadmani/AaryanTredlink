@@ -159,7 +159,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="row g-4">
                                 <div class="col-md-12 wow fadeInUp">
                                     <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
-                                        <img src="                           <img src="images/home/logo/3.idbi.jpg" class="img-fluid px-4" alt="Company Logo 1">" class="img-fluid px-4" alt="Company Logo 1">
                             <img src="images/home/logo/6.podar-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 2">
                             <img src="images/home/logo/25.cera.png" class="img-fluid px-4" alt="Company Logo 3">
                             <img src="images/home/logo/20.dainikbank-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 4">

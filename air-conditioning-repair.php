@@ -156,17 +156,20 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="spacer-double"></div>
 
                             <div class="row g-4">
-                                <div class="col-md-12 wow fadeInUp">
-                                    <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
-                                    <img src="                           <img src="images/home/logo/3.idbi.jpg" class="img-fluid px-4" alt="Company Logo 1">" class="img-fluid px-4" alt="Company Logo 1 - Aaryan Tradelink">
-                                     <img src="images/logo/2.webp" class="img-fluid px-4" alt="Company Logo 2 - Aaryan Tradelink">
-                                     <img src="images/logo/3.webp" class="img-fluid px-4" alt="Company Logo 3 - Aaryan Tradelink">
-                                     <img src="images/logo/4.webp" class="img-fluid px-4" alt="Company Logo 4 - Aaryan Tradelink">
-                                     <img src="images/logo/5.webp" class="img-fluid px-4" alt="Company Logo 5 - Aaryan Tradelink">
-                                     <img src="images/logo/6.webp" class="img-fluid px-4" alt="Company Logo 6 - Aaryan Tradelink">
-                                    </div>
-                                </div>
-                            </div>
+                    <div class="col-md-12 wow fadeInUp">
+                        <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
+                            <img src="images/home/logo/6.podar-removebg-preview.png" class="img-fluid px-4"
+                                alt="Company Logo 2">
+                            <img src="images/home/logo/25.cera.png" class="img-fluid px-4" alt="Company Logo 3">
+                            <img src="images/home/logo/20.dainikbank-removebg-preview.png" class="img-fluid px-4"
+                                alt="Company Logo 4">
+                            <img src="images/home/logo/26.allabadlbank.png" class="img-fluid px-4" alt="Company Logo 5">
+                            <img src="images/home/logo/16.sffron-removebg-preview.png" class="img-fluid px-4"
+                                alt="Company Logo 6">
+
+                        </div>
+                    </div>
+                </div>  
 
                         </div>
                     </div>
