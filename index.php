@@ -335,37 +335,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </div>
 
         <div class="spacer-double"></div>
-
-        <div class="row gx-5">
-            <div class="col-lg-2 col-6">
-                <img src="images/awards/1.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay=".0s"
-                    alt="Aaryan Tradelink Excellence Award 1">
-            </div>
-
-            <div class="col-lg-2 col-6">
-                <img src="images/awards/2.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay=".2s"
-                    alt="Aaryan Tradelink Business Achievement Award 2">
-            </div>
-
-            <div class="col-lg-2 col-6">
-                <img src="images/awards/3.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay=".4s"
-                    alt="Aaryan Tradelink Industry Recognition Award 3">
-            </div>
-
-            <div class="col-lg-2 col-6">
-                <img src="images/awards/4.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay=".6s"
-                    alt="Aaryan Tradelink Best Service Award 4">
-            </div>
-            <div class="col-lg-2 col-6">
-                <img src="images/awards/5.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay=".8s"
-                    alt="Aaryan Tradelink Best Service Award 5">
-            </div>
-
-            <div class="col-lg-2 col-6">
-                <img src="images/awards/6.webp" class="p-2 img-fluid wow scaleIn" data-wow-delay="1s"
-                    alt="Aaryan Tradelink Best Service Award 6">
-            </div>
-        </div>
     </div>
 </section>
 <!-- About Aaryan Tradelink -->
