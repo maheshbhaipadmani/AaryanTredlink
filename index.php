@@ -550,8 +550,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-12 text-center">
                             <div class="bg-color-3 px-4 pt30 pb10 rounded-10 wow fadeInRight">
                                 <div class="de_count">
-                                    <h3><span class="timer" data-to="4000" data-speed="3000"></span>%</h3>
-                                    <h4>Customer Satisfication</h4>
+                                    <h3><span class="timer" data-to="4000" data-speed="3000"></span>+</h3>
+                                    <h4>Satisfied Customer </h4>
                                 </div>
                             </div>
                         </div>
