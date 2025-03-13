@@ -76,35 +76,44 @@ echo
                                          echo 'active';
                                      } ?><?php echo ' " aria-current="page" href="javascript:void(0);">Products</a>
                                         <ul>
-                                            <li><a class="menu-item" href="It-Products-Products">IT Products</a>
-                                            </li>
-                                            <li><a class="menu-item" href="Office-Automation-Products">Office
-                                                    Automation</a></li>
-                                            <li><a class="menu-item" href="Air-Conditioning-Products">Air
+                                         <li><a class="menu-item"
+                                                    href="Refrigeration-Products ' ?><?php if ($page == "refrigeration-products.php") {
+                                                 echo 'active';
+                                             } ?><?php echo '">Refrigeration</a></li>
+                                            <li><a class="menu-item ' ?><?php if ($page == "air-conditioning-products.php") {
+                                                 echo 'active';
+                                             } ?><?php echo '" href="Air-Conditioning-Products">Air
                                                     Conditioning</a></li>
-                                            <li><a class="menu-item"
-                                                    href="Refrigeration-Products">Refrigeration</a></li>
+                                            <li><a class="menu-item ' ?><?php if ($page == "office-automation-products.php") {
+                                                 echo 'active';
+                                             } ?><?php echo '" href="Office-Automation-Products">Office
+                                                    Automation</a></li>
+                                            
+                                           <li><a class="menu-item ' ?><?php if ($page == "it-products-products.php") {
+                                                 echo 'active';
+                                             } ?><?php echo '" href="It-Products-Products">IT Products</a>
+                                            </li>
                                         </ul>
                                     </li>
                                     <li><a class="menu-item ' ?><?php if ($page == "refrigeration-maintenance.php" || $page == "refrigeration-repair.php" || $page == "refrigeration.php" || $page == "office-automation-maintenance.php" || $page == "office-automation-repair.php" || $page == "office-automation.php" || $page == "maintenance.php" || $page == "air-conditioning.php" || $page == "repair.php" || $page == "air-conditioning-repair.php" || $page == "installation.php") {
                                          echo 'active';
                                      } ?><?php echo ' " aria-current="page" href="javascript:void(0);">Services</a>
                                         <ul>
-                                            <li><a class="menu-item ' ?><?php if ($page == "maintenance.php" || $page == "repair.php" || $page == "installation.php") {
+                                            <li><a class="menu-item ' ?><?php if ($page == "refrigeration-maintenance.php" || $page == "refrigeration-repair.php" || $page == "refrigeration.php") {
                                                  echo 'active';
-                                             } ?><?php echo ' " aria-current="page" href="It-Products">IT Products</a>
+                                             } ?><?php echo '" href="Refrigeration">Refrigeration</a></li>
+                                              <li><a class="menu-item ' ?><?php if ($page == "air-conditioning-maintenance.php" || $page == "air-conditioning-repair.php" || $page == "air-conditioning.php") {
+                                                 echo 'active';
+                                             } ?><?php echo '" href="Air-Conditioning">Air Conditioning</a>
                                             </li>
                                             <li><a class="menu-item ' ?><?php if ($page == "office-automation-maintenance.php" || $page == "office-automation-repair.php" || $page == "office-automation.php") {
                                                  echo 'active';
                                              } ?><?php echo ' " href="Office-Automation">Office Automation</a>
                                             </li>
-                                            <li><a class="menu-item ' ?><?php if ($page == "air-conditioning-maintenance.php" || $page == "air-conditioning-repair.php" || $page == "air-conditioning.php") {
+                                              <li><a class="menu-item ' ?><?php if ($page == "maintenance.php" || $page == "repair.php" || $page == "installation.php") {
                                                  echo 'active';
-                                             } ?><?php echo '" href="Air-Conditioning">Air Conditioning</a>
+                                             } ?><?php echo ' " aria-current="page" href="It-Products">IT Products</a>
                                             </li>
-                                            <li><a class="menu-item ' ?><?php if ($page == "refrigeration-maintenance.php" || $page == "refrigeration-repair.php" || $page == "refrigeration.php") {
-                                                 echo 'active';
-                                             } ?><?php echo '" href="Refrigeration">Refrigeration</a></li>
                                         </ul>
                                     </li>
                                     <li><a class="menu-item mobile-btn-show d-none' ?><?php if ($page == "contact.php") {

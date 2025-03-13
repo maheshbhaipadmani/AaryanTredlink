@@ -34,10 +34,10 @@ echo
                                 <div class="widget">
                                     <h5>Our Services</h5>
                                     <ul>
+                                    <li><a href="Refrigeration">Refrigeration </a></li>
+                                    <li><a href="Air-Conditioning"> Air Conditioning</a></li>
+                                    <li><a href="Office-Automation">Office Automation</a></li>
                                         <li><a href="It-Products">IT Products</a></li>
-                                        <li><a href="Refrigeration">Refrigeration </a></li>
-                                        <li><a href="Air-Conditioning"> Air Conditioning</a></li>
-                                        <li><a href="Office-Automation">Office Automation</a></li>
                                     </ul>
                                 </div>
                             </div>

@@ -417,6 +417,53 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         excellence with every solution.</p>
                 </div>
             </div>
+            <!-- Air Conditioning & HVAC -->
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
+                <div class="rounded-20px overflow-hidden">
+                    <div class="relative">
+                        <img src="images/misc/services-1.webp" class="img-fluid" alt="services">
+                    </div>
+                    <div class="padding40 bg-color-3">
+                        <h4>Air Conditioning & HVAC</h4>
+                        <p class="no-bottom">Expert solutions for AC installation, maintenance, and HVAC
+                            systems for residential & commercial spaces. </p>
+                        <div class="spacer-20"></div>
+                        <a class="btn-main btn-light-trans" href="It-Products-Repair">Read more</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Office Automation -->
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".4s">
+                <div class="rounded-20px overflow-hidden">
+                    <div class="padding40 bg-color-3">
+                        <h4>Office Automation</h4>
+                        <p class="no-bottom">Enhancing productivity with printers, copiers, and document
+                            management solutions.</p>
+                        <div class="spacer-20"></div>
+                        <a class="btn-main btn-light-trans" href="It-Products-Maintenance">Read more</a>
+                    </div>
+                    <div class="relative">
+                        <img src="./images/home/services/office-printer.jpg" class="img-fluid" alt="office-printer">
+                    </div>
+                </div>
+
+            </div>
+            <!-- Refrigeration Solutions -->
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
+                <div class="rounded-20px overflow-hidden">
+                    <div class="relative">
+                        <img src="./images/home/services/commercial-refrigeration.jpg" class="img-fluid"
+                            alt="commercial refrigeration">
+                    </div>
+                    <div class="padding40 bg-color-3">
+                        <h4>Refrigeration Solutions</h4>
+                        <p class="no-bottom">Reliable commercial and industrial refrigeration systems for
+                            long-lasting performance. </p>
+                        <div class="spacer-20"></div>
+                        <a class="btn-main btn-light-trans" href="It-Products-Repair">Read more</a>
+                    </div>
+                </div>
+            </div>
             <!-- IT Products & Solutions -->
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="0s">
                 <div class="rounded-20px overflow-hidden">
@@ -465,54 +512,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
 
             </div>
-            <!-- Air Conditioning & HVAC -->
-            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
-                <div class="rounded-20px overflow-hidden">
-                    <div class="relative">
-                        <img src="images/misc/services-1.webp" class="img-fluid" alt="services">
-                    </div>
-                    <div class="padding40 bg-color-3">
-                        <h4>Air Conditioning & HVAC</h4>
-                        <p class="no-bottom">Expert solutions for AC installation, maintenance, and HVAC
-                            systems for residential & commercial spaces. </p>
-                        <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="It-Products-Repair">Read more</a>
-                    </div>
-                </div>
-            </div>
-            <!-- Office Automation -->
-            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".4s">
-                <div class="rounded-20px overflow-hidden">
-                    <div class="padding40 bg-color-3">
-                        <h4>Office Automation</h4>
-                        <p class="no-bottom">Enhancing productivity with printers, copiers, and document
-                            management solutions.</p>
-                        <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="It-Products-Maintenance">Read more</a>
-                    </div>
-                    <div class="relative">
-                        <img src="./images/home/services/office-printer.jpg" class="img-fluid" alt="office-printer">
-                    </div>
-                </div>
-
-            </div>
-            <!-- Refrigeration Solutions -->
-            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
-                <div class="rounded-20px overflow-hidden">
-                    <div class="relative">
-                        <img src="./images/home/services/commercial-refrigeration.jpg" class="img-fluid"
-                            alt="commercial refrigeration">
-                    </div>
-                    <div class="padding40 bg-color-3">
-                        <h4>Refrigeration Solutions</h4>
-                        <p class="no-bottom">Reliable commercial and industrial refrigeration systems for
-                            long-lasting performance. </p>
-                        <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="It-Products-Repair">Read more</a>
-                    </div>
-                </div>
-            </div>
-
         </div>
     </div>
 </section>
