@@ -130,16 +130,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                     </div>
 
-                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="1s">
-                        <div>
-                            <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
-                            <div class="pl-80">
-                                <h4>Satisfaction Guarantee</h4>
-                                <p class="mb-0">Reliable solutions with a commitment to customer satisfaction.</p>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
 
                 <div class="spacer-double"></div>
