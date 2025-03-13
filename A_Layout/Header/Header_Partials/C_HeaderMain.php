@@ -63,7 +63,7 @@ echo
                                             alt="aaryan logo">
                                         <img class="logo-scroll" src="./images/logo/Aaryan Tredlink _Finle logo.png"
                                             alt="aaryan logo">
-                                        <img class="logo-mobile" src="images/logo.webp" alt="logo">
+                                        <img class="logo-mobile" src="images/logo/favicon-logo.png" alt="logo">
                                     </a>
                                 </div>
                                 <!-- logo close -->
@@ -111,6 +111,9 @@ echo
                                              } ?><?php echo '" href="Refrigeration">Refrigeration</a></li>
                                         </ul>
                                     </li>
+                                    <li><a class="menu-item mobile-btn-show d-none' ?><?php if ($page == "index.php") {
+                                    echo 'active';
+                                } ?><?php echo '" href="Contact">Contact Us</a></li>
                                 </ul>
                             </div>
                             <div class="de-flex-col">

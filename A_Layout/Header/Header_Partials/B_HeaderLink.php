@@ -11,7 +11,9 @@ echo
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
     <link id="colors" href="css/sitemap.css" rel="stylesheet" type="text/css">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+    <!-- Load non-critical CSS asynchronously -->
+
+
 </head>
 
 '

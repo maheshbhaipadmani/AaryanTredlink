@@ -42,17 +42,17 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="row g-5">
                         <div class="col-lg-3">
                             <a href="Office-Automation"
-                                class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative">
-                                <h4 class="mb-0">About Us</h4><i
-                                    class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i>
+                                class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
+                                <h4 class="mb-0">About Us</h4>
                             </a>
                             <a href="Office-Automation-Repair"
                                 class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
                                 <h4 class="mb-0">Repair</h4>
                             </a>
                             <a href="Office-Automation-Maintenance"
-                                class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
+                                class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative">
                                 <h4 class="mb-0">Maintenance</h4>
+                                <i class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i>
                             </a>
                         </div>
 
@@ -66,7 +66,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="bg-color p-4 py-5 rounded-20px mb-2 text-center">
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                             data-wow-delay=".0s">
-                                            <img src="./images/home/logo/1.virgo.jpg" alt="" class="img-fluid">
+                                            <img src="./images/home/logo/1.virgo.jpg" alt="virgo" class="img-fluid">
                                         </div>
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                             data-wow-delay=".2s">

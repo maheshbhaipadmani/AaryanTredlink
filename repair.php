@@ -41,12 +41,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-3">
-                <a href="It-Products" class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative">
-                    <h4 class="mb-0">About Us</h4><i
-                        class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i>
+                <a href="It-Products" class="bg-color-3  d-block p-3 px-4 rounded-10px mb-3 ">
+                    <h4 class="mb-0">About Us</h4>
                 </a>
-                <a href="It-Products-Repair" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
+               <a href="It-Products-Repair" class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative">
                     <h4 class="mb-0">Repair</h4>
+                    <i class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i>
                 </a>
                 <a href="It-Products-Maintenance" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
                     <h4 class="mb-0">Maintenance</h4>

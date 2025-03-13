@@ -42,13 +42,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="row g-5">
                         <div class="col-lg-3">
                             <a href="Office-Automation"
-                                class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative">
-                                <h4 class="mb-0">About Us</h4><i
-                                    class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i>
+                                class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
+                                <h4 class="mb-0">About Us</h4>
                             </a>
                             <a href="Office-Automation-Repair"
-                                class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
+                                class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative">
                                 <h4 class="mb-0">Repair</h4>
+                                <i class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i>
                             </a>
                             <a href="Office-Automation-Maintenance"
                                 class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">

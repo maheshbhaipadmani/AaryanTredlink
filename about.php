@@ -71,7 +71,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </span>
                                             </div>
                                             <span class="fs-14 mb-0">185 reviews</span>
-                                            <img src="images/misc/trustpilot-invert.webp" class="w-100px" alt="reviews">
+                                            <img src="./images/logo/trustpilot-invert.webp" class="w-100px" alt="reviews">
                                         </div>
                                     </div>
                                 </div>

@@ -39,9 +39,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="container">
                     <div class="row g-5">
                         <div class="col-lg-3">
-                            <a href="Refrigeration" class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative"><h4 class="mb-0">About Us</h4><i class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i></a>
+                            <a href="Refrigeration" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3 relative"><h4 class="mb-0">About Us</h4><i class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i></a>
                             <a href="Refrigeration-Repair" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3"><h4 class="mb-0">Repair</h4></a>
-                            <a href="Refrigeration-Maintenance" class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3"><h4 class="mb-0">Maintenance</h4></a>
+                            <a href="Refrigeration-Maintenance" class="bg-color-2 text-light relative d-block p-3 px-4 rounded-10px mb-3"><h4 class="mb-0">Maintenance</h4>                                 <i class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i>
+                            </a>
                         </div>
 
                         <div class="col-lg-9">

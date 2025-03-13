@@ -152,10 +152,10 @@ body.boxed {
   border: solid 1px var(--eee-color);
 }
 
-body .owl-stage .owl-item {
+/* body .owl-stage .owl-item {
   margin-bottom: 15px;
 
-}
+} */
 
 #wrapper {
   position: relative;
@@ -9113,7 +9113,9 @@ h4.de-timeline-year {
     right: unset;
     top: 0;
   }
-
+  .mobile-btn-show{
+    display: block !important;
+  }
   .single-timeline:nth-child(2n) .timeline-text {
     padding-left: 30px;
     padding-right: 0;
@@ -14038,9 +14040,9 @@ body.dark-scheme::-webkit-scrollbar-track,
   direction: ltr;
 }
 
-.rtl .owl-carousel .owl-item {
+/* .rtl .owl-carousel .owl-item {
   direction: rtl;
-}
+} */
 
 #item-carousel-big {
   padding: 0 25px;
@@ -14606,11 +14608,11 @@ i.big {
   margin: 30px 0 30px 0;
 }
 
-.owl-item.active.center .feature-box-type-2,
+/* .owl-item.active.center .feature-box-type-2,
 .owl-item.active.center .feature-box-type-2 h4,
 .owl-item.active.center .feature-box-type-2 i {
   color: var(--bg-white);
-}
+} */
 
 .owl-thumbs img {
   padding: 3px;
@@ -16111,7 +16113,7 @@ border-radius:30px;
   background: rgba(255, 255, 255, .2);
 }
 
-.owl-item.active div blockquote {
+/* .owl-item.active div blockquote {
   position: relative;
   overflow: hidden;
 }
@@ -16119,7 +16121,7 @@ border-radius:30px;
 .owl-item.active div blockquote,
 .owl-item.active div blockquote .de_testi_by {
   opacity: 1;
-}
+} */
 
 .owl-stage {
   overflow: none;
@@ -19986,7 +19988,7 @@ img {
   header.header-mobile #mainmenu>li>span {
     width: 36px;
     height: 36px;
-    background: url(../images/ui/arrow-down-light.png) center no-repeat;
+    background: url(../images/ui/arrow-down.png) center no-repeat;
     position: absolute;
     right: 0;
     margin-top: 10px;
@@ -19995,15 +19997,15 @@ img {
   }
 
   .dark-scheme header.header-mobile #mainmenu>li>span {
-    background: url(../images/ui/arrow-down-light.png) center no-repeat;
+    background: url(../images/ui/arrow-down.png) center no-repeat;
   }
 
   header.header-mobile #mainmenu li span.active {
-    background: url(../images/ui/arrow-up-light.png) center no-repeat;
+    background: url(../images/ui/arrow-up.png) center no-repeat;
   }
 
   .dark-scheme header.header-mobile #mainmenu li span.active {
-    background: url(../images/ui/arrow-up-light.png) center no-repeat;
+    background: url(../images/ui/arrow-up.png) center no-repeat;
   }
 
   header.header-mobile #mainmenu li>ul>li>span {
@@ -20336,6 +20338,7 @@ img {
 
   header .logo-mobile {
     display: block;
+    width: 15%;
   }
 
   header .btn-main{
@@ -20573,7 +20576,7 @@ img {
   }
 
   h2{
-    font-size: 36px;
+    font-size: 30px;
     letter-spacing: -1.25px;
   }
 
@@ -20783,4 +20786,8 @@ img {
   width: 50%;
   height: 2px;
   background-color: #D4B46D;
+}
+.installation-active.active{
+  background: #05635D;
+  color: #ffffff !important;
 }
