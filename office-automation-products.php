@@ -175,12 +175,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
     <div class="container" style="background-size: cover; background-repeat: no-repeat;">
         <div class="row" style="background-size: cover; background-repeat: no-repeat;">
             <div class="col-lg-6 offset-lg-3 text-center" style="background-size: cover; background-repeat: no-repeat;">
-                <div class="subtitle bg-white wow fadeInUp mb-3 animated"
-                    style="background-size: cover; background-repeat: no-repeat; visibility: visible; animation-name: fadeInUp;">
-                    Our Guiding Principles</div>
                 <h2 class="wow fadeInUp animated" data-wow-delay=".2s"
-                    style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Business
-                    IT Essentials</h2>
+                    style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Our Products</h2>
                 <div class="spacer-single" style="background-size: cover; background-repeat: no-repeat;">
                 </div>
             </div>
