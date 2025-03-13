@@ -13,11 +13,7 @@ echo
                             solutions with expert support.</p>
 
                         <div class="social-icons mb-sm-30">
-                            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                            <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                            <a href="#"><i class="fa-brands fa-discord"></i></a>
-                            <a href="#"><i class="fa-brands fa-tiktok"></i></a>
-                            <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                            <a href="https://www.instagram.com/aaryantradelink.ahmedabad?igsh=MWczZWEzNmM0bXlwNg=="><i class="fa-brands fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-12 order-lg-1 order-sm-2">

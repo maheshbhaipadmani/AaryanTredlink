@@ -294,8 +294,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <!-- Text -->
                 <div class="col-lg-5 offset-lg-7 py-5 pe-lg-5">
                     <div class="spacer-double sm-hide"></div>
-                    <h3>Stay cool and comfortable year-round with energy-efficient, smart air conditioning
-                        designed for ultimate performance, reliability, and effortless climate control.</h3>
+                    <h3>Enhance efficiency and performance year-round with smart IT solutions designed for reliability, security, and seamless operation. </h3>
                     <div class="spacer-double sm-hide"></div>
                 </div>
             </div>

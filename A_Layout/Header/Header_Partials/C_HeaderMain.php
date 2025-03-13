@@ -39,10 +39,6 @@ echo
                                 </div>
 
                                 <div class="social-icons">
-                                    <a href="#"><i class="fa-brands fa-facebook fa-lg"></i></a>
-                                    <a href="#"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
-                                    <a href="#"><i class="fa-brands fa-youtube fa-lg"></i></a>
-                                    <a href="#"><i class="fa-brands fa-pinterest fa-lg"></i></a>
                                     <a href="https://www.instagram.com/aaryantradelink.ahmedabad?igsh=MWczZWEzNmM0bXlwNg=="><i class="fa-brands fa-instagram fa-lg"></i></a>
                                 </div>
                             </div>
@@ -63,7 +59,7 @@ echo
                                             alt="aaryan logo">
                                         <img class="logo-scroll" src="./images/logo/Aaryan Tredlink _Finle logo.png"
                                             alt="aaryan logo">
-                                        <img class="logo-mobile" src="images/logo/favicon-logo.png" alt="logo">
+                                        <img class="logo-mobile" src="./images/logo/Aaryan Tredlink _Finle logo.png" alt="logo">
                                     </a>
                                 </div>
                                 <!-- logo close -->

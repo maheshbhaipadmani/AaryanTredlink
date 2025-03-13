@@ -8,6 +8,15 @@ $MetaKeywords = "Aaryan Tradelink, IT products, office automation, air condition
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
+<!-- <a href="#"><i class="fa-brands fa-facebook fa-lg"></i></a>
+                                    <a href="#"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
+                                    <a href="#"><i class="fa-brands fa-youtube fa-lg"></i></a>
+                                    <a href="#"><i class="fa-brands fa-pinterest fa-lg"></i></a>
+                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                            <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                            <a href="#"><i class="fa-brands fa-discord"></i></a>
+                            <a href="#"><i class="fa-brands fa-tiktok"></i></a>
+                            <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
 
 <section class="section-dark text-light no-top no-bottom position-relative overflow-hidden z-1000">
     <div class="v-center">
@@ -48,8 +57,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Expert Technicians</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional
-                                                    service.</p>
+                                                <p>Skilled professionals ensuring top-quality products and services.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -61,8 +69,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Flexible Scheduling</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional
-                                                    service.</p>
+                                                <p>Honest and competitive pricing with no hidden costs.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -74,8 +81,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Transparent Pricing</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional
-                                                    service.</p>
+                                                <p>Convenient and reliable services tailored to your needs.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -121,7 +127,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Expert Technicians</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional service.</p>
+                                                <p>Skilled professionals ensuring top-quality products and services.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -133,7 +139,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Flexible Scheduling</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional service.</p>
+                                                <p>Honest and competitive pricing with no hidden costs.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -145,7 +151,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Transparent Pricing</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional service.</p>
+                                                <p>Convenient and reliable services tailored to your needs.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -191,7 +197,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Expert Technicians</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional service.</p>
+                                                <p>Skilled professionals ensuring top-quality products and services.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -203,7 +209,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Flexible Scheduling</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional service.</p>
+                                                <p>Honest and competitive pricing with no hidden costs.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -215,7 +221,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Transparent Pricing</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional service.</p>
+                                                <p>Convenient and reliable services tailored to your needs.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -262,7 +268,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Expert Technicians</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional service.</p>
+                                                <p>Skilled professionals ensuring top-quality products and services.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -274,7 +280,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Flexible Scheduling</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional service.</p>
+                                                <p>Honest and competitive pricing with no hidden costs.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -286,7 +292,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Transparent Pricing</h4>
-                                                <p>Trust us to deliver reliable solutions, exceptional service.</p>
+                                                <p>Convenient and reliable services tailored to your needs.</p>
                                             </div>
                                         </div>
                                     </div>
