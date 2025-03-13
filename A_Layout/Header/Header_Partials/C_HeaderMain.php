@@ -111,7 +111,7 @@ echo
                                              } ?><?php echo '" href="Refrigeration">Refrigeration</a></li>
                                         </ul>
                                     </li>
-                                    <li><a class="menu-item mobile-btn-show d-none' ?><?php if ($page == "index.php") {
+                                    <li><a class="menu-item mobile-btn-show d-none' ?><?php if ($page == "contact.php") {
                                     echo 'active';
                                 } ?><?php echo '" href="Contact">Contact Us</a></li>
                                 </ul>
