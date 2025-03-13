@@ -428,7 +428,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p class="no-bottom">Expert solutions for AC installation, maintenance, and HVAC
                             systems for residential & commercial spaces. </p>
                         <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="It-Products-Repair">Read more</a>
+                        <a class="btn-main btn-light-trans" href="Air-Conditioning">Read more</a>
                     </div>
                 </div>
             </div>
@@ -440,7 +440,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p class="no-bottom">Enhancing productivity with printers, copiers, and document
                             management solutions.</p>
                         <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="It-Products-Maintenance">Read more</a>
+                        <a class="btn-main btn-light-trans" href="Office-Automation">Read more</a>
                     </div>
                     <div class="relative">
                         <img src="./images/home/services/office-printer.jpg" class="img-fluid" alt="office-printer">
@@ -460,7 +460,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p class="no-bottom">Reliable commercial and industrial refrigeration systems for
                             long-lasting performance. </p>
                         <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="It-Products-Repair">Read more</a>
+                        <a class="btn-main btn-light-trans" href="Refrigeration">Read more</a>
                     </div>
                 </div>
             </div>
@@ -492,7 +492,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p class="no-bottom">Seamless networking infrastructure, structured cabling, and
                             wireless solutions for efficient connectivity. </p>
                         <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="It-Products-Repair">Read more</a>
+                        <a class="btn-main btn-light-trans" href="Office-Automation">Read more</a>
                     </div>
                 </div>
             </div>
@@ -504,7 +504,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p class="no-bottom">Advanced security systems, IP cameras, and surveillance
                             solutions for enhanced safety. </p>
                         <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="It-Products-Maintenance">Read more</a>
+                        <a class="btn-main btn-light-trans" href="Office-Automation">Read more</a>
                     </div>
                     <div class="relative">
                         <img src="./images/home/services/CCTV-camera.jpg" class="img-fluid" alt="CCTV-camera">
