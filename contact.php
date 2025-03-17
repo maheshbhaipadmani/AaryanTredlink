@@ -69,7 +69,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </div>
                                     </div>
 
-                                    <div class="col-lg-12 col-md-6">
+                                    <div class="col-lg-12 col-md-12">
                                         <div class="field-set mb20">
                                             <span class="d-label">Message</span>
                                             <textarea name="message" id="message" class="form-control"
@@ -97,7 +97,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                         <div class="col-lg-4">
                             <h4>Our Office</h4>
-                            <div class="img-with-cap mb20">
+                            <div class="img-with-capcol-lg-12 col-md-6 mb20">
                                 <div class="d-title">Mon - Fri 08.00 AM - 18.00 PM</div>
                                 <div class="d-overlay"></div>
                                 <img src="images/misc/5.webp" class="img-fullwidth rounded-1" alt="misc 5">
