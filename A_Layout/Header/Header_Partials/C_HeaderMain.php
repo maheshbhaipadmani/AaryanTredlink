@@ -55,11 +55,11 @@ echo
                                 <!-- logo begin -->
                                 <div id="logo">
                                     <a href="Home">
-                                        <img class="logo-main" src="./images/logo/Aaryan Tredlink _Finle logo.png"
+                                        <img class="logo-main" src="./images/logo/Aaryan Tredlink _Finle logo.png" loading="lazy"
                                             alt="aaryan logo">
-                                        <img class="logo-scroll" src="./images/logo/Aaryan Tredlink _Finle logo.png"
+                                        <img class="logo-scroll" src="./images/logo/Aaryan Tredlink _Finle logo.png" loading="lazy"
                                             alt="aaryan logo">
-                                        <img class="logo-mobile" src="./images/logo/Aaryan Tredlink _Finle logo.png" alt="logo">
+                                        <img class="logo-mobile" src="./images/logo/Aaryan Tredlink _Finle logo.png" alt="logo" loading="lazy">
                                     </a>
                                 </div>
                                 <!-- logo close -->

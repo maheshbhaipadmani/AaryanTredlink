@@ -1,7 +1,7 @@
 ﻿<?php
-$Title = " IT Product Services | Installation, Repair & Maintenance - Aaryan Tradelink";
-$MetaDescription = "Get expert IT product services, including installation, repair, and maintenance of laptops, desktops, and accessories. Aaryan Tradelink ensures smooth business operations.";
-$MetaKeywords = "IT product services, laptop repair, desktop maintenance, IT installation, computer servicing, networking solutions, business IT support, IT hardware troubleshooting, best IT repair services";
+$Title = "Aaryan Tradelink | IT Products & Solutions Sales & Services​.";
+$MetaDescription = "Explore Aaryan Tradelink's IT products and solutions, offering sales and services of hardware, networking, and support to help businesses thrive in the digital world.";
+$MetaKeywords = " IT solutions in Ahmedabad, IT services for small businesses in Gujarat, Managed IT support services in Ahmedabad, IT consulting firms in Gujarat, Network solutions providers in Ahmedabad, Cloud services for businesses in Gujarat, Cybersecurity services in Ahmedabad, IT infrastructure management in Gujarat, Remote IT support services in Ahmedabad";
 ?>
 
 <?php
@@ -9,7 +9,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 <!-- section begin -->
 <section id="subheader" class="jarallax text-light">
-    <img src="images/background/6.webp" class="jarallax-img" alt="ins background">
+    <img src="images/background/6.webp" class="jarallax-img" alt="ins background" loading="lazy">
     <div class="container relative z-index-1000">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -34,7 +34,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
     <a href="Contact">
         <img src="images/svg/phone-calling-svgrepo-com.svg"
             class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide"
-            alt="phone-calling-svgrepo-com">
+            alt="phone-calling-svgrepo-com" loading="lazy">
     </a>
 </div>
 
@@ -59,20 +59,15 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-6">
                         <h2>Empowering Businesses with <span class="id-color-2">Cutting-Edge</span> IT
                             Solutions</h2>
-                        <p>IT industry is booming, nowadays, and matter the most for the foundation of
-                            digital world. It relates to the enterprise’s collection of hardware that helps
-                            to build, test, operate and support information technology services. Aaryan
-                            Tradelink, being the well-known IT Hardware Company In Gujarat, here to offer
-                            service related to IT Hardware to help the business meet their steps with the
-                            digital world.
+                        <p>The IT industry is booming, forming the foundation of the digital world. It encompasses hardware solutions that enable businesses to build, test, operate, and support IT services. As a leading IT hardware company in Gujarat, Aaryan Tradelink provides comprehensive IT hardware solutions to help businesses stay ahead in the digital era.
                         <p>
                     </div>
 
                     <div class="col-lg-6">
-                        <img src="images/product/it-product/close-up-male-technician-holding-modern-computer-motherboard-from-table_23-2147883867 (1).jpg"
-                            class="img-fluid rounded-20px mb-4" alt="close-up-male-technician-holding">
-                        <img src="images/product/it-product/laptop-repair-technician_1181564-6767.jpg"
-                            class="img-fluid rounded-20px" alt="aptop-repair">
+                        <img src="images/product/it-product/close-up-male-technician-holding-modern-computer-motherboard-from-table_23-2147883867 (1).avif"
+                            class="img-fluid rounded-20px mb-4" alt="close-up-male-technician-holding" loading="lazy">
+                        <img src="images/product/it-product/view-3d-computer-device_1106493-278012.avif"
+                            class="img-fluid rounded-20px" alt="aptop-repair" loading="lazy">
                     </div>
                 </div>
 
@@ -84,8 +79,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Industry Expertise </h4>
-                                <p class="mb-0">Years of experience in delivering top-notch IT hardware
-                                    solutions.</p>
+                                <p class="mb-0">Years of experience in delivering top-notch IT hardware solutions.</p>
                             </div>
                         </div>
                     </div>
@@ -95,8 +89,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Optimized IT Investment</h4>
-                                <p class="mb-0">Helping businesses extract maximum value from their IT
-                                    infrastructure.</p>
+                                <p class="mb-0">Helping businesses extract maximum value from their IT infrastructure.</p>
                             </div>
                         </div>
                     </div>
@@ -106,8 +99,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Seamless Operations </h4>
-                                <p class="mb-0">Ensuring smooth and efficient business workflows with
-                                    reliable hardware.</p>
+                                <p class="mb-0">Ensuring smooth and efficient business workflows with reliable hardware.</p>
                             </div>
                         </div>
                     </div>
@@ -117,8 +109,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Digital Transformation Support</h4>
-                                <p class="mb-0">Providing the foundation for enterprises to thrive in the
-                                    digital era.</p>
+                                <p class="mb-0">Providing the foundation for enterprises to thrive in the digital era.</p>
                             </div>
                         </div>
                     </div>
@@ -130,12 +121,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="row g-4">
                     <div class="col-md-12 wow fadeInUp">
                         <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
-                            <img src="images/home/logo/3.idbi.jpg" class="img-fluid px-4" alt="Company Logo 1">
-                            <img src="images/home/logo/6.podar-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 2">
-                            <img src="images/home/logo/25.cera.png" class="img-fluid px-4" alt="Company Logo 3">
-                            <img src="images/home/logo/20.dainikbank-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 4">
-                            <img src="images/home/logo/26.allabadlbank.png" class="img-fluid px-4" alt="Company Logo 5">
-                            <img src="images/home/logo/16.sffron-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 6">
+                            <img src="images/home/logo/3.idbi.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 1">
+                            <img src="images/home/logo/6.podar-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 2">
+                            <img src="images/home/logo/25.cera.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 3">
+                            <img src="images/home/logo/20.dainikbank-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 4">
+                            <img src="images/home/logo/26.allabadlbank.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 5">
+                            <img src="images/home/logo/16.sffron-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 6">
                         </div>
                     </div>
                 </div>

@@ -1,7 +1,7 @@
 ﻿<?php
-$Title = "About Aaryan Tradelink | Trusted Trading & Solutions Provider";
-$MetaDescription = "Learn about Aaryan Tradelink, a leading supplier of IT products, office automation, ACs, and refrigeration solutions. Discover our mission, vision, and commitment to quality.";
-$MetaKeywords = "Aaryan Tradelink, about Aaryan Tradelink, IT trading company, office automation provider, air conditioning supplier, refrigeration solutions, company history, business integrity, trusted supplier";
+$Title = "About Aaryan Tradelink | Comprehensive Solutions Since 2009​.";
+$MetaDescription = "Aaryan Tradelink: Your trusted supplier for IT products, office automation, ACs & refrigeration. Committed to quality & innovation.";
+$MetaKeywords = "Discover Aaryan Tradelink, a partnership firm established in 2009 in Ahmedabad, Gujarat, offering a wide range of services including air conditioning, IT solutions, and office automation.";
 ?>
 
 <?php
@@ -10,7 +10,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/11.webp" class="jarallax-img" alt="jarallax-img">
+                <img src="images/background/11.webp" class="jarallax-img" alt="jarallax-img" loading="lazy">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
@@ -22,8 +22,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             </ul>
                         </div>
                         <div class="col-lg-6 text-lg-end">
-                            <div class="fs-20 fw-600 no-bottom sm-hide">Delivering Excellence Through Innovation &
-                                Service</div>
+                            <div class="fs-20 fw-600 no-bottom sm-hide">Delivering Excellence in IT Solutions and Office Automation Through Innovation & Service.</div>
                         </div>
                     </div>
                 </div>
@@ -39,7 +38,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <!-- Who We Are -->
             <section class="pt70 jarallax">
-                <img src="images/background/15.webp" class="jarallax-img" alt="Who We Are ">
+                <img src="images/background/15.webp" class="jarallax-img" alt="Who We Are " loading="lazy">
                 <div class="container relative z-1000">
                     <div class="spacer-double sm-hide"></div>
                     <div class="row g-4 align-items-center">
@@ -50,11 +49,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="row g-4">
                                     <div class="col-lg-8 col-sm-6">
-                                        <p class="mb-0 wow fadeInUp" data-wow-delay=".2s">Founded in 2009 and based in
-                                            Ahmedabad, Aaryan Tradelink provides Air Conditioning, IT, and Office
-                                            Automation solutions with a focus on quality and customer satisfaction. Our
-                                            strong vendor partnerships ensure reliable products, seamless installation,
-                                            and expert support.</p>
+                                        <p class="mb-0 wow fadeInUp" data-wow-delay=".2s">Founded in 2009 and based in Ahmedabad, Aaryan Tradelink provides Air Conditioning solutions, IT solutions, and Office Automation solutions, ensuring quality and customer satisfaction. Our strong vendor partnerships guarantee reliable products, seamless installation, and expert support.</p>
                                     </div>
 
                                     <div class="col-lg-4 col-sm-6">
@@ -85,7 +80,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="relative">
                                 <div class="row g-4">
                                     <div class="col-6">
-                                        <img src="images/about/air-cooling-serv.jpg"
+                                        <img src="images/about/air-cooling-serv.avif" loading="lazy" loading="lazy"
                                             class="img-fluid rounded-5 wow scaleIn" data-wow-delay=".6s" alt="air-cooling-serv">
                                     </div>
                                     <div class="col-6">
@@ -109,7 +104,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             data-wow-delay="1s">
                                             <div class="d-block text-center">
                                                 <a href="Contact">
-                                                    <img src="images/icons/white/contact-form.webp" class="w-40 mb-3"
+                                                    <img src="images/icons/white/contact-form.webp" loading="lazy" class="w-40 mb-3"
                                                         alt="book now">
                                                     <p class="lead mb-0">Book us</p>
                                                     <h4 class="mb-0">Schedule Now</h4>
@@ -118,7 +113,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </div>
                                     </div>
                                     <div class="col-6">
-                                        <img src="images/about/office-automation.jpg"
+                                        <img src="images/about/office-automation.avif" loading="lazy"
                                             class="img-fluid rounded-5 wow scaleIn" data-wow-delay="1.2s" alt="office automation">
                                     </div>
                                 </div>
@@ -139,10 +134,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-6 offset-lg-3 text-center">
                             <div class="subtitle bg-white wow fadeInUp mb-3"> Our Guiding Principles</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Driven by Purpose, Guided by Excellence</h2>
-                            <p class="lead wow fadeInUp">At Aaryan Tradelink, our Vision, Mission, Values, and
-                                Commitment define who we are and drive everything we do. We strive to deliver innovative
-                                solutions, uphold quality, and build lasting relationships based on trust and integrity.
-                            </p>
+                            <p class="lead wow fadeInUp">At Aaryan Tradelink, our Vision, Mission, Values, and Commitment define who we are and drive everything we do. We strive to deliver innovative IT solutions, networking solutions, air conditioning services, and office automation solutions, uphold quality, and build lasting relationships based on trust and integrity.</p>
                             <div class="spacer-single"></div>
                         </div>
 
@@ -150,51 +142,44 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="owl-4-dots owl-carousel owl-theme">
                                 <div class="item">
                                     <div class="relative">
-                                        <img src="./images/about/svg/bullseye (1).png"
+                                        <img src="./images/about/svg/bullseye (1).avif" loading="lazy"
                                             class="bg-color w-30 padding15 rounded-10 mb-3" alt="bullseye">
                                         <div class="relative">
                                             <h4>Our Mission</h4>
-                                            <p class="mb-0">To deliver high-quality IT, air conditioning, and office
-                                                automation solutions that enhance efficiency, security, and comfort for
-                                                businesses and individuals.</p>
+                                            <p class="mb-0">To deliver high-quality IT solutions, Air Conditioning solutions, and Office Automation solutions that enhance efficiency, security, and comfort for businesses and individuals.</p>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="relative">
-                                        <img src="./images/about/svg/light-bulb (1).png"
+                                        <img src="./images/about/svg/light-bulb (1).avif" loading="lazy"
                                             class="bg-color w-30 padding15 rounded-10 mb-3" alt="light-bulb">
                                         <div class="relative">
                                             <h4>Our Vision</h4>
-                                            <p class="mb-0">To be a trusted leader in IT and air conditioning solutions,
-                                                driving innovation and excellence while building long-term customer
-                                                relationships.</p>
+                                            <p class="mb-0">To be a trusted leader in IT solutions and Air Conditioning solutions, driving innovation and excellence while building long-term customer relationships.</p>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="relative">
-                                        <img src="./images/about/svg/medal (1).png"
+                                        <img src="./images/about/svg/medal (1).avif" loading="lazy"
                                             class="bg-color w-30 padding15 rounded-10 mb-3" alt="medal">
                                         <div class="relative">
                                             <h4>Our Values</h4>
-                                            <p class="mb-0">Trust us to deliver reliable solutions and exceptional
-                                                service, and peace of mind for your HVAC needs.</p>
+                                            <p class="mb-0">Trust us to deliver reliable solutions, exceptional service, and peace of mind for your HVAC solutions, IT infrastructure, and office automation needs.</p>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="item">
                                     <div class="relative">
-                                        <img src="./images/about/svg/handshake (1).png"
+                                        <img src="./images/about/svg/handshake (1).avif" loading="lazy"
                                             class="bg-color w-30 padding15 rounded-10 mb-3" alt="handshake">
                                         <div class="relative">
                                             <h4>Our Commitment</h4>
-                                            <p class="mb-0">We are dedicated to delivering exceptional service, ensuring
-                                                seamless solutions, and building long-lasting partnerships through
-                                                innovation, quality, and trust.</p>
+                                            <p class="mb-0">We are dedicated to delivering exceptional service, ensuring seamless solutions, and building long-lasting partnerships through innovation, quality, and trust.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -216,7 +201,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-6">
                             <div class="bg-color-3 relative hover overflow-hidden rounded-20px">
                                 <div class="text-center py-3">
-                                    <img src="images/products/1.webp" class="w-80" alt="products1">
+                                    <img src="images/products/1.webp" class="w-80" alt="products1" loading="lazy">
                                     <!-- <h4>AeroChill</h4> -->
                                 </div>
                             </div>
@@ -228,11 +213,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                             <div class="spacer-single"></div>
 
-                            <p>At Aaryan Tradelink, we provide comprehensive solutions across multiple industries,
-                                ensuring quality, efficiency, and innovation in every service we offer. Our expertise
-                                spans IT hardware, security systems, networking, HVAC solutions, and printing services,
-                                enabling businesses to operate smoothly and securely. With our customer-first approach,
-                                we deliver tailored solutions that meet the evolving needs of modern enterprises.</p>
+                            <p>At Aaryan Tradelink, we provide comprehensive IT solutions, security systems, networking solutions, HVAC solutions, and printing services, ensuring quality, efficiency, and innovation in every service we offer. Our expertise in IT hardware, surveillance systems, structured cabling, air conditioning solutions, and office automation enables businesses to operate smoothly and securely. With our customer-first approach, we deliver tailored solutions that meet the evolving needs of modern enterprises.</p>
                             <h5>"Empowering Businesses with Smart Solutions & Reliable Technology."</h5>
                             <div class="spacer-half"></div>
 
@@ -347,37 +328,37 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="mb-2 text-center">
                                 <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
                                     data-wow-delay=".0s">
-                                    <img src="./images/home/logo/18.jbmgrou_-removebg-preview.png" class="img-fluid">
+                                    <img src="./images/home/logo/18.jbmgrou_-removebg-preview.avif" class="img-fluid" loading="lazy">
                                 </div>
                                 <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
                                     data-wow-delay=".2s">
-                                    <img src="./images/home/logo/14.torrento.png" class="img-fluid">
+                                    <img src="./images/home/logo/14.torrento.avif" class="img-fluid" loading="lazy">
                                 </div>
 
                                 <div class="mb-2 sm-hide"></div>
 
                                 <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
                                     data-wow-delay=".4s">
-                                    <img src="./images/home/logo/13.sr-removebg-preview.png" class="img-fluid">
+                                    <img src="./images/home/logo/13.sr-removebg-preview.avif" class="img-fluid" loading="lazy">
                                 </div>
                                 <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
                                     data-wow-delay=".6s">
-                                    <img src="./images/home/logo/15.canarabank-removebg-preview.png" class="img-fluid">
+                                    <img src="./images/home/logo/15.canarabank-removebg-preview.avif" class="img-fluid" loading="lazy">
                                 </div>
                                 <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
                                     data-wow-delay=".8s">
-                                    <img src="./images/home/logo/19.elite-removebg-preview.png" class="img-fluid">
+                                    <img src="./images/home/logo/19.elite-removebg-preview.avif" class="img-fluid" loading="lazy">
                                 </div>
 
                                 <div class="mb-2 sm-hide"></div>
 
                                 <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
                                     data-wow-delay="1s">
-                                    <img src="./images/home/logo/6.podar-removebg-preview.png" class="img-fluid">
+                                    <img src="./images/home/logo/6.podar-removebg-preview.avif" class="img-fluid" loading="lazy">
                                 </div>
                                 <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow fadeInUp"
                                     data-wow-delay="1.2s">
-                                    <img src="./images/home/logo/10.honda-removebg-preview.png" class="img-fluid">
+                                    <img src="./images/home/logo/10.honda-removebg-preview.avif" class="img-fluid" loading="lazy">
                                 </div>
                             </div>
                         </div>
@@ -385,10 +366,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="subtitle wow fadeInUp mb-3">Our Valued Clients</div>
                             <h2>Trusted by 500+ Businesses Across Industries</h2>
                             <div class="spacer-10"></div>
-                            <p>We are honored to serve 500+ clients across various industries, delivering reliable and
-                                innovative solutions tailored to their needs. Their trust in our expertise drives us to
-                                maintain exceptional quality and service. Our commitment to customer satisfaction has
-                                helped us build long-term relationships with businesses of all sizes. </p>
+                            <p>We are honored to serve 500+ clients across various industries, delivering reliable IT solutions, networking solutions, office automation, air conditioning services, refrigeration solutions, and security systems tailored to their needs. Their trust in our expertise drives us to maintain exceptional quality and service. Our commitment to customer satisfaction, cutting-edge technology, and seamless integration has helped us build long-term relationships with businesses of all sizes.</p>
                             <a class="btn-main" href="#">Discover Plugins</a>
                         </div>
                     </div>
@@ -407,7 +385,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <div
                                             class="h-100 padding60 sm-padding40 overflow-hidden position-relative text-light jarallax">
                                             <div class="spacer-double"></div>
-                                            <img src="images/background/3.webp" class="jarallax-img" alt="background">
+                                            <img src="images/background/3.webp" class="jarallax-img" alt="background" loading="lazy">
                                             <div class="spacer-double"></div>
                                         </div>
                                     </div>

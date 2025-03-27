@@ -9,7 +9,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 <!-- section begin -->
 <section id="subheader" class="jarallax text-light">
-    <img src="images/background/4.webp" class="jarallax-img" alt="background 4">
+    <img src="images/background/4.webp" class="jarallax-img" alt="background 4" loading="lazy">
     <div class="container relative z-index-1000">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -31,7 +31,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 <div class="bg-color relative z-index-1000 mt-40 mb40">
     <a href="Contact">
-        <img src="images/svg/phone-calling-svgrepo-com.svg"
+        <img src="images/svg/phone-calling-svgrepo-com.svg" loading="lazy"
             class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" alt="phone">
     </a>
 </div>
@@ -84,7 +84,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Customer Satisfaction</h4>
-                                <p class="mb-0">Dedicated support ensuring long-term system reliability.</p>
+                                <p class="mb-0">Dedicated support ensuring long-term system reliability with professional refrigeration maintenance services in Gujarat.</p>
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Energy Optimization</h4>
-                                <p class="mb-0"> Repairs that enhance efficiency and performance.</p>
+                                <p class="mb-0">Repairs that enhance efficiency and performance with energy-efficient refrigeration systems in Gujarat.</p>
                             </div>
                         </div>
                     </div>
@@ -106,7 +106,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Timely Service</h4>
-                                <p class="mb-0">Rapid response to get your system back up and running.</p>
+                                <p class="mb-0">Rapid response for commercial refrigeration products and services in Ahmedabad to get your system back up and running.</p>
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Expert Diagnosis</h4>
-                                <p class="mb-0">Swift detection and resolution of refrigeration issues.</p>
+                                <p class="mb-0">Swift detection and resolution of industrial refrigeration equipment issues for optimal cooling solutions in Gujarat.</p>
                             </div>
                         </div>
                     </div>
@@ -128,7 +128,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 <div class="row g-4">
                     <div class="col-lg-6 wow fadeInRight">
-                        <img src="images/misc/7.webp" class="img-fluid rounded-20" alt="misc 7">
+                        <img src="images/misc/7.webp" class="img-fluid rounded-20" alt="misc 7" loading="lazy">
                     </div>
 
                     <div class="col-lg-6 wow fadeInLeft">
@@ -152,11 +152,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="row g-4">
                     <div class="col-md-12 wow fadeInUp">
                         <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
-                                                        <img src="images/home/logo/6.podar-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 2">
-                                                        <img src="images/home/logo/25.cera.png" class="img-fluid px-4" alt="Company Logo 3">
-                                                        <img src="images/home/logo/20.dainikbank-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 4">
-                                                        <img src="images/home/logo/26.allabadlbank.png" class="img-fluid px-4" alt="Company Logo 5">
-                                                        <img src="images/home/logo/16.sffron-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 6">
+                                                        <img src="images/home/logo/6.podar-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 2">
+                                                        <img src="images/home/logo/25.cera.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 3">
+                                                        <img src="images/home/logo/20.dainikbank-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 4">
+                                                        <img src="images/home/logo/26.allabadlbank.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 5">
+                                                        <img src="images/home/logo/16.sffron-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 6">
                         </div>
                     </div>
                 </div>

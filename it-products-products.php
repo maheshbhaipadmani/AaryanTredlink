@@ -1,6 +1,6 @@
 <?php
-$Title = " IT Products | Laptops, Desktops & Accessories - Aaryan Tradelink";
-$MetaDescription = "Discover top-quality IT products, including laptops, desktops, and accessories, at Aaryan Tradelink. Get the latest technology solutions for your business needs.";
+$Title = "  Aaryan Tradelink | IT Products & Solutions for Business Growth​";
+$MetaDescription = "Explore Aaryan Tradelink's IT products and services, including servers, storage, desktops, laptops, printers, and networking solutions, tailored to enhance business efficiency.";
 $MetaKeywords = "IT products, laptops, desktops, computer accessories, monitors, keyboards, mouse, networking devices, business IT solutions, best IT supplier, IT hardware, Aaryan Tradelink IT products";
 ?>
 
@@ -22,7 +22,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-6">
                 <div class="bg-color-3 relative overflow-hidden rounded-20px mb-4 p-3 pb-4">
                     <div class="text-center">
-                        <img src="images/product/it-product/main-removebg-preview.png" class="w-80" alt="main">
+                        <img src="images/product/it-product/main-removebg-preview.avif" class="w-80" alt="main" loading="lazy">
                     </div>
 
                     <div class="col-lg-12">
@@ -32,7 +32,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                             <div id="img-carousel" class="owl-carousel owl-theme owl-4-margin-15">
                                 <div class="item">
-                                    <a href="images/product/it-product/Laptop.jpg" class="image-popup d-block hover">
+                                    <a href="images/product/it-product/Laptop.avif" class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
                                                 class="absolute start-0 w-100 abs-middle fs-36 text-white text-center z-2">
@@ -40,14 +40,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/it-product/Laptop.jpg"
+                                            <img src="images/product/it-product/Laptop.avif"
                                                 class="img-fluid hover-scale-1-2"
-                                                alt="close-up-male-technician-holding">
+                                                alt="close-up-male-technician-holding" loading="lazy">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/it-product/Desktops.jpg" class="image-popup d-block hover">
+                                    <a href="images/product/it-product/Desktops.avif" class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
                                                 class="absolute start-0 w-100 abs-middle fs-36 text-white text-center z-2">
@@ -55,13 +55,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/it-product/Desktops.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="cyber-security-cloud">
+                                            <img src="images/product/it-product/Desktops.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="cyber-security-cloud">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/it-product/Servers.jpg" class="image-popup d-block hover">
+                                    <a href="images/product/it-product/Servers.avif" class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
                                                 class="absolute start-0 w-100 abs-middle fs-36 text-white text-center z-2">
@@ -69,8 +69,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/it-product/Servers.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="laptop-accessories">
+                                            <img src="images/product/it-product/Servers.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="laptop-accessories">
                                         </div>
                                     </a>
                                 </div>
@@ -85,12 +85,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
                                             <img src="images/product/it-product/Uninterruptible-Power-Supply.avif"
-                                                class="img-fluid hover-scale-1-2" alt="man-is-working">
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="man-is-working">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/it-product/Consumables.jpg"
+                                    <a href="images/product/it-product/Consumables.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -99,13 +99,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/it-product/Consumables.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="view-3d-computer">
+                                            <img src="images/product/it-product/Consumables.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="view-3d-computer">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/it-product/Data-Cabling.jpg"
+                                    <a href="images/product/it-product/Data-Cabling.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -114,13 +114,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/it-product/Data-Cabling.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="view-3d-computer">
+                                            <img src="images/product/it-product/Data-Cabling.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="view-3d-computer">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/it-product/IT-Peripherals.jpg"
+                                    <a href="images/product/it-product/IT-Peripherals.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -129,13 +129,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/it-product/IT-Peripherals.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="view-3d-computer">
+                                            <img src="images/product/it-product/IT-Peripherals.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="view-3d-computer">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/it-product/powerbank.jpg" class="image-popup d-block hover">
+                                    <a href="images/product/it-product/powerbank.avif" class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
                                                 class="absolute start-0 w-100 abs-middle fs-36 text-white text-center z-2">
@@ -143,27 +143,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/it-product/powerbank.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="view-3d-computer">
+                                            <img src="images/product/it-product/powerbank.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="view-3d-computer">
                                         </div>
                                     </a>
                                 </div>
-                                <!-- <div class="item">
-                                                <a href="https://www.youtube.com/watch?v=frCNfh-qA7U"
-                                                    class="popup-youtube d-block hover">
-                                                    <div class="relative overflow-hidden rounded-10">
-                                                        <div
-                                                            class="absolute start-0 w-100 abs-middle fs-36 text-white text-center z-2">
-                                                            <h4 class="mb-0 hover-scale-in-3"><i
-                                                                    class="fa fa-play-circle-o"></i></h4>
-                                                        </div>
-                                                        <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
-                                                        </div>
-                                                        <img src="images/misc/12.webp" class="img-fluid hover-scale-1-2"
-                                                            alt="misc 12">
-                                                    </div>
-                                                </a>
-                                            </div> -->
+                                
                             </div>
                         </div>
                     </div>
@@ -173,16 +158,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="col-lg-6">
                 <h2> Seamless IT Hardware Solutions for a Smarter Future</h2>
-                <p>The IT industry is evolving rapidly, forming the backbone of the digital world. It
-                    includes hardware solutions that help businesses build, operate, and support their IT
-                    infrastructure. As a trusted IT hardware provider in Gujarat, Aaryan Tradelink delivers
-                    reliable solutions to keep businesses ahead.</p>
-                <p>With our expertise, we help clients maximize their IT investments. A strong IT
-                    infrastructure is key to agility, efficiency, and customer satisfaction. Our computer
-                    hardware services ensure seamless operations, keeping businesses running smoothly.</p>
-                <p>As the leading hardware service provider, we offer IT hardware solutions, including
-                    servers, storage, desktops, laptops, workstations, printers, power solutions,
-                    consumables, and networking solutions.</p>
+                <p>The IT industry is evolving rapidly, forming the backbone of the digital world. It includes IT hardware solutions that help businesses build, operate, and support their IT infrastructure. As a trusted IT hardware provider in Gujarat, Aaryan Tradelink delivers reliable IT solutions to keep businesses ahead.</p>
+                <p>With our expertise, we help clients maximize their IT investments. A strong IT infrastructure is key to agility, efficiency, and customer satisfaction. Our computer hardware services ensure seamless operations, keeping businesses running smoothly.</p>
+                <p>As the leading hardware service provider, we offer IT hardware solutions, including servers, storage, desktops, laptops, workstations, printers, power solutions, consumables, and networking solutions.</p>
                 <h5>"Powering the digital future with reliable IT hardware solutions."</h5>
                 <div class="spacer-half"></div>
 
@@ -209,63 +187,63 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 1. Laptop -->
                     <div class="col-lg-3 col-md-4 col-sm-6 mb-4 text-center">
                     <div class="item text-center p-3 border rounded">
-                        <img src="./images/product/svg/laptop.png" class="w-80px mb-3" alt="Laptop">
+                        <img src="./images/product/svg/laptop.png" class="w-80px mb-3" loading="lazy" alt="Laptop">
                         <h4>Laptop</h4>
                     </div>
                     </div>
                     <!-- 2. Data Cabling -->    
                     <div class="col-lg-3 col-md-4 col-sm-6 mb-4 text-center">
                     <div class="item text-center p-3 border rounded">
-                        <img src="./images/product/svg/usb-connection.png" class="w-80px mb-3" alt="Data Cabling">
+                        <img src="./images/product/svg/usb-connection.png" class="w-80px mb-3" loading="lazy" alt="Data Cabling">
                         <h4>Data Cabling</h4>
                     </div>
                     </div>
                     <!-- 3. Servers -->
                     <div class="col-lg-3 col-md-4 col-sm-6 mb-4 text-center">
                         <div class="item text-center p-3 border rounded">
-                        <img src="./images/product/svg/servers.png" class="w-80px mb-3" alt="Servers">
+                        <img src="./images/product/svg/servers.png" class="w-80px mb-3" loading="lazy" alt="Servers">
                         <h4>Servers</h4>
                         </div>
                     </div>
                     <!-- 4. Networking Solutions -->
                     <div class="col-lg-3 col-md-4 col-sm-6 mb-4 text-center">
                         <div class="item text-center p-3 border rounded">
-                        <img src="./images/product/svg/saas.png" class="w-80px mb-3" alt="Networking Solutions">
+                        <img src="./images/product/svg/saas.png" class="w-80px mb-3" loading="lazy" alt="Networking Solutions">
                         <h4>Networking Solutions</h4>
                         </div>
                     </div>
                     <!-- 5. Power Backup Solutions -->
                     <div class="col-lg-3 col-md-4 col-sm-6 mb-4 text-center">
                         <div class="item text-center p-3 border rounded">
-                        <img src="./images/product/svg/power-bank.png" class="w-80px mb-3" alt="Power Backup Solutions">
+                        <img src="./images/product/svg/power-bank.png" class="w-80px mb-3" loading="lazy" alt="Power Backup Solutions">
                         <h4>Power Backup Solutions</h4>
                         </div>
                     </div>
                     <!-- 6. Desktops -->
                     <div class="col-lg-3 col-md-4 col-sm-6 mb-4 text-center">
                         <div class="item text-center p-3 border rounded">
-                        <img src="./images/product/svg/pc.png" class="w-80px mb-3" alt="Desktops">
+                        <img src="./images/product/svg/pc.png" class="w-80px mb-3" loading="lazy" alt="Desktops">
                         <h4>Desktops</h4>
                         </div>
                     </div>
                     <!-- 7. Consumables – Compatible Cartridges -->
                     <div class="col-lg-3 col-md-4 col-sm-6 mb-4 text-center">
                         <div class="item text-center p-3 border rounded">
-                        <img src="./images/product/svg/ink-cartridge.png" class="w-80px mb-3" alt="Consumables">
+                        <img src="./images/product/svg/ink-cartridge.png" class="w-80px mb-3" loading="lazy" alt="Consumables">
                         <h4>Consumables – Compatible Cartridges</h4>
                         </div>
                     </div>
                     <!-- 8. IT Peripherals -->
                     <div class="col-lg-3 col-md-4 col-sm-6 mb-4 text-center">
                         <div class="item text-center p-3 border rounded">
-                        <img src="./images/product/svg/computer.png" class="w-80px mb-3" alt="IT Peripherals">
+                        <img src="./images/product/svg/computer.png" class="w-80px mb-3" loading="lazy" alt="IT Peripherals">
                         <h4>IT Peripherals</h4>
                         </div>
                     </div>
                     <!-- 9. USP -->
                     <div class="col-lg-3 col-md-4 col-sm-6 mb-4 text-center">
                         <div class="item text-center p-3 border rounded">
-                        <img src="./images/product/svg/usb-connection.png" class="w-80px mb-3" alt="USP">
+                        <img src="./images/product/svg/usb-connection.png" class="w-80px mb-3" loading="lazy" alt="USP">
                         <h4>USP</h4>
                         </div>
                     </div>

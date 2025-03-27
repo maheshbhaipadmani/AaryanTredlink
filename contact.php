@@ -1,6 +1,6 @@
 <?php
 $Title = "Contact Aaryan Tradelink | Get in Touch with Us Today";
-$MetaDescription = "Need help? Contact Aaryan Tradelink for IT products, office automation, air conditioning, and refrigeration solutions. Call us or visit our office for assistance.";
+$MetaDescription = "Need assistance? Contact Aaryan Tradelink for IT, office automation, AC & refrigeration solutions. Call us or visit our office today!";
 $MetaKeywords = "contact Aaryan Tradelink, customer support, IT product inquiries, office automation help, AC installation inquiry, refrigeration services, business contact, electronics supplier contact, technical support";
 ?>
 
@@ -9,7 +9,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/8.webp" class="jarallax-img" alt="contact bg">
+                <img src="images/background/8.webp" class="jarallax-img" alt="contact bg" loading="lazy">
                 <div class="container relative z-index-1000">
                     <div class="container relative z-index-1000">
                         <div class="row align-items-center">
@@ -100,7 +100,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="img-with-capcol-lg-12 col-md-6 mb20">
                                 <div class="d-title">Mon - Fri 08.00 AM - 18.00 PM</div>
                                 <div class="d-overlay"></div>
-                                <img src="images/misc/5.webp" class="img-fullwidth rounded-1" alt="misc 5">
+                                <img src="images/misc/5.webp" class="img-fullwidth rounded-1" alt="misc 5" loading="lazy">
                             </div>
 
                             <div class="spacer-single"></div>

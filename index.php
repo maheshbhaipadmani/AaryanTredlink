@@ -1,7 +1,7 @@
 <?php
-$Title = "Aaryan Tradelink | IT, Office Automation, AC & Refrigeration Solutions";
-$MetaDescription = "Welcome to Aaryan Tradelink, a trusted provider of IT products, office automation, air conditioning, and refrigeration solutions. Explore our quality products and services today!";
-$MetaKeywords = "Aaryan Tradelink, IT products, office automation, air conditioning, refrigeration solutions, laptops, desktops, printers, scanners, air coolers, commercial refrigerators, industrial cooling, trading company, electronics supplier, business automation";
+$Title = "Aaryan Tradelink | IT, Office Automation, AC & Refrigeration Solutions​";
+$MetaDescription = "Welcome to Aaryan Tradelink—your trusted source for IT, office automation, AC & refrigeration solutions. Explore our quality products today!";
+$MetaKeywords = "Aaryan Tradelink, based in Ahmedabad, offers IT products, office automation, air conditioning, and refrigeration solutions. Serving clients since 2009 with quality and innovation.​";
 ?>
 
 <?php
@@ -25,7 +25,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="swiper-wrapper">
                 <!-- Efficient Refrigeration -->
                 <div class="swiper-slide">
-                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/2.webp)">
+                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/2.avif)">
                         <div class="sw-caption">
                             <div class="container">
                                 <div class="row gx-5 align-items-center">
@@ -52,7 +52,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="row g-4 slider-extra sm-hide">
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
-                                            <img src="images/icons/white/labor.webp"
+                                            <img src="images/icons/white/labor.webp" loading="lazy"
                                                 class="absolute w-80px p-3 mb-3 z-2" alt="Expert Technicians">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
@@ -64,7 +64,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
-                                            <img src="images/icons/white/calendar.webp"
+                                            <img src="images/icons/white/calendar.webp" loading="lazy"
                                                 class="absolute w-80px p-3 mb-3 z-2" alt="Scheduling">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
@@ -76,7 +76,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
-                                            <img src="images/icons/white/best-price.webp"
+                                            <img src="images/icons/white/best-price.webp" loading="lazy"
                                                 class="absolute w-80px p-3 mb-3 z-2" alt="Transparent Pricing">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
@@ -95,7 +95,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 <!-- Smart Office Tech -->
                 <div class="swiper-slide">
-                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/office-automation.jpg)">
+                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/office-automation.avif)">
                         <div class="sw-caption">
                             <div class="container">
                                 <div class="row gx-5 align-items-center">
@@ -123,7 +123,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
                                             <img src="images/icons/white/labor.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" alt="Expert Technicians Icon">
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Expert Technicians Icon">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Expert Technicians</h4>
@@ -135,7 +136,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
                                             <img src="images/icons/white/calendar.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" alt="Flexible Scheduling Icon">
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Flexible Scheduling Icon">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Flexible Scheduling</h4>
@@ -147,7 +149,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
                                             <img src="images/icons/white/best-price.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" alt="Transparent Pricing Icon">
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Transparent Pricing Icon">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Transparent Pricing</h4>
@@ -165,7 +168,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 <!-- Cooling & Comfort -->
                 <div class="swiper-slide">
-                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/commercial-refrigeration.jpg)">
+                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/commercial-refrigeration.avif)">
                         <div class="sw-caption">
                             <div class="container">
                                 <div class="row gx-5 align-items-center">
@@ -193,7 +196,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
                                             <img src="images/icons/white/labor.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" alt="Expert Technicians Icon">
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Expert Technicians Icon">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Expert Technicians</h4>
@@ -205,7 +209,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
                                             <img src="images/icons/white/calendar.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" alt="Flexible Scheduling Icon">
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Flexible Scheduling Icon">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Flexible Scheduling</h4>
@@ -217,7 +222,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
                                             <img src="images/icons/white/best-price.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" alt="Transparent Pricing Icon">
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Transparent Pricing Icon">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Transparent Pricing</h4>
@@ -236,7 +242,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 <!-- Advanced IT Solutions -->
                 <div class="swiper-slide">
-                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/Advanced-IT-Solutions-1.jpg)">
+                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/Advanced-IT-Solutions-1.avif)">
                         <div class="sw-caption">
                             <div class="container">
                                 <div class="row gx-5 align-items-center">
@@ -264,7 +270,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
                                             <img src="images/icons/white/labor.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" alt="Expert Technicians Icon">
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Expert Technicians Icon">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Expert Technicians</h4>
@@ -276,7 +283,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
                                             <img src="images/icons/white/calendar.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" alt="Flexible Scheduling Icon">
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Flexible Scheduling Icon">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Flexible Scheduling</h4>
@@ -288,7 +296,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-lg-4 col-md-6 mb-sm-30">
                                         <div class="relative">
                                             <img src="images/icons/white/best-price.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" alt="Transparent Pricing Icon">
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Transparent Pricing Icon">
                                             <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
                                             <div class="pl-100">
                                                 <h4>Transparent Pricing</h4>
@@ -325,16 +334,17 @@ include __DIR__ . '/A_Layout/Header/header.php';
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
-                <img src="images/misc/handy-man.webp" class="img-fluid wow scaleIn" alt="handy-man">
+                <img src="images/misc/handy-man.webp" loading="lazy" class="img-fluid wow scaleIn" alt="handy-man">
             </div>
             <div class="col-lg-5 offset-lg-1">
                 <div class="subtitle wow fadeInUp mb-3">Trusted Solutions, Proven Expertise</div>
                 <h2 class="wow fadeInUp">About Aaryan Tradelink</h2>
-                <p class="wow fadeInUp">Aaryan Tradelink, established in 2009 and based in Ahmedabad, is a
-                    trusted name in Air Conditioning and IT solutions. We pride ourselves on being a
-                    Complete Solution Provider, delivering top-quality products and services. Our strong
-                    vendor partnerships have enabled us to expand our reach and drive market growth across
-                    the region.</p>
+                <p class="wow fadeInUp">Aaryan Tradelink, established in 2009 and based in Ahmedabad, is a trusted name
+                    in IT solutions and air conditioning services. As a Complete Solution Provider, we offer managed IT
+                    services, network solutions, and cloud services, ensuring businesses stay ahead with cutting-edge
+                    technology. Our air conditioning installation and HVAC services provide energy-efficient cooling
+                    solutions for residential and commercial spaces. With strong vendor partnerships, we deliver
+                    top-quality products and services, driving market growth across Gujarat.</p>
                 <div class="spacer-10"></div>
                 <a class="btn-main wow fadeInUp" href="About">Learn More</a>
             </div>
@@ -347,12 +357,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 <!-- counter -->
 <section class="bg-color text-light section-dark jarallax">
-    <img src="images/background/4.jpg" class="jarallax-img" alt="jarallax-img">
+    <img src="images/background/4.avif" loading="lazy" class="jarallax-img" alt="jarallax-img">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 offset-lg-3 text-center">
+            <div class="col-lg-8 offset-lg-3 text-center">
                 <div class="subtitle s2 wow fadeInUp mb-3">Proven Success</div>
-                <h2 class="wow fadeInUp" data-wow-delay=".2s">Our Milestones of Success</h2>
+                <h1 class="wow fadeInUp" data-wow-delay=".2s">Our Milestones of Success</h1>
             </div>
         </div>
         <div class="col-lg-12">
@@ -411,22 +421,22 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="col-lg-6 offset-lg-3 text-center">
                     <div class="subtitle bg-color-3 wow fadeInUp mb-3">Our Services</div>
                     <h2>Comprehensive Solutions for Your Needs</h2>
-                    <p class="lead wow fadeInUp">At Aaryan Tradelink, we provide a diverse range of products
-                        and services, ensuring quality, reliability, and innovation. From IT solutions and
-                        networking to air conditioning, refrigeration, and security systems, we deliver
-                        excellence with every solution.</p>
+                    <p class="lead wow fadeInUp">At Aaryan Tradelink, we provide a diverse range of IT solutions,
+                        including network solutions, cloud services, and cybersecurity to ensure reliability and
+                        innovation. Our expertise extends to air conditioning services, refrigeration solutions, and
+                        CCTV installation, delivering top-quality products with every solution.</p>
                 </div>
             </div>
             <!-- Air Conditioning & HVAC -->
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
                 <div class="rounded-20px overflow-hidden">
                     <div class="relative">
-                        <img src="images/misc/services-1.webp" class="img-fluid" alt="services">
+                        <img src="images/misc/services-1.webp" loading="lazy" class="img-fluid" alt="services">
                     </div>
                     <div class="padding40 bg-color-3">
                         <h4>Air Conditioning & HVAC</h4>
-                        <p class="no-bottom">Expert solutions for AC installation, maintenance, and HVAC
-                            systems for residential & commercial spaces. </p>
+                        <p class="no-bottom">Expert HVAC services, including AC installation, air conditioner
+                            maintenance, and climate control solutions for residential and commercial spaces. </p>
                         <div class="spacer-20"></div>
                         <a class="btn-main btn-light-trans" href="Air-Conditioning">Read more</a>
                     </div>
@@ -437,13 +447,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="rounded-20px overflow-hidden">
                     <div class="padding40 bg-color-3">
                         <h4>Office Automation</h4>
-                        <p class="no-bottom">Enhancing productivity with printers, copiers, and document
-                            management solutions.</p>
+                        <p class="no-bottom">Boost productivity with office automation solutions, including
+                            multifunction printers, photocopiers, and document management systems.</p>
                         <div class="spacer-20"></div>
                         <a class="btn-main btn-light-trans" href="Office-Automation">Read more</a>
                     </div>
                     <div class="relative">
-                        <img src="./images/home/services/office-printer.jpg" class="img-fluid" alt="office-printer">
+                        <img src="./images/home/services/office-printer.avif" loading="lazy" class="img-fluid"
+                            alt="office-printer">
                     </div>
                 </div>
 
@@ -452,13 +463,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
                 <div class="rounded-20px overflow-hidden">
                     <div class="relative">
-                        <img src="./images/home/services/commercial-refrigeration.jpg" class="img-fluid"
-                            alt="commercial refrigeration">
+                        <img src="./images/home/services/commercial-refrigeration.avif" class="img-fluid"
+                            alt="commercial refrigeration" loading="lazy">
                     </div>
                     <div class="padding40 bg-color-3">
                         <h4>Refrigeration Solutions</h4>
-                        <p class="no-bottom">Reliable commercial and industrial refrigeration systems for
-                            long-lasting performance. </p>
+                        <p class="no-bottom">Reliable commercial refrigeration and industrial refrigeration systems
+                            designed for long-lasting performance and energy-efficient cooling solutions.</p>
                         <div class="spacer-20"></div>
                         <a class="btn-main btn-light-trans" href="Refrigeration">Read more</a>
                     </div>
@@ -469,14 +480,15 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="rounded-20px overflow-hidden">
                     <div class="padding40 bg-color-3">
                         <h4>IT Products & Solutions</h4>
-                        <p class="no-bottom">Providing a wide range of IT hardware, software, and
-                            accessories for businesses and individuals.</p>
+                        <p class="no-bottom">Offering a comprehensive range of IT solutions, including IT hardware,
+                            office software, and network solutions for businesses and individuals.</p>
                         <div class="spacer-20"></div>
                         <a class="btn-main btn-light-trans" href="It-Products">Read more</a>
                     </div>
 
                     <div class="relative">
-                        <img src="./images/home/services/IT-hardware.jpg" class="img-fluid" alt="IT-hardware">
+                        <img src="./images/home/services/IT-hardware.avif" class="img-fluid" loading="lazy"
+                            alt="IT-hardware">
                     </div>
                 </div>
             </div>
@@ -484,13 +496,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
                 <div class="rounded-20px overflow-hidden">
                     <div class="relative">
-                        <img src="./images/home/services/networking-infrastructure.jpg" class="img-fluid"
-                            alt="networking-infrastructure">
+                        <img src="./images/home/services/networking-infrastructure.avif" class="img-fluid"
+                            loading="lazy" alt="networking-infrastructure">
                     </div>
                     <div class="padding40 bg-color-3">
                         <h4>Networking Solutions</h4>
-                        <p class="no-bottom">Seamless networking infrastructure, structured cabling, and
-                            wireless solutions for efficient connectivity. </p>
+                        <p class="no-bottom">Robust network solutions, including structured cabling, wireless solutions,
+                            and network infrastructure for efficient connectivity. </p>
                         <div class="spacer-20"></div>
                         <a class="btn-main btn-light-trans" href="Office-Automation">Read more</a>
                     </div>
@@ -501,13 +513,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="rounded-20px overflow-hidden">
                     <div class="padding40 bg-color-3">
                         <h4>CCTV & Surveillance</h4>
-                        <p class="no-bottom">Advanced security systems, IP cameras, and surveillance
-                            solutions for enhanced safety. </p>
+                        <p class="no-bottom">Advanced CCTV installation, security camera systems, and surveillance
+                            solutions for enhanced safety and remote monitoring.</p>
                         <div class="spacer-20"></div>
                         <a class="btn-main btn-light-trans" href="Office-Automation">Read more</a>
                     </div>
                     <div class="relative">
-                        <img src="./images/home/services/CCTV-camera.jpg" class="img-fluid" alt="CCTV-camera">
+                        <img src="./images/home/services/CCTV-camera.avif" class="img-fluid" loading="lazy"
+                            alt="CCTV-camera">
                     </div>
                 </div>
 
@@ -524,18 +537,19 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-6">
                 <div class="subtitle wow fadeInUp mb-3">Your Trusted Business Partner</div>
                 <h2 class="wow fadeInUp" data-wow-delay=".2s">Why Choose Aaryan Tradelink?</h2>
-                <p class="wow fadeInUp"> With 15+ years of industry expertise, Aaryan Tradelink has built a
-                    reputation for quality, reliability, and exceptional service. We provide certified
-                    products from top brands, ensuring the latest technology and durable solutions. Our 24/7
-                    support guarantees quick assistance, keeping your operations smooth and hassle-free.
-                    Partner with us for trusted solutions and long-term value.</p>
+                <p class="wow fadeInUp"> With 15+ years of industry expertise, Aaryan Tradelink is a trusted provider of
+                    IT solutions, air conditioning services, office automation, and security systems. We offer certified
+                    products from top brands, including network solutions, CCTV installation, and commercial
+                    refrigeration, ensuring reliable and durable solutions. Our 24/7 support guarantees quick
+                    assistance, keeping your operations smooth and hassle-free. Partner with us for cutting-edge
+                    technology and long-term value.</p>
             </div>
 
             <div class="col-lg-6">
                 <div class="row g-4">
                     <div class="col-6">
-                        <img src="images/home/services/it-products.jpg" class="img-fluid rounded-10 mb-4 wow scaleIn"
-                            alt="it-products">
+                        <img src="images/home/services/it-products.avif" class="img-fluid rounded-10 mb-4 wow scaleIn"
+                            alt="it-products" loading="lazy">
                         <div class="col-12 text-center">
                             <div class="bg-color text-light px-4 pt30 pb10 rounded-10 wow fadeInLeft">
                                 <div class="de_count">
@@ -555,7 +569,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 </div>
                             </div>
                         </div>
-                        <img src="images/misc/8.webp" class="img-fluid rounded-10 mt-4 wow scaleIn" alt="misc 0">
+                        <img src="images/misc/8.webp" class="img-fluid rounded-10 mt-4 wow scaleIn" alt="misc 0"
+                            loading="lazy">
                     </div>
                 </div>
             </div>
@@ -586,8 +601,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <blockquote>
                             <i class="icofont-quote-left absolute start-30px top-30px id-color-2"></i>
                             <div class="de_testi_by">
-                                <img class="bg-white p-2 circle" alt=" circle"
-                                    src="images/home/testimonials/1.pratik-patel.jpg">
+                                <img class="bg-white p-2 circle" loading="lazy" alt=" circle"
+                                    src="images/home/testimonials/1.pratik-patel.avif">
                                 <div>Pratik Patel<span>Yudiz Solutions Pvt. ltd.</span></div>
                             </div>
                             <p>"They responded promptly and had a technician at my door in no time. Within a
@@ -610,8 +625,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <blockquote>
                             <i class="icofont-quote-left absolute start-30px top-30px id-color-2"></i>
                             <div class="de_testi_by">
-                                <img class="bg-white p-2 circle" alt="circle"
-                                    src="images/home/testimonials/2.dharmendra-sinh-dodia.jpg">
+                                <img class="bg-white p-2 circle" loading="lazy" alt="circle"
+                                    src="images/home/testimonials/2.dharmendra-sinh-dodia.avif">
                                 <div>Mr. Dharmendra Sinh Dodia<span>GSP Crop Science Pvt. Ltd.</span></div>
                             </div>
                             <p>"We have given Annual Maintenance Contracts since last three years for all
@@ -635,7 +650,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <blockquote>
                             <i class="icofont-quote-left absolute start-30px top-30px id-color-2"></i>
                             <div class="de_testi_by">
-                                <img class="bg-white p-2 circle" alt="circle" src="images/home/testimonials/3.ajay-patel.jpg">
+                                <img class="bg-white p-2 circle" loading="lazy" alt="circle"
+                                    src="images/home/testimonials/3.ajay-patel.avif">
                                 <div>Ajay Patel<span>Lexus Hycon Pvt. Ltd.</span></div>
                             </div>
                             <p>"Prompt Service, Proper Solutions, end to end support and very economical
@@ -657,8 +673,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <blockquote>
                             <i class="icofont-quote-left absolute start-30px top-30px id-color-2"></i>
                             <div class="de_testi_by">
-                                <img class="bg-white p-2 circle" alt="circle"
-                                    src="images/home/testimonials/4.dharmendra-chotthani.jpg">
+                                <img class="bg-white p-2 circle" loading="lazy" alt="circle"
+                                    src="images/home/testimonials/4.dharmendra-chotthani.avif">
                                 <div>Dharmendra Chotthani<span>CEO - Client First </span></div>
                             </div>
                             <p>"Our company became a Aaryan Tradelink client in 2016 and we’ve been
@@ -686,8 +702,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <blockquote>
                             <i class="icofont-quote-left absolute start-30px top-30px id-color-2"></i>
                             <div class="de_testi_by">
-                                <img class="bg-white p-2 circle" alt="circle"
-                                    src="images/home/testimonials/5.utkarsh-jhunjhunuwala.jpg">
+                                <img class="bg-white p-2 circle" loading="lazy" alt="circle"
+                                    src="images/home/testimonials/5.utkarsh-jhunjhunuwala.avif">
                                 <div>Utkarsh Jhunjhunuwala<span>CEO - Exciller Group</span></div>
                             </div>
                             <p>"The two technicians who came were incredibly knowledgeable they did a
@@ -713,8 +729,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <blockquote>
                             <i class="icofont-quote-left absolute start-30px top-30px id-color-2"></i>
                             <div class="de_testi_by">
-                                <img class="bg-white p-2 circle" alt="circle"
-                                    src="images/home/testimonials/6.amit-thakkar.jpg">
+                                <img class="bg-white p-2 circle" loading="lazy" alt="circle"
+                                    src="images/home/testimonials/6.amit-thakkar.avif">
                                 <div>Amit Thakkar<span>Mediscribes Solutions (India) Pvt. Ltd.</span></div>
                             </div>
                             <p>"We have been working with Aaryan Tradelink for over two years now. They are
@@ -754,7 +770,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-6 mb-sm-20 position-relative">
                 <div class="relative p-4">
                     <img src="images/home/faq/Questions-amico (1).svg" class="img-fluid rounded-20px wow zoomIn"
-                        data-wow-delay="0s" alt="Questions">
+                        data-wow-delay="0s" alt="Questions" loading="lazy">
                 </div>
             </div>
 
@@ -765,38 +781,48 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             What services does Aaryan Tradelink offer?
                         </div>
                         <div class="accordion-section-content" id="accordion-a1">
-                            <p>We provide IT solutions, networking, CCTV, air conditioning, refrigeration,
-                                and office automation services.</p>
+                            <p>We provide IT solutions, network solutions, CCTV installation, air
+                                conditioning services,
+                                refrigeration solutions, and office automation solutions.</p>
                         </div>
+
                         <div class="accordion-section-title" data-tab="#accordion-a2">
                             Do you offer installation and maintenance services?
                         </div>
                         <div class="accordion-section-content" id="accordion-a2">
                             <p>Yes, we provide complete installation, maintenance, and after-sales support
-                                for all our products.</p>
+                                for all our IT products, air conditioning, refrigeration, and security
+                                systems.</p>
                         </div>
+
                         <div class="accordion-section-title" data-tab="#accordion-a3">
                             Which brands do you work with?
                         </div>
                         <div class="accordion-section-content" id="accordion-a3">
-                            <p>We partner with trusted and certified brands to ensure high-quality products
-                                and solutions</p>
+                            <p>We partner with trusted and certified brands to ensure high-quality IT
+                                hardware,
+                                office automation products, HVAC services, and networking solutions.</p>
                         </div>
+
                         <div class="accordion-section-title" data-tab="#accordion-a4">
                             How can I get a quote for your services?
                         </div>
                         <div class="accordion-section-content" id="accordion-a4">
-                            <p>You can contact us through our website or call us directly for a personalized
-                                quote.</p>
+                            <p>You can contact us through our website or call us directly for a personalized quote on
+                                IT services, air conditioning installation, commercial refrigeration, and
+                                CCTV surveillance solutions.</p>
                         </div>
+
                         <div class="accordion-section-title" data-tab="#accordion-a5">
                             Do you provide customer support?
                         </div>
                         <div class="accordion-section-content" id="accordion-a5">
-                            <p>Yes, our support team is available to assist you with any queries or service
-                                requests.</p>
+                            <p>Yes, our 24/7 support team is available to assist you with any queries or service
+                                requests related to network solutions, cybersecurity, automation services,
+                                and more.</p>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
@@ -843,7 +869,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 class="h-100 padding60 sm-padding40 overflow-hidden position-relative text-light jarallax">
                                 <div class="spacer-double"></div>
                                 <img src="images/background/3.webp" class="jarallax-img" alt="background 3">
-                                <div class="spacer-double"></div>
+                                <div class="spacer-double" loading="lazy"></div>
                             </div>
                         </div>
                         <div class="col-lg-6 text-center">
@@ -876,31 +902,52 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="col-md-12 wow fadeInUp">
                 <div id="owl-logo" class="logo-carousel no-alpha owl-carousel owl-theme">
-                    <img src="./images/home/logo/1.virgo.jpg" class="img-fluid px-4" alt="Virgo Logo">
-                    <img src="./images/home/logo/2.ajanta.jpg" class="img-fluid px-4" alt="Ajanta Logo">
-                    <img src="./images/home/logo/3.idbi.jpg" class="img-fluid px-4" alt="IDBI Bank Logo">
-                    <img src="./images/home/logo/4.yudiz.svg" class="img-fluid px-4" alt="Yudiz Solutions Logo">
-                    <img src="./images/home/logo/5.tech.svg" class="img-fluid px-4" alt="Tech Company Logo">
-                    <img src="./images/home/logo/6.podar-removebg-preview.png" class="img-fluid px-4" alt="Podar Education Logo">
-                    <img src="./images/home/logo/8.lodeston.png" class="img-fluid px-4" alt="Lodeston Logo">
-                    <img src="./images/home/logo/9.hyvtt-removebg-preview.png" class="img-fluid px-4" alt="Hyvtt Logo">
-                    <img src="./images/home/logo/10.honda-removebg-preview.png" class="img-fluid px-4" alt="Honda Logo">
-                    <img src="./images/home/logo/11.rolex.jpg" class="img-fluid px-4" alt="Rolex Logo">
-                    <img src="./images/home/logo/12.wheels-removebg-preview.png" class="img-fluid px-4" alt="Wheels Logo">
-                    <img src="./images/home/logo/13.sr-removebg-preview.png" class="img-fluid px-4" alt="SR Logo">
-                    <img src="./images/home/logo/14.torrento.png" class="img-fluid px-4" alt="Torrento Logo">
-                    <img src="./images/home/logo/15.canarabank-removebg-preview.png" class="img-fluid px-4" alt="Canara Bank Logo">
-                    <img src="./images/home/logo/16.sffron-removebg-preview.png" class="img-fluid px-4" alt="Saffron Logo">
-                    <img src="./images/home/logo/17.gtu-removebg-preview.png" class="img-fluid px-4" alt="Gujarat Technological University (GTU) Logo">
-                    <img src="./images/home/logo/18.jbmgrou_-removebg-preview.png" class="img-fluid px-4"  alt="JBM Group Logo">
-                    <img src="./images/home/logo/19.elite-removebg-preview.png" class="img-fluid px-4" alt="Elite Logo">
-                    <img src="./images/home/logo/20.dainikbank-removebg-preview.png" class="img-fluid px-4" alt="Dainik Bank Logo">
-                    <img src="./images/home/logo/21.astron-removebg-preview.png" class="img-fluid px-4" alt="Astron Logo">
-                    <img src="./images/home/logo/23.university.webp" class="img-fluid px-4" alt="University Logo">
-                    <img src="./images/home/logo/24.astral.webp" class="img-fluid px-4" alt="Astral Pipes Logo">
-                    <img src="./images/home/logo/25.cera.png" class="img-fluid px-4" alt="Cera Logo">
-                    <img src="./images/home/logo/26.allabadlbank.png" class="img-fluid px-4" alt="Allahabad Bank Logo">
-                    <img src="./images/home/logo/27.aeroneron-composite-private-limited-satellite-ahmedabad-cable-tray-manufacturers-xpy6k1x5u5.png" class="img-fluid px-4" alt="Aeroneron Composite Pvt Ltd Logo">
+                    <img src="./images/home/logo/1.virgo.avif" class="img-fluid px-4" loading="lazy" alt="Virgo Logo">
+                    <img src="./images/home/logo/2.ajanta.avif" class="img-fluid px-4" loading="lazy" alt="Ajanta Logo">
+                    <img src="./images/home/logo/3.idbi.avif" class="img-fluid px-4" loading="lazy"
+                        alt="IDBI Bank Logo">
+                    <img src="./images/home/logo/4.yudiz.svg" class="img-fluid px-4" loading="lazy"
+                        alt="Yudiz Solutions Logo">
+                    <img src="./images/home/logo/5.tech.svg" class="img-fluid px-4" loading="lazy"
+                        alt="Tech Company Logo">
+                    <img src="./images/home/logo/6.podar-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Podar Education Logo">
+                    <img src="./images/home/logo/8.lodeston.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Lodeston Logo">
+                    <img src="./images/home/logo/9.hyvtt-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Hyvtt Logo">
+                    <img src="./images/home/logo/10.honda-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Honda Logo">
+                    <img src="./images/home/logo/11.rolex.avif" class="img-fluid px-4" loading="lazy" alt="Rolex Logo">
+                    <img src="./images/home/logo/12.wheels-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Wheels Logo">
+                    <img src="./images/home/logo/13.sr-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
+                        alt="SR Logo">
+                    <img src="./images/home/logo/14.torrento.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Torrento Logo">
+                    <img src="./images/home/logo/15.canarabank-removebg-preview.avif" class="img-fluid px-4"
+                        loading="lazy" alt="Canara Bank Logo">
+                    <img src="./images/home/logo/16.sffron-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Saffron Logo">
+                    <img src="./images/home/logo/17.gtu-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Gujarat Technological University (GTU) Logo">
+                    <img src="./images/home/logo/18.jbmgrou_-removebg-preview.avif" class="img-fluid px-4"
+                        loading="lazy" alt="JBM Group Logo">
+                    <img src="./images/home/logo/19.elite-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Elite Logo">
+                    <img src="./images/home/logo/20.dainikbank-removebg-preview.avif" class="img-fluid px-4"
+                        loading="lazy" alt="Dainik Bank Logo">
+                    <img src="./images/home/logo/21.astron-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Astron Logo">
+                    <img src="./images/home/logo/23.university.webp" class="img-fluid px-4" loading="lazy"
+                        alt="University Logo">
+                    <img src="./images/home/logo/24.astral.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Astral Pipes Logo">
+                    <img src="./images/home/logo/25.cera.avif" class="img-fluid px-4" loading="lazy" alt="Cera Logo">
+                    <img src="./images/home/logo/26.allabadlbank.avif" class="img-fluid px-4" loading="lazy"
+                        alt="Allahabad Bank Logo">
+                    <img src="./images/home/logo/27.aeroneron-composite-private-limited-satellite-ahmedabad-cable-tray-manufacturers-xpy6k1x5u5.avif"
+                        class="img-fluid px-4" loading="lazy" alt="Aeroneron Composite Pvt Ltd Logo">
 
                 </div>
             </div>

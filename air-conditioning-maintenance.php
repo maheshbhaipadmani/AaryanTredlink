@@ -1,6 +1,6 @@
 ﻿<?php
 $Title = "Air Conditioning Maintenance | Regular AC Servicing - Aaryan Tradelink";
-$MetaDescription = "Maintain your air conditioning system with our expert servicing to ensure long-lasting cooling and energy efficiency.";
+$MetaDescription = "Keep your AC running efficiently with our expert servicing for long-lasting cooling, optimal performance, and energy savings.";
 $MetaKeywords = "AC maintenance, HVAC care, air conditioner servicing, cooling system upkeep, climate control solutions, energy-saving AC, preventive AC maintenance";
 ?>
 
@@ -10,7 +10,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 <!-- section begin -->
 <section id="subheader" class="jarallax text-light">
-    <img src="images/background/5.webp" class="jarallax-img" alt="Beautiful scenic background view">
+    <img src="images/background/5.webp" class="jarallax-img" alt="Beautiful scenic background view" loading="lazy">
     <div class="container relative z-index-1000">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -33,7 +33,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 <div class="bg-color relative z-index-1000 mt-40 mb40">
     <a href="Contact">
-        <img src="images/svg/phone-calling-svgrepo-com.svg"
+        <img src="images/svg/phone-calling-svgrepo-com.svg" loading="lazy"
             class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" alt="Call us icon">
     </a>
 </div>
@@ -65,38 +65,38 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="bg-color p-4 py-5 rounded-20px mb-2 text-center">
                             <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                 data-wow-delay=".0s">
-                                <img src="./images/home/logo/2.ajanta.jpg" class="img-fluid">
+                                <img src="./images/home/logo/2.ajanta.avif" class="img-fluid" loading="lazy">
                             </div>
                             <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                 data-wow-delay=".2s">
-                                <img src="images/home/logo/17.gtu-removebg-preview.png" class="img-fluid">
+                                <img src="images/home/logo/17.gtu-removebg-preview.avif" class="img-fluid" loading="lazy">
                             </div>
 
                             <div class="mb-2 sm-hide"></div>
 
                             <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                 data-wow-delay=".4s">
-                                <img src="images/home/logo/13.sr-removebg-preview.png" class="img-fluid">
+                                <img src="images/home/logo/13.sr-removebg-preview.avif" class="img-fluid" loading="lazy">
                             </div>
                             <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                 data-wow-delay=".6s">
-                                <img src="images/home/logo/14.torrento.png" class="img-fluid">
+                                <img src="images/home/logo/14.torrento.avif" class="img-fluid" loading="lazy">
                             </div>
                             <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                 data-wow-delay=".8s">
-                                <img src="images/home/logo/15.canarabank-removebg-preview.png" class="img-fluid">
+                                <img src="images/home/logo/15.canarabank-removebg-preview.avif" class="img-fluid" loading="lazy">
                             </div>
 
                             <div class="mb-2 sm-hide"></div>
 
                             <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                 data-wow-delay="1s">
-                                <img src="images/home/logo/27.aeroneron-composite-private-limited-satellite-ahmedabad-cable-tray-manufacturers-xpy6k1x5u5.png"
-                                    class="img-fluid">
+                                <img src="images/home/logo/27.aeroneron-composite-private-limited-satellite-ahmedabad-cable-tray-manufacturers-xpy6k1x5u5.avif"
+                                    class="img-fluid" loading="lazy">
                             </div>
                             <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                 data-wow-delay="1.2s">
-                                <img src="./images/home/logo/18.jbmgrou_-removebg-preview.png" class="img-fluid">
+                                <img src="./images/home/logo/18.jbmgrou_-removebg-preview.avif" class="img-fluid" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -110,8 +110,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Expert Diagnosis</h4>
-                                <p class="mb-0"> Swift detection of air conditioner issues to ensure
-                                    efficient performance.</p>
+                                <p class="mb-0"> Quick fault detection to maintain optimal air conditioning performance.</p>
                             </div>
                         </div>
                     </div>
@@ -121,8 +120,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Preventive Care</h4>
-                                <p class="mb-0">Regular maintenance to enhance energy efficiency and prolong
-                                    system life.</p>
+                                <p class="mb-0">Routine maintenance enhances energy efficiency and extends system lifespan.</p>
                             </div>
                         </div>
                     </div>
@@ -132,8 +130,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Reliable Performance</h4>
-                                <p class="mb-0">Ensuring top air con brands continue to perform at their
-                                    best.</p>
+                                <p class="mb-0">Ensuring top AC brands deliver consistent cooling and durability.</p>
                             </div>
                         </div>
                     </div>
@@ -143,8 +140,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Skilled Technicians</h4>
-                                <p class="mb-0">Dedicated professionals committed to exceptional service.
-                                </p>
+                                <p class="mb-0">Certified professionals providing expert HVAC solutions. </p>
                             </div>
                         </div>
                     </div>
@@ -154,8 +150,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Energy Optimization</h4>
-                                <p class="mb-0"> Focused on maximizing efficiency and reducing utility
-                                    costs.</p>
+                                <p class="mb-0"> Smart cooling solutions that reduce energy consumption and lower utility bills.</p>
                             </div>
                         </div>
                     </div>
@@ -165,8 +160,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Prompt Response</h4>
-                                <p class="mb-0">Fast, effective support to minimize downtime and keep you
-                                    cool.</p>
+                                <p class="mb-0">Rapid service to minimize downtime and keep your space cool and comfortable.</p>
                             </div>
                         </div>
                     </div>

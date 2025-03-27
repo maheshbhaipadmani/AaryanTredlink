@@ -1,6 +1,6 @@
 ﻿<?php
 $Title = " IT Product Maintenance | Preventive IT Solutions - Aaryan Tradelink";
-$MetaDescription = "Ensure long-lasting performance with our IT product maintenance services. We provide preventive care for laptops, desktops, and accessories.";
+$MetaDescription = "Keep your IT products running smoothly with expert maintenance. Get preventive care for laptops, desktops & accessories at Aaryan Tradelink.";
 $MetaKeywords = " IT maintenance, laptop maintenance, desktop servicing, IT product care, preventive IT solutions, system optimization, software updates, network maintenance, hardware upkeep";
 ?>
 
@@ -9,7 +9,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/5.webp" class="jarallax-img" alt="backgound 5">
+                <img src="images/background/5.webp" class="jarallax-img" loading="lazy" alt="backgound 5">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
@@ -33,7 +33,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="bg-color relative z-index-1000 mt-40 mb40">
                 <a href="Contact">
                     <img src="images/svg/phone-calling-svgrepo-com.svg"
-                        class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" alt="svgrepo">
+                        class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide"  loading="lazy" alt="svgrepo">
                 </a>
             </div>
 
@@ -64,37 +64,37 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="bg-color p-4 py-5 rounded-20px mb-2 text-center">
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                             data-wow-delay=".0s">
-                                            <img src="./images/home/logo/2.ajanta.jpg" class="img-fluid">
+                                            <img src="./images/home/logo/2.ajanta.avif" loading="lazy" class="img-fluid">
                                         </div>
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                             data-wow-delay=".2s">
-                                            <img src="images/home/logo/17.gtu-removebg-preview.png" class="img-fluid">
+                                            <img src="images/home/logo/17.gtu-removebg-preview.avif" loading="lazy" class="img-fluid">
                                         </div>
 
                                         <div class="mb-2 sm-hide"></div>
 
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                             data-wow-delay=".4s">
-                                            <img src="images/home/logo/13.sr-removebg-preview.png" class="img-fluid">
+                                            <img src="images/home/logo/13.sr-removebg-preview.avif" loading="lazy" class="img-fluid">
                                         </div>
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                             data-wow-delay=".6s">
-                                                                                        <img src="images/home/logo/14.torrento.png" class="img-fluid">
+                                                                                        <img src="images/home/logo/14.torrento.avif" class="img-fluid" loading="lazy">
                                         </div>
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                             data-wow-delay=".8s">
-                                                                                        <img src="images/home/logo/15.canarabank-removebg-preview.png" class="img-fluid">
+                                                                                        <img src="images/home/logo/15.canarabank-removebg-preview.avif" class="img-fluid" loading="lazy">
                                         </div>
 
                                         <div class="mb-2 sm-hide"></div>
 
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                             data-wow-delay="1s">
-                                            <img src="images/home/logo/27.aeroneron-composite-private-limited-satellite-ahmedabad-cable-tray-manufacturers-xpy6k1x5u5.png" class="img-fluid">
+                                            <img src="images/home/logo/27.aeroneron-composite-private-limited-satellite-ahmedabad-cable-tray-manufacturers-xpy6k1x5u5.avif" class="img-fluid" loading="lazy">
                                         </div>
                                         <div class="bg-color-3 inline-block w-25 p-3 py-4 rounded-10px m-2 wow scaleIn"
                                             data-wow-delay="1.2s">
-                                            <img src="./images/home/logo/18.jbmgrou_-removebg-preview.png" class="img-fluid">
+                                            <img src="./images/home/logo/18.jbmgrou_-removebg-preview.avif" class="img-fluid" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
@@ -120,7 +120,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>24/7 Monitoring & Troubleshooting </h4>
-                                            <p class="mb-0">Instant support to prevent unexpected downtime.</p>
+                                            <p class="mb-0">Instant IT support to prevent unexpected downtime.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -142,8 +142,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Network & Security Management</h4>
-                                            <p class="mb-0">Protect your systems from cyber threats and vulnerabilities.
-                                            </p>
+                                            <p class="mb-0">Protect your systems from cyber threats and vulnerabilities.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -154,8 +153,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Performance Optimization </h4>
-                                            <p class="mb-0">Enhance speed, efficiency, and overall system reliability.
-                                            </p>
+                                            <p class="mb-0">Enhance speed, efficiency, and overall system reliability. </p>
                                         </div>
                                     </div>
                                 </div>

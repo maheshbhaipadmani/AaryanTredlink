@@ -7,10 +7,9 @@ echo
             <div class="container">
                 <div class="row gx-5">
                     <div class="col-lg-4 col-sm-6">
-                        <img src="./images/logo/Aaryan Tredlink _Finle logo.png" alt="logo">
+                        <img src="./images/logo/Aaryan Tredlink _Finle logo.png" alt="logo" loading="lazy">
                         <div class="spacer-20"></div>
-                        <p>Aaryan Tradelink, since 2009, delivers trusted IT, networking, air conditioning, and office
-                            solutions with expert support.</p>
+                        <p>Aaryan Tradelink, since 2009, delivers trusted IT solutions, networking solutions, air conditioning services, and office automation solutions with expert support.</p>
 
                         <div class="social-icons mb-sm-30">
                             <a href="https://www.instagram.com/aaryantradelink.ahmedabad?igsh=MWczZWEzNmM0bXlwNg=="><i class="fa-brands fa-instagram"></i></a>

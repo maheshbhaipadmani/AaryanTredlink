@@ -1,6 +1,6 @@
 <?php
-$Title = "Refrigeration Solutions | Commercial & Industrial Cooling - Aaryan Tradelink";
-$MetaDescription = "Get high-performance refrigeration solutions for commercial and industrial use. Explore chillers, deep freezers, and cold storage systems at Aaryan Tradelink.";
+$Title = "Aaryan Tradelink | Comprehensive Refrigeration Product Solutions​";
+$MetaDescription = "Explore Aaryan Tradelink's range of refrigeration products, including water dispensers, deep freezers, visi coolers, medical refrigerators, and cold room solutions, tailored for industries like hospitality, pharmaceuticals, and food processing.";
 $MetaKeywords = "refrigeration, commercial refrigeration, industrial cooling, deep freezers, cold storage, chillers, refrigeration units, cooling technology, energy-efficient refrigeration, refrigeration maintenance";
 ?>
 
@@ -21,7 +21,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-6">
                 <div class="bg-color-3 relative overflow-hidden rounded-20px mb-4 p-3 pb-4">
                     <div class="text-center">
-                        <img src="images/product/refrigeration/main.png" class="w-80" alt="refrigeration 4">
+                        <img src="images/product/refrigeration/main.avif" class="w-80" alt="refrigeration 4" loading="lazy">
                     </div>
 
                     <div class="col-lg-12">
@@ -31,7 +31,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                             <div id="img-carousel" class="owl-carousel owl-theme owl-4-margin-15">
                                 <div class="item">
-                                    <a href="images/product/refrigeration/Deep-Freezer.jpg"
+                                    <a href="images/product/refrigeration/Deep-Freezer.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -40,13 +40,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/refrigeration/Deep-Freezer.jpg"
+                                            <img src="images/product/refrigeration/Deep-Freezer.avif" loading="lazy"
                                                 class="img-fluid hover-scale-1-2" alt="refrigeration 5">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/refrigeration/ice-fre.jpg"
+                                    <a href="images/product/refrigeration/ice-fre.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -55,13 +55,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/refrigeration/ice-fre.jpg"
+                                            <img src="images/product/refrigeration/ice-fre.avif" loading="lazy"
                                                 class="img-fluid hover-scale-1-2" alt="refrigeration 7">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/refrigeration/ice.jpg" class="image-popup d-block hover">
+                                    <a href="images/product/refrigeration/ice.avif" class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
                                                 class="absolute start-0 w-100 abs-middle fs-36 text-white text-center z-2">
@@ -69,13 +69,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/refrigeration/ice.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="refrigeration 8">
+                                            <img src="images/product/refrigeration/ice.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="refrigeration 8">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/refrigeration/medical-fre.jpg"
+                                    <a href="images/product/refrigeration/medical-fre.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -84,13 +84,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/refrigeration/medical-fre.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="refrigeration 9">
+                                            <img src="images/product/refrigeration/medical-fre.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="refrigeration 9">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/refrigeration/Water-Coolers.jpg"
+                                    <a href="images/product/refrigeration/Water-Coolers.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -99,13 +99,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/refrigeration/Water-Coolers.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="refrigeration 9">
+                                            <img src="images/product/refrigeration/Water-Coolers.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="refrigeration 9">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/refrigeration/Water-Dispensers.jpg"
+                                    <a href="images/product/refrigeration/Water-Dispensers.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -114,8 +114,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/refrigeration/Water-Dispensers.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="refrigeration 9">
+                                            <img src="images/product/refrigeration/Water-Dispensers.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="refrigeration 9">
                                         </div>
                                     </a>
                                 </div>
@@ -127,13 +127,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="col-lg-6">
                 <h2>Revolutionizing Refrigeration with Advanced Cooling Solutions</h2>
-                <p>Refrigeration technology has evolved to provide more than just cooling—it ensures food preservation,
-                    energy savings, and advanced storage solutions. Aaryan Tradelink offers a range of refrigeration
-                    solutions tailored for home and commercial needs, ensuring optimal freshness and efficiency.</p>
-                <p>Our products include frost-free technology, convertible storage, and smart inverter technology for
-                    precise temperature control. Designed for durability and sustainability, our refrigeration solutions
-                    keep food fresh, reduce energy consumption, and provide reliable performance for businesses and
-                    households.</p>
+                <p>Refrigeration technology has evolved beyond cooling to enhance food preservation, energy efficiency, and advanced storage solutions. Aaryan Tradelink provides commercial refrigeration, industrial refrigeration, and cold storage solutions, ensuring optimal freshness and long-lasting performance.</p>
+                <p>Our products feature frost-free technology, smart inverter technology, and convertible storage, delivering precise temperature control and energy-efficient refrigeration systems. Built for durability and sustainability, our solutions help reduce energy consumption while ensuring reliable performance for businesses and households.</p>
                 <h5>"Keeping freshness intact with energy-efficient refrigeration solutions."</h5>
                 <div class="spacer-half"></div>
 
@@ -160,7 +155,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 1. Water Dispensers -->
                     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/refrigeration/svg/water-dispenser.png" class="w-80px mb-3"
+                            <img src="./images/product/refrigeration/svg/water-dispenser.png" class="w-80px mb-3" loading="lazy"
                                 alt="refrigeration">
                             <h4>Water Dispensers</h4>
                         </div>
@@ -168,7 +163,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 2. Water Coolers -->
                     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/refrigeration/svg/cooler.png" class="w-80px mb-3"
+                            <img src="./images/product/refrigeration/svg/cooler.png" class="w-80px mb-3" loading="lazy"
                                 alt="refrigeration">
                             <h4>Water Coolers</h4>
                         </div>
@@ -176,7 +171,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 3. Deep Freezer -->
                     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/refrigeration/svg/freezer.png" class="w-80px mb-3"
+                            <img src="./images/product/refrigeration/svg/freezer.png" class="w-80px mb-3" loading="lazy"
                                 alt="refrigeration">
                             <h4>Deep Freezer</h4>
                         </div>
@@ -184,7 +179,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 4. Visi Coolers -->
                     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/refrigeration/svg/refrigerator.png" class="w-80px mb-3"
+                            <img src="./images/product/refrigeration/svg/refrigerator.png" class="w-80px mb-3" loading="lazy"
                                 alt="refrigeration">
                             <h4>Visi Coolers</h4>
                         </div>
@@ -192,7 +187,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 5. Medical Refrigerators -->
                     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/refrigeration/svg/fridge.png" class="w-80px mb-3"
+                            <img src="./images/product/refrigeration/svg/fridge.png" class="w-80px mb-3" loading="lazy"
                                 alt="refrigeration">
                             <h4>Medical <br> Refrigerators</h4>
                         </div>
@@ -200,7 +195,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 6. Under Counter Chillers -->
                     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/refrigeration/svg/freezer (2).png" class="w-80px mb-3"
+                            <img src="./images/product/refrigeration/svg/freezer (2).png" class="w-80px mb-3" loading="lazy"
                                 alt="refrigeration">
                             <h4>Under Counter <br> Chillers & Freezers</h4>
                         </div>
@@ -208,7 +203,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 7. Ice Cube Machines -->
                     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/refrigeration/svg/ice.png" class="w-80px mb-3"
+                            <img src="./images/product/refrigeration/svg/ice.png" class="w-80px mb-3" loading="lazy"
                                 alt="refrigeration">
                             <h4>Ice Cube Machines</h4>
                         </div>
@@ -216,7 +211,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 8. Reach-in Chillers -->
                     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/refrigeration/svg/freezer (1).png" class="w-80px mb-3"
+                            <img src="./images/product/refrigeration/svg/freezer (1).png" class="w-80px mb-3" loading="lazy"
                                 alt="refrigeration">
                             <h4>Reach-in Chillers & Freezers</h4>
                         </div>
@@ -224,7 +219,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 9. Cold Room Solutions -->
                     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/refrigeration/svg/cold-room.png" class="w-80px mb-3"
+                            <img src="./images/product/refrigeration/svg/cold-room.png" class="w-80px mb-3" loading="lazy"
                                 alt="refrigeration">
                             <h4>Cold Room Solutions</h4>
                         </div>
@@ -244,7 +239,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <!-- Image -->
                 <div class="col-lg-6 position-lg-absolute left-half h-100">
                     <div class="image"
-                        data-bgimage="url(images/product/refrigeration/supermarket-refrigerated-aisle-with-products_605022-212641.jpg) center">
+                        data-bgimage="url(images/product/refrigeration/supermarket-refrigerated-aisle-with-products_605022-212641.avif) center">
                     </div>
                 </div>
                 <!-- Text -->

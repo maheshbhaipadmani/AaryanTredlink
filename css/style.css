@@ -3091,11 +3091,11 @@ header.header-light .h-phone span{
   -webkit-border-radius: 0px;
   -moz-appearance: none;
   appearance: none;
-  background: url('../images/ui/arrow-down-form.png') no-repeat 98% 60%;
+  background: url('../images/ui/arrow-down-form.avif') no-repeat 98% 60%;
 }
 
 .form-underline select:focus {
-  background: url('../images/ui/arrow-down-form-hover.png') no-repeat 98% 60%;
+  background: url('../images/ui/arrow-down-form-hover.avif') no-repeat 98% 60%;
 }
 
 .form-underline input[type=text],
@@ -10812,7 +10812,7 @@ a.de-card:hover {
 
 .toggle-list li .acc_active:hover {
   color: #777;
-  background: url(../images_02/icon-slide-plus.png) 20px center no-repeat;
+  background: url(../images_02/icon-slide-plus.avif) 20px center no-repeat;
   padding-left: 80px;
   -o-transition: .5s;
   -ms-transition: .5s;
@@ -10823,7 +10823,7 @@ a.de-card:hover {
 
 .toggle-list li .acc_noactive:hover {
   color: #777;
-  background: url(../images_02/icon-slide-min.png) 20px center no-repeat;
+  background: url(../images_02/icon-slide-min.avif) 20px center no-repeat;
   -o-transition: .5s;
   -ms-transition: .5s;
   -moz-transition: .5s;
@@ -10838,7 +10838,7 @@ a.de-card:hover {
 }
 
 .acc_active {
-  background: url(../images_02/icon-slide-plus.png) 20px center no-repeat;
+  background: url(../images_02/icon-slide-plus.avif) 20px center no-repeat;
   -o-transition: .5s;
   -ms-transition: .5s;
   -moz-transition: .5s;
@@ -10848,7 +10848,7 @@ a.de-card:hover {
 }
 
 .acc_noactive {
-  background: url(../images_02/icon-slide-min.png) 20px center no-repeat;
+  background: url(../images_02/icon-slide-min.avif) 20px center no-repeat;
 }
 
 /* ================================================== */
@@ -11179,7 +11179,7 @@ a:hover,
   width: 100px;
   height: 100px;
   display: block;
-  background: url(../images_02/close.png) center no-repeat;
+  background: url(../images_02/close.avif) center no-repeat;
   margin: 0 auto;
   margin-bottom: 80px;
   cursor: poInter;
@@ -11187,7 +11187,7 @@ a:hover,
 }
 
 #d-btn-close-x {
-  background: url(../images_02/close-2.png) center no-repeat;
+  background: url(../images_02/close-2.avif) center no-repeat;
 }
 
 .project-name {
@@ -11412,13 +11412,13 @@ a.img-icon-zoom {
   display: inline-block;
   width: 36px;
   height: 36px;
-  background: url(../images_02/icon-url.png) center no-repeat;
+  background: url(../images_02/icon-url.avif) center no-repeat;
   margin: 0 auto;
   margin: 0 2px 0 2px;
 }
 
 a.img-icon-zoom {
-  background: url(../images_02/icon-zoom.png) center no-repeat;
+  background: url(../images_02/icon-zoom.avif) center no-repeat;
 }
 
 .pf_full_width {
@@ -11615,7 +11615,7 @@ footer .widget{
 
 .widget_recent_post li {
   padding-left: 20px;
-  background: url(../images_02/list-arrow.png) left 2px no-repeat;
+  background: url(../images_02/list-arrow.avif) left 2px no-repeat;
   border-bottom: solid 1px #222;
   padding-bottom: 7px;
   margin-bottom: 5px;
@@ -11678,7 +11678,7 @@ footer .widget{
 
 .widget .comments li {
   padding-left: 20px;
-  background: url(../images_02/list-arrow.png) left 2px no-repeat;
+  background: url(../images_02/list-arrow.avif) left 2px no-repeat;
   border-bottom: solid 1px var(--bg-dark-3);
   padding-bottom: 7px;
   margin-bottom: 5px;
@@ -19988,7 +19988,7 @@ img {
   header.header-mobile #mainmenu>li>span {
     width: 36px;
     height: 36px;
-    background: url(../images/ui/arrow-down.png) center no-repeat;
+    background: url(../images/ui/arrow-down.avif) center no-repeat;
     position: absolute;
     right: 0;
     margin-top: 10px;
@@ -19997,21 +19997,21 @@ img {
   }
 
   .dark-scheme header.header-mobile #mainmenu>li>span {
-    background: url(../images/ui/arrow-down.png) center no-repeat;
+    background: url(../images/ui/arrow-down.avif) center no-repeat;
   }
 
   header.header-mobile #mainmenu li span.active {
-    background: url(../images/ui/arrow-up.png) center no-repeat;
+    background: url(../images/ui/arrow-up.avif) center no-repeat;
   }
 
   .dark-scheme header.header-mobile #mainmenu li span.active {
-    background: url(../images/ui/arrow-up.png) center no-repeat;
+    background: url(../images/ui/arrow-up.avif) center no-repeat;
   }
 
   header.header-mobile #mainmenu li>ul>li>span {
     width: 36px;
     height: 36px;
-    background: url(../images/ui/arrow-down.png) center no-repeat;
+    background: url(../images/ui/arrow-down.avif) center no-repeat;
     position: absolute;
     right: 0;
     margin-top: -45px;
@@ -20020,7 +20020,7 @@ img {
   }
 
   header.header-mobile #mainmenu>li>ul>li>span.active {
-    background: url(../images/ui/arrow-up.png) center no-repeat;
+    background: url(../images/ui/arrow-up.avif) center no-repeat;
   }
 
   header.header-mobile #mainmenu li ul li a.menu-item {
@@ -20037,12 +20037,12 @@ img {
 
   header.header-light.header-mobile #mainmenu>li>span,
   header.header-light.header-mobile #mainmenu li>ul>li>span {
-    background: url(../images/ui/arrow-down.png) center no-repeat;
+    background: url(../images/ui/arrow-down.avif) center no-repeat;
   }
 
   header.header-light.header-mobile #mainmenu>li>span.active,
   header.header-light.header-mobile #mainmenu li>ul>li>span.active {
-    background: url(../images/ui/arrow-up.png) center no-repeat;
+    background: url(../images/ui/arrow-up.avif) center no-repeat;
   }
 
   #mainmenu li ul.mega {

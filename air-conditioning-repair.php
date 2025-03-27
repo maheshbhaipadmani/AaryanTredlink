@@ -1,7 +1,7 @@
 ﻿<?php
 $Title = "Air Conditioning Repair | Fast & Reliable AC Fixing - Aaryan Tradelink";
-$MetaDescription = "Facing AC issues? Our expert technicians provide fast and reliable air conditioning repair services for homes and businesses.";
-$MetaKeywords = "AC repair, air conditioning troubleshooting, HVAC repair, cooling system fixing, air conditioner technician, emergency AC service, AC unit repair";
+$MetaDescription = "Facing AC issues? Get fast, reliable repair services from expert technicians for homes & businesses. Stay cool with our trusted solutions!";
+$MetaKeywords = " Expert HVAC services in Ahmedabad, Air conditioning solutions provider in Gujarat, Professional ventilation system installations in Ahmedabad, Efficient heating solutions for businesses in Gujarat, Comprehensive climate control services in Ahmedabad";
 ?>
 
 <?php
@@ -9,7 +9,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/4.webp" class="jarallax-img" alt="background4">
+                <img src="images/background/4.webp" class="jarallax-img" loading="lazy" alt="background4">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
@@ -32,7 +32,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="bg-color relative z-index-1000 mt-40 mb40">
                 <a href="Contact">
-                    <img src="images/svg/phone-calling-svgrepo-com.svg"
+                    <img src="images/svg/phone-calling-svgrepo-com.svg" loading="lazy"
                         class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" alt="phone-calling-svgrep">
                 </a>
             </div>
@@ -87,7 +87,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Expert Diagnosis</h4>
-                                            <p class="mb-0">Rapid identification of issues to minimize downtime.</p>
+                                            <p class="mb-0">Quick issue detection to reduce downtime and ensure seamless operations.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -98,8 +98,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Comprehensive Repairs</h4>
-                                            <p class="mb-0"> Covering everything from hardware malfunctions to software
-                                                glitches.</p>
+                                            <p class="mb-0"> From hardware failures to software troubleshooting, we cover it all.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -110,8 +109,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Efficient Service</h4>
-                                            <p class="mb-0">Swift repairs to keep your office running at peak
-                                                performance.</p>
+                                            <p class="mb-0">Fast and reliable repairs to keep your office automation systems running smoothly.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -122,8 +120,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Trusted Support</h4>
-                                            <p class="mb-0">Skilled technicians dedicated to maintaining your office
-                                                automation systems.</p>
+                                            <p class="mb-0">Experienced technicians committed to providing ongoing maintenance and expert solutions.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -134,7 +131,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                             <div class="row g-4">
                                 <div class="col-lg-6 wow fadeInRight">
-                                    <img src="images/misc/7.webp" class="img-fluid rounded-20" alt="img 7">
+                                    <img src="images/misc/7.webp" class="img-fluid rounded-20" alt="img 7" loading="lazy">
                                 </div>
 
                                 <div class="col-lg-6 wow fadeInLeft">
@@ -158,13 +155,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="row g-4">
                     <div class="col-md-12 wow fadeInUp">
                         <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
-                            <img src="images/home/logo/6.podar-removebg-preview.png" class="img-fluid px-4"
+                            <img src="images/home/logo/6.podar-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
                                 alt="Company Logo 2">
-                            <img src="images/home/logo/25.cera.png" class="img-fluid px-4" alt="Company Logo 3">
-                            <img src="images/home/logo/20.dainikbank-removebg-preview.png" class="img-fluid px-4"
+                            <img src="images/home/logo/25.cera.avif" class="img-fluid px-4" alt="Company Logo 3" loading="lazy">
+                            <img src="images/home/logo/20.dainikbank-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
                                 alt="Company Logo 4">
-                            <img src="images/home/logo/26.allabadlbank.png" class="img-fluid px-4" alt="Company Logo 5">
-                            <img src="images/home/logo/16.sffron-removebg-preview.png" class="img-fluid px-4"
+                            <img src="images/home/logo/26.allabadlbank.avif" class="img-fluid px-4" alt="Company Logo 5" loading="lazy">
+                            <img src="images/home/logo/16.sffron-removebg-preview.avif" class="img-fluid px-4" loading="lazy"
                                 alt="Company Logo 6">
 
                         </div>

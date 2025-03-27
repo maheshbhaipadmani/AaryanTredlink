@@ -1,6 +1,6 @@
 <?php
-$Title = "Air Conditioning Solutions | Commercial & Residential ACs - Aaryan Tradelink";
-$MetaDescription = "Explore our wide range of air conditioning solutions, including commercial and residential ACs, installation, and maintenance services. Stay cool with Aaryan Tradelink!";
+$Title = "Aaryan Tradelink | Energy-Efficient Air Conditioning Solutions​";
+$MetaDescription = "Aaryan Tradelink delivers energy-efficient air conditioning solutions, offering sales and services for Split ACs, Window ACs, Cassette ACs, VRV/VRF systems, and HVAC solutions for commercial and residential projects.";
 $MetaKeywords = "air conditioning, AC units, commercial AC, residential AC, cooling solutions, HVAC systems, AC installation, AC maintenance, air cooling, energy-efficient AC, industrial air conditioning";
 ?>
 
@@ -21,8 +21,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="col-lg-6">
                 <div class="bg-color-3 relative overflow-hidden rounded-20px mb-4 p-3 pb-4">
-                    <div class="text-center">
-                        <img src="images/product/air-conditioning/main.png" class="w-80"
+                    <div class="text-center"> 
+                        <img src="images/product/air-conditioning/main.avif" class="w-80" loading="lazy"
                             alt="High-efficiency air conditioning system">
                     </div>
 
@@ -41,7 +41,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/misc/9.webp" class="img-fluid hover-scale-1-2"
+                                            <img src="images/misc/9.webp" class="img-fluid hover-scale-1-2" loading="lazy"
                                                 alt="Premium air conditioning unit for home and office">
                                         </div>
                                     </a>
@@ -55,13 +55,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/misc/8.webp" class="img-fluid hover-scale-1-2"
+                                            <img src="images/misc/8.webp" class="img-fluid hover-scale-1-2" loading="lazy"
                                                 alt="High-efficiency air conditioning system">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/air-conditioning/room-ac-1.jpg"
+                                    <a href="images/product/air-conditioning/room-ac-1.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -70,13 +70,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/air-conditioning/room-ac-1.jpg"
+                                            <img src="images/product/air-conditioning/room-ac-1.avif" loading="lazy"
                                                 class="img-fluid hover-scale-1-2" alt="Abstract design background">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/air-conditioning/room-ac.jpg"
+                                    <a href="images/product/air-conditioning/room-ac.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -85,13 +85,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/air-conditioning/room-ac.jpg"
+                                            <img src="images/product/air-conditioning/room-ac.avif" loading="lazy"
                                                 class="img-fluid hover-scale-1-2" alt="UI graphic element">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/air-conditioning/HVAC-Solutions.jpg"
+                                    <a href="images/product/air-conditioning/HVAC-Solutions.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -100,13 +100,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/air-conditioning/HVAC-Solutions.jpg"
+                                            <img src="images/product/air-conditioning/HVAC-Solutions.avif" loading="lazy"
                                                 class="img-fluid hover-scale-1-2" alt="Beautiful scenic view">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/air-conditioning/air-conditioner.jpg"
+                                    <a href="images/product/air-conditioning/air-conditioner.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -115,7 +115,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/air-conditioning/air-conditioner.jpg"
+                                            <img src="images/product/air-conditioning/air-conditioner.avif" loading="lazy"
                                                 class="img-fluid hover-scale-1-2"
                                                 alt="Technician working on a large air conditioning unit on a rooftop">
                                         </div>
@@ -131,7 +131,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/air-conditioning/side-view-male-technician-repairing-computer-cpu-workshop_23-2147923511.avif"
+                                            <img src="images/product/air-conditioning/side-view-male-technician-repairing-computer-cpu-workshop_23-2147923511.avif" loading="lazy"
                                                 class="img-fluid hover-scale-1-2" alt="side-view-male-technician">
                                         </div>
                                     </a>
@@ -145,14 +145,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="col-lg-6">
                 <h2>Efficient & Smart Air Conditioning Solutions</h2>
-                <p>Comfort and climate control are essential for every workspace and home. Aaryan Tradelink
-                    offers advanced air conditioning solutions designed for energy efficiency, powerful
-                    cooling, and smart connectivity. As a trusted provider in Gujarat, we deliver top-tier
-                    cooling solutions to ensure maximum comfort.</p>
-                <p>With modern inverter technology, eco-friendly refrigerants, and remote control access,
-                    our air conditioners provide a balance of performance and sustainability. Whether for
-                    residential or commercial use, we help businesses and homeowners maintain optimal indoor
-                    environments with our reliable air conditioning systems.</p>
+                <p>At Aaryan Tradelink, we provide expert Air Conditioning services, including AC installation, maintenance, and HVAC solutions for residential and commercial spaces. Our energy-efficient cooling systems ensure optimal climate control with powerful performance and smart connectivity. As a trusted provider in Gujarat, we deliver top-tier air conditioning solutions designed for maximum comfort and sustainability.</p>
+                <p>With modern inverter technology, eco-friendly refrigerants, and remote control access, our air conditioning solutions offer the perfect balance of performance and sustainability. Whether for residential or commercial use, Aaryan Tradelink ensures efficient cooling, energy savings, and reliable climate control, helping businesses and homeowners maintain optimal indoor environments with trusted air conditioning systems.</p>
                 <h5>"Bringing smart cooling technology for better living and working spaces."</h5>
                 <div class="spacer-half"></div>
 
@@ -179,7 +173,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 1. Windows AC -->
                     <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/air-conditioning/svg/window-ac.png" class="w-80px mb-3"
+                            <img src="./images/product/air-conditioning/svg/window-ac.png" class="w-80px mb-3" loading="lazy"
                                 alt="Windows AC">
                             <h4>Windows AC</h4>
                         </div>
@@ -188,7 +182,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 2. Split AC -->
                     <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/air-conditioning/svg/cooling.png" class="w-80px mb-3"
+                            <img src="./images/product/air-conditioning/svg/cooling.png" class="w-80px mb-3" loading="lazy"
                                 alt="Split AC">
                             <h4>Split AC</h4>
                         </div>
@@ -197,7 +191,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 3. Cassette AC -->
                     <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/air-conditioning/svg/air-conditioner.png" class="w-80px mb-3"
+                            <img src="./images/product/air-conditioning/svg/air-conditioner.png" class="w-80px mb-3" loading="lazy"
                                 alt="Cassette AC">
                             <h4>Cassette AC</h4>
                         </div>
@@ -206,7 +200,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 4. VRV/VRF Solutions -->
                     <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/air-conditioning/svg/refrigerator.png" class="w-80px mb-3"
+                            <img src="./images/product/air-conditioning/svg/refrigerator.png" class="w-80px mb-3" loading="lazy"
                                 alt="VRV/VRF Solutions">
                             <h4>VRV/VRF Solutions</h4>
                         </div>
@@ -215,7 +209,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 5. HVAC Solutions -->
                     <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/air-conditioning/svg/ductwork.png" class="w-80px mb-3"
+                            <img src="./images/product/air-conditioning/svg/ductwork.png" class="w-80px mb-3" loading="lazy"
                                 alt="HVAC Solutions">
                             <h4>HVAC Solutions</h4>
                         </div>

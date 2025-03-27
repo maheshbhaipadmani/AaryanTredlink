@@ -1,7 +1,7 @@
 ﻿<?php
-$Title = "Refrigeration Services | Cold Storage & Chiller Repair - Aaryan Tradelink";
-$MetaDescription = "We offer refrigeration solutions, including installation, repair, and maintenance for commercial and industrial cooling systems.";
-$MetaKeywords = "refrigeration services, cold storage repair, chiller servicing, industrial refrigeration, commercial cooling solutions, freezer maintenance, cooling technology";
+$Title = "Aaryan Tradelink | Refrigeration Products Sales & Services​";
+$MetaDescription = "Aaryan Tradelink offers comprehensive refrigeration solutions, providing sales and services of commercial refrigeration products to meet diverse industry needs.";
+$MetaKeywords = "Commercial refrigeration products and services in Ahmedabad, Cold storage solutions for businesses in Ahmedabad, Professional refrigeration maintenance services in Gujarat, Affordable refrigeration installation in Ahmedabad, Energy-efficient refrigeration systems in Gujarat, Customized cooling solutions for industries in Ahmedabad, Top-rated HVAC and refrigeration services in Gujarat";
 ?>
 
 <?php
@@ -9,7 +9,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/6.webp" class="jarallax-img" alt="jarallax">
+                <img src="images/background/6.webp" class="jarallax-img" alt="jarallax" loading="lazy">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
@@ -31,7 +31,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="bg-color relative z-index-1000 mt-40 mb40">
                 <a href="Contact">
-                    <img src="images/svg/phone-calling-svgrepo-com.svg" class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" alt="phone-calling-svgrepo">
+                    <img src="images/svg/phone-calling-svgrepo-com.svg" class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" loading="lazy" alt="phone-calling-svgrepo">
                 </a>
             </div>
 
@@ -48,12 +48,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="row g-4">
                                 <div class="col-lg-6">
                                     <h2>Innovative Commercial  <span class="id-color-2">Refrigeration </span> Solutions</h2>
-                                    <p>Aaryan Tradelink has established itself as a leader in the commercial refrigeration industry, driven by innovation and a steadfast commitment to customer support. Leveraging our team's extensive expertise, we pioneer advanced refrigeration solutions tailored for specialized applications including food storage and processing, as well as industrial process cooling. Our offerings serve a diverse range of sectors such as hospitals, pharmaceuticals, bakeries, hotels, restaurants, pubs, supermarkets, and fast-food outlets.<p> 
+                                    <p>Aaryan Tradelink has established itself as a leader in the commercial refrigeration industry, driven by innovation and a steadfast commitment to customer support. Leveraging our team's extensive expertise, we pioneer advanced refrigeration solutions tailored for specialized applications, including food storage and processing and industrial process cooling. Our offerings serve a diverse range of sectors such as hospitals, pharmaceuticals, bakeries, hotels, restaurants, pubs, supermarkets, and fast-food outlets.<p> 
                                 </div>
 
                                 <div class="col-lg-6">
-                                    <img src="images/product/refrigeration/refrigerator-door-being-aligned-by-technician_1283887-12085.jpg" class="img-fluid rounded-20px mb-4" alt="refrigerator-door-being">
-                                    <img src="images/product/refrigeration/technician-calibrating-thermostat-refrigerator_1283887-12156.jpg" class="img-fluid rounded-20px" alt="technician-calibrating-thermostat">
+                                    <img src="images/product/refrigeration/refrigerator-door-being-aligned-by-technician_1283887-12085.avif" loading="lazy" class="img-fluid rounded-20px mb-4" alt="refrigerator-door-being">
+                                    <img src="images/product/refrigeration/technician-calibrating-thermostat-refrigerator_1283887-12156.avif" loading="lazy" class="img-fluid rounded-20px" alt="technician-calibrating-thermostat">
                                 </div>
                             </div>
 
@@ -107,11 +107,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="row g-4">
                                 <div class="col-md-12 wow fadeInUp">
                                     <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
-                            <img src="images/home/logo/6.podar-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 2">
-                            <img src="images/home/logo/25.cera.png" class="img-fluid px-4" alt="Company Logo 3">
-                            <img src="images/home/logo/20.dainikbank-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 4">
-                            <img src="images/home/logo/26.allabadlbank.png" class="img-fluid px-4" alt="Company Logo 5">
-                            <img src="images/home/logo/16.sffron-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 6">
+                            <img src="images/home/logo/6.podar-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 2">
+                            <img src="images/home/logo/25.cera.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 3">
+                            <img src="images/home/logo/20.dainikbank-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 4">
+                            <img src="images/home/logo/26.allabadlbank.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 5">
+                            <img src="images/home/logo/16.sffron-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 6">
 
                                     </div>
                                 </div>

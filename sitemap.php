@@ -1,6 +1,6 @@
 <?php
 $Title = "Aaryan Tradelink Sitemap | Explore Our Website Structure";
-$MetaDescription = "Find everything you need on Aaryan Tradelink’s website. Browse our sitemap for quick access to our products, services, and contact details.";
+$MetaDescription = "Easily navigate Aaryan Tradelink’s website. Browse our sitemap for quick access to products, services & contact details. Find what you need in one place!";
 $MetaKeywords = "Aaryan Tradelink sitemap, website navigation, IT products, office automation, air conditioning, refrigeration solutions, electronics trading, business technology";
 ?>
 

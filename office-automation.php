@@ -1,7 +1,7 @@
 ﻿<?php
-$Title = "Office Automation Services | Repair & Maintenance - Aaryan Tradelink";
-$MetaDescription = "Get reliable repair and maintenance services for office automation products, including printers, scanners, and copiers. Enhance your office workflow with us.";
-$MetaKeywords = "office automation services, printer repair, scanner maintenance, copier servicing, business automation solutions, digital printing repair, office workflow support";
+$Title = "Aaryan Tradelink | Office Automation Solutions & Services​.";
+$MetaDescription = "Aaryan Tradelink offers comprehensive office automation solutions, providing sales and services to enhance productivity and streamline business operations effectively.";
+$MetaKeywords = "Commercial printing solutions in Ahmedabad, Multifunction printer dealers in Gujarat, High-quality photocopiers for businesses in Ahmedabad, Reliable document printing services in Gujarat, Efficient print management solutions in Ahmedabad";
 ?>
 
 <?php
@@ -9,7 +9,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 <!-- section begin -->
 <section id="subheader" class="jarallax text-light">
-    <img src="images/background/6.webp" class="jarallax-img" alt="background">
+    <img src="images/background/6.webp" class="jarallax-img" alt="background" loading="lazy">
     <div class="container relative z-index-1000">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -31,7 +31,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 <div class="bg-color relative z-index-1000 mt-40 mb40">
     <a href="Contact">
-        <img src="images/svg/phone-calling-svgrepo-com.svg"
+        <img src="images/svg/phone-calling-svgrepo-com.svg" loading="lazy"
             class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" alt="phone-calling-svgrepo-com">
     </a>
 </div>
@@ -57,25 +57,16 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-6">
                         <h2>Empowering Workspaces with <span class="id-color-2">Comprehensive</span> Automation Services
                         </h2>
-                        <p>Aaryan Tradelink offers comprehensive office automation services designed to cut printing
-                            costs, boost business uptime, and enhance employee productivity. We support IT, Procurement,
-                            and Administration departments by automating workflows, reducing administrative overhead,
-                            and improving control over your office devices and supplies.
-                        <p>
-                        <p>Our expertise covers essential equipment—including photocopiers, MFDs, projectors, EPBAX,
-                            large format displays, card printers, and PA systems—as well as managed services in
-                            printing, document management, boardroom management, and AV support.</p>
-                        <p>We also offer office automation products on a rental basis to corporates, government sectors,
-                            and SMEs. As authorized dealers for Toshiba, Epson, HP, Evolis, and LG, we provide trusted
-                            solutions tailored to your business needs.</p>
-                        <p></p>
+                        <p>Aaryan Tradelink delivers comprehensive office automation solutions that reduce printing costs, enhance business uptime, and boost employee productivity. We support IT, Procurement, and Administration teams by automating workflows, minimizing administrative overhead, and improving device management. <p>
+                        <p>Our expertise spans photocopiers, MFDs, projectors, EPBAX systems, large format displays, card printers, and PA systems. We also provide managed services for printing, document management, boardroom management, and AV support.</p>
+                        <p>Additionally, we offer office automation products on rental for corporates, government sectors, and SMEs. As authorized dealers for Toshiba, Epson, HP, Evolis, and LG, we ensure reliable, tailored solutions for your business needs.</p>
                     </div>
 
                     <div class="col-lg-6">
                         <img src="images/product/office-automation-solution/large-office-printer-sits-school-office-surrounded-by-windows-brick-wall_856795-78382.avif"
-                            class="img-fluid rounded-20px mb-4" alt="large-office-printer">
-                        <img src="images/product/office-automation-solution/closeup-palm-print-recognition-sensor-embedded-security-system-access-point_1314467-182989.jpg"
-                            class="img-fluid rounded-20px" alt="closeup-palm-print">
+                            class="img-fluid rounded-20px mb-4" alt="large-office-printer" loading="lazy">
+                        <img src="images/product/office-automation-solution/closeup-palm-print-recognition-sensor-embedded-security-system-access-point_1314467-182989.avif"
+                            class="img-fluid rounded-20px" alt="closeup-palm-print" loading="lazy">
                     </div>
                 </div>
 
@@ -87,7 +78,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>End-to-End Automation</h4>
-                                <p class="mb-0">Streamline office processes from printing to document management.</p>
+                                <p class="mb-0">Streamline office automation processes from printing solutions to document management, enhancing business efficiency and workflow automation.</p>
                             </div>
                         </div>
                     </div>
@@ -97,7 +88,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Enhanced Productivity</h4>
-                                <p class="mb-0">Boost uptime and employee efficiency</p>
+                                <p class="mb-0">Boost uptime and employee efficiency with IT solutions and office technology designed for seamless operations.</p>
                             </div>
                         </div>
                     </div>
@@ -107,7 +98,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Trusted Partnerships </h4>
-                                <p class="mb-0">Authorized dealer for Toshiba, Epson, HP, Evolis, and LG.</p>
+                                <p class="mb-0">As an authorized dealer for Toshiba, Epson, HP, Evolis, and LG, we provide managed services that support digital transformation in the workplace.</p>
                             </div>
                         </div>
                     </div>
@@ -117,8 +108,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                             <div class="pl-80">
                                 <h4>Flexible Rental</h4>
-                                <p class="mb-0">Office automation products on rental for corporates, governments, and
-                                    SMEs.</p>
+                                <p class="mb-0">Get office automation products on rental for corporates, governments, and SMEs, ensuring access to the latest productivity tools without long-term commitments.</p>
                             </div>
                         </div>
                     </div>
@@ -130,11 +120,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="row g-4">
                     <div class="col-md-12 wow fadeInUp">
                         <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
-                                                        <img src="images/home/logo/6.podar-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 2">
-                                                        <img src="images/home/logo/25.cera.png" class="img-fluid px-4" alt="Company Logo 3">
-                                                        <img src="images/home/logo/20.dainikbank-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 4">
-                                                        <img src="images/home/logo/26.allabadlbank.png" class="img-fluid px-4" alt="Company Logo 5">
-                                                        <img src="images/home/logo/16.sffron-removebg-preview.png" class="img-fluid px-4" alt="Company Logo 6">
+                                                        <img src="images/home/logo/6.podar-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 2">
+                                                        <img src="images/home/logo/25.cera.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 3">
+                                                        <img src="images/home/logo/20.dainikbank-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 4">
+                                                        <img src="images/home/logo/26.allabadlbank.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 5">
+                                                        <img src="images/home/logo/16.sffron-removebg-preview.avif" class="img-fluid px-4" loading="lazy" alt="Company Logo 6">
                         </div>
                     </div>
                 </div>

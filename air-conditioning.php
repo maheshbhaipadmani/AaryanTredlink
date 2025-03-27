@@ -1,7 +1,7 @@
 ﻿<?php
-$Title = " Air Conditioning Services | AC Installation & Repair - Aaryan Tradelink";
-$MetaDescription = "Get top-notch air conditioning services, including AC installation, repair, and maintenance for residential and commercial spaces.";
-$MetaKeywords = " air conditioning services, AC installation, commercial AC repair, residential cooling solutions, HVAC support, energy-efficient AC services, climate control";
+$Title = "Aaryan Tradelink | Air Conditioning Solutions Sales & Services​";
+$MetaDescription = "Aaryan Tradelink offers energy-efficient air conditioning solutions, providing sales and services for residential and commercial HVAC systems to ensure optimal comfort and performance.";
+$MetaKeywords = "Affordable air conditioning services in Ahmedabad, Professional AC installation in Gujarat, Expert HVAC services in Ahmedabad, Residential cooling solutions in Gujarat, Air conditioner maintenance packages in Ahmedabad, Commercial air conditioning repair in Ahmedabad, AC preventive maintenance services in Gujarat, Energy-efficient air conditioning installation in Ahmedabad";
 ?>
 
 <?php
@@ -9,7 +9,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
-                <img src="images/background/6.webp" class="jarallax-img" alt="air conditioning bg">
+                <img src="images/background/6.webp" class="jarallax-img" alt="air conditioning bg" loading="lazy">
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
@@ -32,7 +32,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="bg-color relative z-index-1000 mt-40 mb40">
                 <a href="Contact">
-                    <img src="images/svg/phone-calling-svgrepo-com.svg"
+                    <img src="images/svg/phone-calling-svgrepo-com.svg" loading="lazy"
                         class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" alt="phone-calling-svgrepo">
                 </a>
             </div>
@@ -61,25 +61,16 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="col-lg-6">
                                     <h2>Experience <span class="id-color-2">Cooler, Cleaner Air</span> with Leading HVAC
                                         Solutions by Aaryan Tradelink</h2>
-                                    <p>Aaryan Tradelink is a leading HVAC solution provider, delivering energy-efficient
-                                        air-conditioning equipment for commercial, residential, and special
-                                        applications. With over a decade of experience, we specialize in tailor-made
-                                        HVAC solutions featuring a range of products such as Split Air Conditioners,
-                                        Window ACs, Cassette ACs, Ductable ACs, VRF systems, and Chillers. We proudly
-                                        represent top brands like Blue Star, Voltas, Toshiba, Carrier, Mitsubishi,
-                                        Daikin, and O General.
-                                    <p>
-                                    <p>Ever since our inception more than a decade ago, Aaryan Tradelink has been
-                                        enhancing the lives of their customers, helping them breathe cooler and cleaner
-                                        air and at the same time providing a refreshing atmosphere through our best in
-                                        class and reliable HVAC products.</p>
+                                    <p>Aaryan Tradelink is a trusted provider of air conditioning solutions in Gujarat, offering energy-efficient HVAC systems for commercial, residential, and specialized applications. With over a decade of expertise, we specialize in customized air conditioning solutions, including Split ACs, Window ACs, Cassette ACs, Ductable ACs, VRF systems, and Chillers.<p>
+                                    <p>We partner with top air conditioning brands such as Blue Star, Voltas, Toshiba, Carrier, Mitsubishi, Daikin, and O General, ensuring high-quality cooling solutions for businesses and homes.</p>
+                                    <p>Since our inception, we have been committed to enhancing indoor air quality, delivering reliable air conditioning installation and maintenance services that help our customers experience superior cooling, cleaner air, and energy savings.</p>
                                 </div>
 
                                 <div class="col-lg-6">
                                     <img src="images/product/air-conditioning/side-view-male-technician-repairing-computer-cpu-workshop_23-2147923511.avif"
-                                        class="img-fluid rounded-20px mb-4" alt="conditioning 2">
+                                        class="img-fluid rounded-20px mb-4" loading="lazy" alt="conditioning 2">
                                     <img src="images/product/air-conditioning/technician-repairing-air-conditioner-outside-building_559896-2732.avif"
-                                        class="img-fluid rounded-20px" alt="conditioning 3">
+                                        class="img-fluid rounded-20px" loading="lazy" alt="conditioning 3">
                                 </div>
                             </div>
 
@@ -92,8 +83,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Superior Cooling</h4>
-                                            <p class="mb-0">Rapid and consistent cooling for optimal comfort in any
-                                                environment.</p>
+                                            <p class="mb-0">Fast and efficient air conditioning for consistent temperature control in any environment.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -104,8 +94,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Quiet Operation</h4>
-                                            <p class="mb-0">Engineered for low noise levels to ensure a peaceful indoor
-                                                atmosphere.</p>
+                                            <p class="mb-0">Designed with low-noise technology to maintain a peaceful and comfortable indoor atmosphere.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -116,8 +105,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>Sleek, Modern Design</h4>
-                                            <p class="mb-0">Aesthetically pleasing units that blend seamlessly into any
-                                                space.</p>
+                                            <p class="mb-0">Aesthetically crafted air conditioning units that blend seamlessly into homes and commercial spaces.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -128,8 +116,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
                                         <div class="pl-80">
                                             <h4>User-Friendly Controls</h4>
-                                            <p class="mb-0">ntuitive settings for personalized comfort and convenience.
-                                            </p>
+                                            <p class="mb-0">Smart and intuitive settings for personalized cooling and energy-efficient performance.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -141,13 +128,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="row g-4">
                     <div class="col-md-12 wow fadeInUp">
                         <div id="owl-logo-4" class="logo-carousel no-alpha owl-carousel owl-theme">
-                            <img src="images/home/logo/6.podar-removebg-preview.png" class="img-fluid px-4"
+                            <img src="images/home/logo/6.podar-removebg-preview.avif" loading="lazy" class="img-fluid px-4"
                                 alt="Company Logo 2">
-                            <img src="images/home/logo/25.cera.png" class="img-fluid px-4" alt="Company Logo 3">
-                            <img src="images/home/logo/20.dainikbank-removebg-preview.png" class="img-fluid px-4"
+                            <img src="images/home/logo/25.cera.avif" loading="lazy" class="img-fluid px-4" alt="Company Logo 3">
+                            <img src="images/home/logo/20.dainikbank-removebg-preview.avif" loading="lazy" class="img-fluid px-4"
                                 alt="Company Logo 4">
-                            <img src="images/home/logo/26.allabadlbank.png" class="img-fluid px-4" alt="Company Logo 5">
-                            <img src="images/home/logo/16.sffron-removebg-preview.png" class="img-fluid px-4"
+                            <img src="images/home/logo/26.allabadlbank.avif" loading="lazy" class="img-fluid px-4" alt="Company Logo 5">
+                            <img src="images/home/logo/16.sffron-removebg-preview.avif" loading="lazy" class="img-fluid px-4"
                                 alt="Company Logo 6">
 
                         </div>

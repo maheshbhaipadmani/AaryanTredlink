@@ -1,7 +1,7 @@
 <?php
-$Title = "Office Automation | Printers, Scanners & More - Aaryan Tradelink";
-$MetaDescription = "Upgrade your workspace with our office automation solutions. Find printers, scanners, copiers, and more at Aaryan Tradelink. Streamline business operations today!";
-$MetaKeywords = " office automation, printers, scanners, photocopiers, business automation, document solutions, digital printing, office equipment, technology for offices, best office automation products, office workflow";
+$Title = " Aaryan Tradelink | Office Automation Solutions & Services​";
+$MetaDescription = "Aaryan Tradelink offers comprehensive office automation solutions, including digital printing, projectors, card printers, and AV integration, enhancing business efficiency.";
+$MetaKeywords = " Office automation solutions in Ahmedabad, Office technology products and services in Gujarat, Document management systems providers in Ahmedabad, Workflow automation services for businesses in Gujarat, Productivity tools for offices in Ahmedabad, Office software solutions in Gujarat, Automation services for small businesses in Ahmedabad, Office equipment sales and services in Gujarat, Customized office automation solutions in Ahmedabad";
 ?>
 
 <?php
@@ -21,7 +21,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-6">
                 <div class="bg-color-3 relative overflow-hidden rounded-20px mb-4 p-3 pb-4">
                     <div class="text-center">
-                        <img src="images/product/office-automation-solution/main.png" class="w-80"
+                        <img src="images/product/office-automation-solution/main.avif" class="w-80" loading="lazy"
                             alt="office-automation-solution main">
                     </div>
 
@@ -32,7 +32,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                             <div id="img-carousel" class="owl-carousel owl-theme owl-4-margin-15">
                                 <div class="item">
-                                    <a href="images/product/office-automation-solution/colorful-printer.jpg"
+                                    <a href="images/product/office-automation-solution/colorful-printer.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -41,14 +41,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/office-automation-solution/colorful-printer.jpg"
-                                                class="img-fluid hover-scale-1-2"
+                                            <img src="images/product/office-automation-solution/colorful-printer.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" 
                                                 alt="business-idea-analysis-transparent-background_1059034-893">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/office-automation-solution/printer.jpg"
+                                    <a href="images/product/office-automation-solution/printer.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -57,14 +57,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/office-automation-solution/printer.jpg"
-                                                class="img-fluid hover-scale-1-2"
+                                            <img src="images/product/office-automation-solution/printer.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy"
                                                 alt="closeup-palm-print-recognition-sensor">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/office-automation-solution/card-printer.jpg"
+                                    <a href="images/product/office-automation-solution/card-printer.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -73,8 +73,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/office-automation-solution/card-printer.jpg"
-                                                class="img-fluid hover-scale-1-2"
+                                            <img src="images/product/office-automation-solution/card-printer.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy"
                                                 alt="office-automation-solution/high-quality">
                                         </div>
                                     </a>
@@ -90,13 +90,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
                                             <img src="images/product/office-automation-solution/cctv.avif"
-                                                class="img-fluid hover-scale-1-2"
+                                                class="img-fluid hover-scale-1-2" loading="lazy"
                                                 alt="large-office-printer-sits-school">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/office-automation-solution/Digital-Multifunction.jpg"
+                                    <a href="images/product/office-automation-solution/Digital-Multifunction.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -105,14 +105,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/office-automation-solution/Digital-Multifunction.jpg"
-                                                class="img-fluid hover-scale-1-2"
+                                            <img src="images/product/office-automation-solution/Digital-Multifunction.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy"
                                                 alt="person-using-hand-geometry-recognition-system">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/office-automation-solution/Projectors.jpg"
+                                    <a href="images/product/office-automation-solution/Projectors.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -121,14 +121,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/office-automation-solution/Projectors.jpg"
-                                                class="img-fluid hover-scale-1-2"
+                                            <img src="images/product/office-automation-solution/Projectors.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy"
                                                 alt="printer-that-is-table-with-plant-background">
                                         </div>
                                     </a>
                                 </div>
                                 <div class="item">
-                                    <a href="images/product/office-automation-solution/virtual-team-meetings-collaboration-tools_1314467-155581.jpg"
+                                    <a href="images/product/office-automation-solution/virtual-team-meetings-collaboration-tools_1314467-155581.avif"
                                         class="image-popup d-block hover">
                                         <div class="relative overflow-hidden rounded-10">
                                             <div
@@ -137,8 +137,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                             <div class="absolute w-100 h-100 top-0 bg-dark hover-op-05">
                                             </div>
-                                            <img src="images/product/office-automation-solution/virtual-team-meetings-collaboration-tools_1314467-155581.jpg"
-                                                class="img-fluid hover-scale-1-2" alt="virtual">
+                                            <img src="images/product/office-automation-solution/virtual-team-meetings-collaboration-tools_1314467-155581.avif"
+                                                class="img-fluid hover-scale-1-2" loading="lazy" alt="virtual">
                                         </div>
                                     </a>
                                 </div>
@@ -151,14 +151,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="col-lg-6">
                 <h2> Optimized Office Automation for Smarter Workflows</h2>
-                <p>The modern workplace demands efficiency, accuracy, and seamless automation. Office automation plays a
-                    crucial role in streamlining daily tasks, reducing manual efforts, and enhancing productivity. As a
-                    leading office automation provider in Gujarat, Aaryan Tradelink offers solutions that empower
-                    businesses with smart technology.</p>
-                <p>From high-speed printers and multifunction devices to advanced biometric systems and conference room
-                    solutions, our automation products help businesses improve workflow efficiency and security. Our
-                    expertise ensures businesses stay ahead in a technology-driven environment with innovative and
-                    reliable office automation solutions.</p>
+                <p>The modern workplace demands efficiency, accuracy, and seamless automation. Office automation plays a crucial role in streamlining daily tasks, reducing manual efforts, and enhancing productivity. As a leading office automation provider in Gujarat, Aaryan Tradelink delivers smart technology solutions, including document management, workflow automation, and advanced office equipment, ensuring businesses operate smoothly and efficiently.</p>
+                <p>From high-speed printers and multifunction devices to advanced biometric systems and conference room solutions, our office automation products enhance workflow efficiency and security. Aaryan Tradelink ensures businesses stay ahead in a technology-driven environment with innovative and reliable automation solutions, helping them achieve seamless operations and enhanced productivity.</p>
                 <h5>"Enhancing workplace efficiency with cutting-edge office automation."</h5>
                 <div class="spacer-half"></div>
 
@@ -185,7 +179,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 1. Digital Printing Solutions -->
                     <div class="col-md-3 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/office-automation-solution/svg/plotter.png" class="w-80px mb-3"
+                            <img src="./images/product/office-automation-solution/svg/plotter.png" class="w-80px mb-3" loading="lazy"
                                 alt="Digital Printing Solutions">
                             <h4>Digital Printing Solutions</h4>
                         </div>
@@ -194,7 +188,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 2. Digital Multifunction Printers Cum Copiers -->
                     <div class="col-md-3 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/office-automation-solution/svg/multifunction-printer.png"
+                            <img src="./images/product/office-automation-solution/svg/multifunction-printer.png" loading="lazy"
                                 class="w-80px mb-3" alt="Multifunction Printers">
                             <h4>Digital Multifunction Printers Cum Copiers</h4>
                         </div>
@@ -203,7 +197,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 3. Projectors -->
                     <div class="col-md-3 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/office-automation-solution/svg/projector.png" class="w-80px mb-3"
+                            <img src="./images/product/office-automation-solution/svg/projector.png" class="w-80px mb-3" loading="lazy"
                                 alt="Projectors">
                             <h4>Projectors</h4>
                         </div>
@@ -212,7 +206,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 4. Card Printers -->
                     <div class="col-md-3 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/office-automation-solution/svg/print.png" class="w-80px mb-3"
+                            <img src="./images/product/office-automation-solution/svg/print.png" class="w-80px mb-3" loading="lazy"
                                 alt="Card Printers">
                             <h4>Card Printers</h4>
                         </div>
@@ -221,7 +215,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 5. AV Solutions -->
                     <div class="col-md-3 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/office-automation-solution/svg/audio-visual.png"
+                            <img src="./images/product/office-automation-solution/svg/audio-visual.png" loading="lazy"
                                 class="w-80px mb-3" alt="AV Solutions">
                             <h4>AV Solutions</h4>
                         </div>
@@ -230,7 +224,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 6. Board Room Integration -->
                     <div class="col-md-3 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/office-automation-solution/svg/coworking.png" class="w-80px mb-3"
+                            <img src="./images/product/office-automation-solution/svg/coworking.png" class="w-80px mb-3" loading="lazy"
                                 alt="Board Room Integration">
                             <h4>Board Room Integration</h4>
                         </div>
@@ -239,7 +233,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 7. Document Management Solutions -->
                     <div class="col-md-3 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/office-automation-solution/svg/documentation.png"
+                            <img src="./images/product/office-automation-solution/svg/documentation.png" loading="lazy"
                                 class="w-80px mb-3" alt="Document Management">
                             <h4>Document Management</h4>
                         </div>
@@ -248,7 +242,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 8. Library Management -->
                     <div class="col-md-3 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/office-automation-solution/svg/folder-management.png"
+                            <img src="./images/product/office-automation-solution/svg/folder-management.png" loading="lazy"
                                 class="w-80px mb-3" alt="Library Management">
                             <h4>Library Management</h4>
                         </div>
@@ -257,7 +251,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <!-- 9. CCTV & Surveillance System -->
                     <div class="col-md-3 col-sm-6 mb-4">
                         <div class="item text-center p-3 border rounded">
-                            <img src="./images/product/office-automation-solution/svg/cctv-camera.png"
+                            <img src="./images/product/office-automation-solution/svg/cctv-camera.png" loading="lazy"
                                 class="w-80px mb-3" alt="CCTV & Surveillance">
                             <h4>CCTV & Surveillance System</h4>
                         </div>
@@ -277,7 +271,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <!-- Image -->
                 <div class="col-lg-6 position-lg-absolute left-half h-100">
                     <div class="image"
-                        data-bgimage="url(images/product/office-automation-solution/digital-transformation-strategy-planning-modern-business-office-futuristic-digital-communication_629387-1109.jpg) center">
+                        data-bgimage="url(images/product/office-automation-solution/digital-transformation-strategy-planning-modern-business-office-futuristic-digital-communication_629387-1109.avif) center">
                     </div>
                 </div>
                 <!-- Text -->
