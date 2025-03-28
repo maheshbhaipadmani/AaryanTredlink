@@ -86,7 +86,7 @@ echo
                         <div class="col-md-12">
                             <div class="de-flex">
                                 <div class="de-flex-col">
-                                    © 2025 <a href="">&nbsp; <span> Aaryan tradelink </span>&nbsp; </a> Rights Reserved.
+                                    © 2025 All rights reserved<a href="">&nbsp; <span>Aaryan tradelink. </span>&nbsp; </a>
                                     Managed by <a href="https://eembranding.com/">&nbsp; <span> EEM Branding </span>&nbsp; </a>
                                 </div>
                                 <ul class="menu-simple">

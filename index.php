@@ -442,6 +442,39 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </div>
+            <!-- Refrigeration Solutions -->
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
+                <div class="rounded-20px overflow-hidden">
+                 <div class="padding40 bg-color-3">
+                        <h4>Refrigeration Solutions</h4>
+                        <p class="no-bottom">Reliable commercial refrigeration and industrial refrigeration systems
+                            designed for long-lasting performance and energy-efficient cooling solutions.</p>
+                        <div class="spacer-20"></div>
+                        <a class="btn-main btn-light-trans" href="Refrigeration">Read more</a>
+                    </div>
+                    <div class="relative">
+                        <img src="./images/home/services/commercial-refrigeration.avif" class="img-fluid"
+                            alt="commercial refrigeration" loading="lazy">
+                    </div>
+                </div>
+            </div>
+            <!-- IT Products & Solutions -->
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="0s">
+                <div class="rounded-20px overflow-hidden">
+                <div class="relative">
+                        <img src="./images/home/services/IT-hardware.avif" class="img-fluid" loading="lazy"
+                            alt="IT-hardware">
+                    </div>
+                    <div class="padding40 bg-color-3">
+                        <h4>IT Products & Solutions</h4>
+                        <p class="no-bottom">Offering a comprehensive range of IT solutions, including IT hardware,
+                            office software, and network solutions for businesses and individuals.</p>
+                        <div class="spacer-20"></div>
+                        <a class="btn-main btn-light-trans" href="It-Products">Read more</a>
+                    </div>
+                </div>
+            </div>
+            
             <!-- Office Automation -->
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".4s">
                 <div class="rounded-20px overflow-hidden">
@@ -458,39 +491,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
 
-            </div>
-            <!-- Refrigeration Solutions -->
-            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
-                <div class="rounded-20px overflow-hidden">
-                    <div class="relative">
-                        <img src="./images/home/services/commercial-refrigeration.avif" class="img-fluid"
-                            alt="commercial refrigeration" loading="lazy">
-                    </div>
-                    <div class="padding40 bg-color-3">
-                        <h4>Refrigeration Solutions</h4>
-                        <p class="no-bottom">Reliable commercial refrigeration and industrial refrigeration systems
-                            designed for long-lasting performance and energy-efficient cooling solutions.</p>
-                        <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="Refrigeration">Read more</a>
-                    </div>
-                </div>
-            </div>
-            <!-- IT Products & Solutions -->
-            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="0s">
-                <div class="rounded-20px overflow-hidden">
-                    <div class="padding40 bg-color-3">
-                        <h4>IT Products & Solutions</h4>
-                        <p class="no-bottom">Offering a comprehensive range of IT solutions, including IT hardware,
-                            office software, and network solutions for businesses and individuals.</p>
-                        <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="It-Products">Read more</a>
-                    </div>
-
-                    <div class="relative">
-                        <img src="./images/home/services/IT-hardware.avif" class="img-fluid" loading="lazy"
-                            alt="IT-hardware">
-                    </div>
-                </div>
             </div>
             <!-- Networking Solutions -->
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
