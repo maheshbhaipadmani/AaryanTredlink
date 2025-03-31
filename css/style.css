@@ -20836,7 +20836,7 @@ img {
   }
 
   #subheader {
-    padding-top: 21px;
+    padding-top: 80px;
 }
 #subheader h1{
   font-size: 40px;
@@ -20855,3 +20855,24 @@ section {
 
 }
 }
+
+@media (max-width: 768px) {
+    .row.d-flex.justify-content-center {
+        padding: 20px; /* Adjust spacing for smaller screens */
+        text-align: center; /* Ensure content remains centered */
+    }
+
+    .col-lg-8.text-center {
+        width: 100%; /* Ensure it takes full width on smaller screens */
+        padding: 0 15px; /* Add some padding for better spacing */
+    }
+
+    .subtitle.s2, h1 {
+        font-size: 1.5rem; /* Adjust text size for better readability */
+    }
+
+    h1 {
+        font-size: 2rem; /* Adjust heading size for small screens */
+    }
+}
+
