@@ -27,6 +27,6 @@ RewriteRule ^Refrigeration$ refrigeration.php [L,NC]
 RewriteRule ^Refrigeration-Repair$ refrigeration-repair.php [L,NC]
 RewriteRule ^Refrigeration-Maintenance$ refrigeration-maintenance.php [L,NC]
 RewriteRule ^Refrigeration-Products$ refrigeration-products.php [L,NC]
-RewriteRule ^SiteMap$ sitemap.html [L,NC]
+RewriteRule ^SiteMap$ sitemap.php [L,NC]
 
 # RewriteRule ^Natural Sesame Seeds natural-sesame-seeds.php [L]  

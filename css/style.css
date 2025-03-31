@@ -130,8 +130,11 @@ html {
 
 body, * {
   font-family: "Manrope", Helvetica, Arial, sans-serif !important;
+  
 }
-
+.fas, .fa-classic, .fa-solid, .far, .fa-regular {
+  font-family: 'Font Awesome 6 Free' !important;
+}
 body {
   font-family: var(--body-font);
   font-size: var(--body-font-size);
@@ -473,6 +476,13 @@ header.smaller.scroll-light #mainmenu li a,
 header.smaller.scroll-light #mainmenu li.has-child:after {
   color: var(--title-font-color);
 }
+header #mainmenu li a,
+header #mainmenu li.has-child:after {
+  color: #05635D; /* Default text/icon color */
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+
 header.smaller.scroll-light #mainmenu li:hover{
   color: var(--bg-white);
 }
@@ -7426,7 +7436,7 @@ ol.ol-style-1 li::before {
 /* ================================================== */
 
 .social-icons {
-  display: inline-block;
+  display: flex;
 }
 
 .social-icons i {
@@ -7440,6 +7450,8 @@ ol.ol-style-1 li::before {
   border-radius:6px;
   -moz-border-radius:6px;
   -webkit-border-radius:6px;
+  display: flex;
+  justify-content: center;
 }
 
 .dark-scheme .social-icons i {
@@ -7486,7 +7498,6 @@ ol.ol-style-1 li::before {
   background: none;
   margin-bottom: 0;
   margin-right: 1px;
-  padding: 15px 5px;
   height: 30px;
   width: 30px;
   margin-top: 5px;
@@ -12518,6 +12529,7 @@ i.bg-color-secondary {
 
 .show-on-scroll.show{
   opacity: 1;
+  z-index: 4;
 }
 
 .show-on-scroll.hide{
@@ -19971,7 +19983,7 @@ img {
   }
   
   header.header-mobile #mainmenu li a.menu-item:hover {
-    color: var(--secondary-color);
+    color: var(--secondary-color) !important;
   }
 
   .dark-scheme header.header-mobile #mainmenu li a.menu-item:hover {
@@ -19992,30 +20004,29 @@ img {
   header.header-mobile #mainmenu>li>span {
     width: 36px;
     height: 36px;
-    background: url(../images/ui/arrow-down.avif) center no-repeat;
+    background: url(../images/ui/arrow-down.png) center no-repeat;
     position: absolute;
-    right: 0;
     margin-top: 10px;
     z-index: 1000;
     cursor: poInter;
   }
 
   .dark-scheme header.header-mobile #mainmenu>li>span {
-    background: url(../images/ui/arrow-down.avif) center no-repeat;
+    background: url(../images/ui/arrow-down.png) center no-repeat;
   }
 
   header.header-mobile #mainmenu li span.active {
-    background: url(../images/ui/arrow-up.avif) center no-repeat;
+    background: url(../images/ui/arrow-up.png) center no-repeat;
   }
 
   .dark-scheme header.header-mobile #mainmenu li span.active {
-    background: url(../images/ui/arrow-up.avif) center no-repeat;
+    background: url(../images/ui/arrow-up.png) center no-repeat;
   }
 
   header.header-mobile #mainmenu li>ul>li>span {
     width: 36px;
     height: 36px;
-    background: url(../images/ui/arrow-down.avif) center no-repeat;
+    background: url(../images/ui/arrow-down.png) center no-repeat;
     position: absolute;
     right: 0;
     margin-top: -45px;
@@ -20299,7 +20310,6 @@ img {
     padding-bottom: 60px;
   }
 
-  /* title tablet */
 
   h1,
   h1.ultra-big,
@@ -20308,7 +20318,9 @@ img {
   .title-text,
   .de_count h3 span,
   h1.slider-title{
-    font-size: 60px;
+    font-size: 40px;
+    letter-spacing: -1px;
+
   }  
 
   h1.slider-title,
@@ -20346,7 +20358,7 @@ img {
 
   header .logo-mobile {
     display: block;
-    width: 70%;
+    width: 60%;
   }
 
   header .btn-main{
@@ -20798,4 +20810,48 @@ img {
 .installation-active.active{
   background: #05635D;
   color: #ffffff !important;
+}
+@media (max-width: 768px) {
+  .subtitle {
+    margin-top: 1rem;
+  }
+  .faq-img-wid img{
+    width: 50%;
+  }
+  .faq-img-wid{
+    display: flex;
+    justify-content: center;
+  }
+  footer img {
+    width: 250px;
+  }
+  #topbar .social-icons{
+    display: none;
+  }
+  h2.slider-title{
+    font-size: 45px;
+  }
+  h3.slider-teaser{
+    font-size: 20px;
+  }
+
+  #subheader {
+    padding-top: 21px;
+}
+#subheader h1{
+  font-size: 40px;
+}
+section {
+  padding: 30px 0;
+}
+.air-conditioner-img-grid{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.air-conditioner-img-grid img{
+ width: 45%;
+ margin-bottom: 1em !important;
+
+}
 }

@@ -51,7 +51,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <p>Aaryan Tradelink has established itself as a leader in the commercial refrigeration industry, driven by innovation and a steadfast commitment to customer support. Leveraging our team's extensive expertise, we pioneer advanced refrigeration solutions tailored for specialized applications, including food storage and processing and industrial process cooling. Our offerings serve a diverse range of sectors such as hospitals, pharmaceuticals, bakeries, hotels, restaurants, pubs, supermarkets, and fast-food outlets.<p> 
                                 </div>
 
-                                <div class="col-lg-6">
+                                <div class="col-lg-6 air-conditioner-img-grid">
                                     <img src="images/product/refrigeration/refrigerator-door-being-aligned-by-technician_1283887-12085.avif" loading="lazy" class="img-fluid rounded-20px mb-4" alt="refrigerator-door-being">
                                     <img src="images/product/refrigeration/technician-calibrating-thermostat-refrigerator_1283887-12156.avif" loading="lazy" class="img-fluid rounded-20px" alt="technician-calibrating-thermostat">
                                 </div>
@@ -62,7 +62,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="row g-4">
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".0s">
                                     <div>
-                                        <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                        <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                                         <div class="pl-80">
                                             <h4>Expert Diagnosis</h4>
                                             <p class="mb-0">Swift detection and resolution of refrigeration issues to ensure uninterrupted cooling.</p>
@@ -72,7 +76,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
                                     <div>
-                                        <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                        <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                                         <div class="pl-80">
                                             <h4>Comprehensive Support</h4>
                                             <p class="mb-0"> Maintenance services covering mechanical, electrical, and control systems.</p>
@@ -82,7 +90,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".4s">
                                     <div>
-                                        <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                        <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                                         <div class="pl-80">
                                             <h4>Proactive Care</h4>
                                             <p class="mb-0">Scheduled preventive maintenance to minimize downtime and extend equipment life.</p>
@@ -92,7 +104,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".6s">
                                     <div>
-                                        <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                        <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                                         <div class="pl-80">
                                             <h4>Reliable Performance</h4>
                                             <p class="mb-0">Ensuring optimal functionality and efficiency of your refrigeration units.</p>

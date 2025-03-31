@@ -3,6 +3,8 @@ echo
 '
    <!-- CSS Files
     ================================================== -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.0.13/css/all.min.css">
+
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap">
     <link href="css/plugins.css" rel="stylesheet" type="text/css">
     <link href="css/swiper.css" rel="stylesheet" type="text/css">
@@ -13,6 +15,7 @@ echo
     <link id="colors" href="css/sitemap.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;700&display=swap" rel="stylesheet">
     <!-- Load non-critical CSS asynchronously -->
+    
 
 
 </head>

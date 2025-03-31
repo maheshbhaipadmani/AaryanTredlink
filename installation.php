@@ -56,14 +56,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="col-lg-9">
                 <div class="row g-4">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 ">
                         <h2>Empowering Businesses with <span class="id-color-2">Cutting-Edge</span> IT
                             Solutions</h2>
                         <p>The IT industry is booming, forming the foundation of the digital world. It encompasses hardware solutions that enable businesses to build, test, operate, and support IT services. As a leading IT hardware company in Gujarat, Aaryan Tradelink provides comprehensive IT hardware solutions to help businesses stay ahead in the digital era.
                         <p>
                     </div>
 
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 air-conditioner-img-grid">
                         <img src="images/product/it-product/close-up-male-technician-holding-modern-computer-motherboard-from-table_23-2147883867 (1).avif"
                             class="img-fluid rounded-20px mb-4" alt="close-up-male-technician-holding" loading="lazy">
                         <img src="images/product/it-product/view-3d-computer-device_1106493-278012.avif"
@@ -76,7 +76,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="row g-4">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay=".0s">
                         <div>
-                            <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                            <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                             <div class="pl-80">
                                 <h4>Industry Expertise </h4>
                                 <p class="mb-0">Years of experience in delivering top-notch IT hardware solutions.</p>
@@ -86,7 +90,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
                         <div>
-                            <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                            <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                             <div class="pl-80">
                                 <h4>Optimized IT Investment</h4>
                                 <p class="mb-0">Helping businesses extract maximum value from their IT infrastructure.</p>
@@ -96,7 +104,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay=".4s">
                         <div>
-                            <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                            <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                             <div class="pl-80">
                                 <h4>Seamless Operations </h4>
                                 <p class="mb-0">Ensuring smooth and efficient business workflows with reliable hardware.</p>
@@ -106,7 +118,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay=".6s">
                         <div>
-                            <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                            <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                             <div class="pl-80">
                                 <h4>Digital Transformation Support</h4>
                                 <p class="mb-0">Providing the foundation for enterprises to thrive in the digital era.</p>

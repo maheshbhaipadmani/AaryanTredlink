@@ -62,7 +62,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p>Additionally, we offer office automation products on rental for corporates, government sectors, and SMEs. As authorized dealers for Toshiba, Epson, HP, Evolis, and LG, we ensure reliable, tailored solutions for your business needs.</p>
                     </div>
 
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 air-conditioner-img-grid">
                         <img src="images/product/office-automation-solution/large-office-printer-sits-school-office-surrounded-by-windows-brick-wall_856795-78382.avif"
                             class="img-fluid rounded-20px mb-4" alt="large-office-printer" loading="lazy">
                         <img src="images/product/office-automation-solution/closeup-palm-print-recognition-sensor-embedded-security-system-access-point_1314467-182989.avif"
@@ -75,7 +75,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="row g-4">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay=".0s">
                         <div>
-                            <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                            <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                             <div class="pl-80">
                                 <h4>End-to-End Automation</h4>
                                 <p class="mb-0">Streamline office automation processes from printing solutions to document management, enhancing business efficiency and workflow automation.</p>
@@ -85,7 +89,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
                         <div>
-                            <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                            <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                             <div class="pl-80">
                                 <h4>Enhanced Productivity</h4>
                                 <p class="mb-0">Boost uptime and employee efficiency with IT solutions and office technology designed for seamless operations.</p>
@@ -95,7 +103,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay=".4s">
                         <div>
-                            <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                            <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                             <div class="pl-80">
                                 <h4>Trusted Partnerships </h4>
                                 <p class="mb-0">As an authorized dealer for Toshiba, Epson, HP, Evolis, and LG, we provide managed services that support digital transformation in the workplace.</p>
@@ -105,7 +117,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay=".6s">
                         <div>
-                            <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                            <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                             <div class="pl-80">
                                 <h4>Flexible Rental</h4>
                                 <p class="mb-0">Get office automation products on rental for corporates, governments, and SMEs, ensuring access to the latest productivity tools without long-term commitments.</p>

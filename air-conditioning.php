@@ -66,7 +66,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <p>Since our inception, we have been committed to enhancing indoor air quality, delivering reliable air conditioning installation and maintenance services that help our customers experience superior cooling, cleaner air, and energy savings.</p>
                                 </div>
 
-                                <div class="col-lg-6">
+                                <div class="col-lg-6 air-conditioner-img-grid">
                                     <img src="images/product/air-conditioning/side-view-male-technician-repairing-computer-cpu-workshop_23-2147923511.avif"
                                         class="img-fluid rounded-20px mb-4" loading="lazy" alt="conditioning 2">
                                     <img src="images/product/air-conditioning/technician-repairing-air-conditioner-outside-building_559896-2732.avif"
@@ -79,19 +79,25 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="row g-4">
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".0s">
                                     <div>
-                                        <i
-                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                        <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                                         <div class="pl-80">
                                             <h4>Superior Cooling</h4>
                                             <p class="mb-0">Fast and efficient air conditioning for consistent temperature control in any environment.</p>
-                                        </div>
+                                        </div>  
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
                                     <div>
-                                        <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                        <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                                         <div class="pl-80">
                                             <h4>Quiet Operation</h4>
                                             <p class="mb-0">Designed with low-noise technology to maintain a peaceful and comfortable indoor atmosphere.</p>
@@ -101,8 +107,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".4s">
                                     <div>
-                                        <i
-                                            class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                        <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                                         <div class="pl-80">
                                             <h4>Sleek, Modern Design</h4>
                                             <p class="mb-0">Aesthetically crafted air conditioning units that blend seamlessly into homes and commercial spaces.</p>
@@ -112,8 +121,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".6s">
                                     <div>
-                                        <i
-                                            class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                        <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                                         <div class="pl-80">
                                             <h4>User-Friendly Controls</h4>
                                             <p class="mb-0">Smart and intuitive settings for personalized cooling and energy-efficient performance.</p>

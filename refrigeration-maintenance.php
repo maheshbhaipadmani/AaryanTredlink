@@ -88,7 +88,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="row g-4">
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".0s">
                                     <div>
-                                        <i class="bg-color text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                        <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                                         <div class="pl-80">
                                             <h4>Expert Diagnosis</h4>
                                             <p class="mb-0">Swift detection of refrigeration issues ensuring efficient refrigeration performance with professional refrigeration maintenance services in Gujarat.</p>
@@ -98,7 +102,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 
                                 <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
                                     <div>
-                                        <i class="bg-color-2 text-light fs-48 p-2 absolute id-color icon_check rounded-10px"></i>
+                                        <i class="bg-color text-light fs-48 p-2 absolute id-color rounded-10px d-flex">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                                          <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                                        </svg>
+                                        </i>
                                         <div class="pl-80">
                                             <h4>Comprehensive Service</h4>
                                             <p class="mb-0">Full maintenance services covering mechanical, electrical, and control systems, ensuring optimal refrigeration solutions for businesses in Ahmedabad.</p>
