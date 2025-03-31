@@ -1704,7 +1704,7 @@ footer p {
 }
 footer img{
   width: 300px;
-  background: beige;
+  background: #ffffff;
   border-radius: 8px;
   padding: 1rem;
 }
@@ -20816,7 +20816,7 @@ img {
     margin-top: 1rem;
   }
   .faq-img-wid img{
-    width: 50%;
+    width: 85%;
   }
   .faq-img-wid{
     display: flex;
@@ -20887,6 +20887,9 @@ section {
 }
 
 @media (max-width: 425px) {
+  .p-5 {
+    padding: 1rem !important;
+}
   h1 {
       font-size: 1.5rem; /* Further reduce heading size */
   }
