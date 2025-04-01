@@ -8,6 +8,8 @@ echo
     <script src="js/swiper.js" defer></script>
     <script src="js/custom-marquee.js" defer></script>
     <script src="js/custom-swiper-1.js" defer></script>
+    <script src="js/whatsapp.js" defer></script>
+    <script src="js/Contact-mail.js" defer></script>
 
 </body>
 

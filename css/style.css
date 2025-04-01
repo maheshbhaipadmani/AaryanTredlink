@@ -1688,7 +1688,7 @@ section.no-bg,
 footer {
   color: var(--dark-body-font-color);;
   background: var(--title-font-color);
-  padding: 100px 0 0 0;
+  padding: 80px 0 0 0;
 }
 
 footer.footer-light {
@@ -4601,7 +4601,7 @@ h1,
   font-size: 64px;
   margin-bottom: 20px;
   line-height: 1.1em;
-  letter-spacing: -4px;
+  letter-spacing: -1.25px;
 }
 
 h1 .label {

@@ -57,7 +57,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-6">
                         <h2>Empowering Workspaces with <span class="id-color-2">Comprehensive</span> Automation Services
                         </h2>
-                        <p>Aaryan Tradelink delivers comprehensive office automation solutions that reduce printing costs, enhance business uptime, and boost employee productivity. We support IT, Procurement, and Administration teams by automating workflows, minimizing administrative overhead, and improving device management. <p>
+                        <p>Aaryan Tradelink delivers comprehensive office automation solutions that reduce printing costs, enhance business uptime, and boost employee productivity. We support IT, Procurement, and Administration teams by automating workflows, minimizing administrative overhead, and improving device management.<p>
                         <p>Our expertise spans photocopiers, MFDs, projectors, EPBAX systems, large format displays, card printers, and PA systems. We also provide managed services for printing, document management, boardroom management, and AV support.</p>
                         <p>Additionally, we offer office automation products on rental for corporates, government sectors, and SMEs. As authorized dealers for Toshiba, Epson, HP, Evolis, and LG, we ensure reliable, tailored solutions for your business needs.</p>
                     </div>

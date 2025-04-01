@@ -63,7 +63,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         Solutions by Aaryan Tradelink</h2>
                                     <p>Aaryan Tradelink is a trusted provider of air conditioning solutions in Gujarat, offering energy-efficient HVAC systems for commercial, residential, and specialized applications. With over a decade of expertise, we specialize in customized air conditioning solutions, including Split ACs, Window ACs, Cassette ACs, Ductable ACs, VRF systems, and Chillers.<p>
                                     <p>We partner with top air conditioning brands such as Blue Star, Voltas, Toshiba, Carrier, Mitsubishi, Daikin, and O General, ensuring high-quality cooling solutions for businesses and homes.</p>
-                                    <p>Since our inception, we have been committed to enhancing indoor air quality, delivering reliable air conditioning installation and maintenance services that help our customers experience superior cooling, cleaner air, and energy savings.</p>
+                                    <p>Since our inception, we have been committed to enhancing indoor air quality, delivering reliable air conditioning installation and maintenance services that help our customers experience superior cooling, cleaner air, and energy savings. </p>
                                 </div>
 
                                 <div class="col-lg-6 air-conditioner-img-grid">

@@ -49,7 +49,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="row g-4">
                                     <div class="col-lg-8 col-sm-6">
-                                        <p class="mb-0 wow fadeInUp" data-wow-delay=".2s">Founded in 2009 and based in Ahmedabad, Aaryan Tradelink provides Air Conditioning solutions, IT solutions, and Office Automation solutions, ensuring quality and customer satisfaction. Our strong vendor partnerships guarantee reliable products, seamless installation, and expert support.</p>
+                                        <p class="mb-0 wow fadeInUp" data-wow-delay=".2s">Founded in 2009 and based in Ahmedabad, Aaryan Tradelink provides Air Conditioning solutions, Office Automation solutions, and IT solutions, ensuring quality and customer satisfaction. Our strong vendor partnerships guarantee reliable products, seamless installation, and expert support.</p>
                                     </div>
 
                                     <div class="col-lg-4 col-sm-6">
@@ -144,7 +144,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-6 offset-lg-3 text-center">
                             <div class="subtitle bg-white wow fadeInUp mb-3"> Our Guiding Principles</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Driven by Purpose, Guided by Excellence</h2>
-                            <p class="lead wow fadeInUp">At Aaryan Tradelink, our Vision, Mission, Values, and Commitment define who we are and drive everything we do. We strive to deliver innovative IT solutions, networking solutions, air conditioning services, and office automation solutions, uphold quality, and build lasting relationships based on trust and integrity.</p>
+                            <p class="lead wow fadeInUp">At Aaryan Tradelink, our Vision, Mission, Values, and Commitment define who we are and drive everything we do. We strive to deliver innovative air conditioning services, office automation solutions, IT solutions, and networking solutions, uphold quality, and build lasting relationships based on trust and integrity.</p>
                             <div class="spacer-single"></div>
                         </div>
 
@@ -223,7 +223,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                             <div class="spacer-single"></div>
 
-                            <p>At Aaryan Tradelink, we provide comprehensive IT solutions, security systems, networking solutions, HVAC solutions, and printing services, ensuring quality, efficiency, and innovation in every service we offer. Our expertise in IT hardware, surveillance systems, structured cabling, air conditioning solutions, and office automation enables businesses to operate smoothly and securely. With our customer-first approach, we deliver tailored solutions that meet the evolving needs of modern enterprises.</p>
+                            <p>At Aaryan Tradelink, we provide comprehensive IT solutions, HVAC solutions, printing services, security systems, and networking solutions, ensuring quality, efficiency, and innovation in every service we offer. Our expertise in air conditioning solutions, office automation, IT hardware, surveillance systems, and structured cabling enables businesses to operate smoothly and securely. With our customer-first approach, we deliver tailored solutions that meet the evolving needs of modern enterprises.</p>
                             <h5>"Empowering Businesses with Smart Solutions & Reliable Technology."</h5>
                             <div class="spacer-half"></div>
 
@@ -376,7 +376,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="subtitle wow fadeInUp mb-3">Our Valued Clients</div>
                             <h2>Trusted by 500+ Businesses Across Industries</h2>
                             <div class="spacer-10"></div>
-                            <p>We are honored to serve 500+ clients across various industries, delivering reliable IT solutions, networking solutions, office automation, air conditioning services, refrigeration solutions, and security systems tailored to their needs. Their trust in our expertise drives us to maintain exceptional quality and service. Our commitment to customer satisfaction, cutting-edge technology, and seamless integration has helped us build long-term relationships with businesses of all sizes.</p>
+                            <p>We are honored to serve 500+ clients across various industries, delivering reliable air conditioning services, refrigeration solutions, security systems, IT solutions, office automation, and networking solutions tailored to their needs. Their trust in our expertise drives us to maintain exceptional quality and service. Our commitment to customer satisfaction, cutting-edge technology, and seamless integration has helped us build long-term relationships with businesses of all sizes.</p>
                             <a class="btn-main" href="#">Discover Plugins</a>
                         </div>
                     </div>

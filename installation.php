@@ -59,8 +59,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-6 ">
                         <h2>Empowering Businesses with <span class="id-color-2">Cutting-Edge</span> IT
                             Solutions</h2>
-                        <p>The IT industry is booming, forming the foundation of the digital world. It encompasses hardware solutions that enable businesses to build, test, operate, and support IT services. As a leading IT hardware company in Gujarat, Aaryan Tradelink provides comprehensive IT hardware solutions to help businesses stay ahead in the digital era.
-                        <p>
+                        <p>The IT industry is booming, forming the foundation of the digital world. It encompasses hardware solutions that enable businesses to build, test, operate, and support IT services. As a leading IT hardware company in Gujarat, Aaryan Tradelink provides comprehensive IT hardware solutions to help businesses stay ahead in the digital era.<p>
                     </div>
 
                     <div class="col-lg-6 air-conditioner-img-grid">

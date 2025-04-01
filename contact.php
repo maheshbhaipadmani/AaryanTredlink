@@ -46,7 +46,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 back to you as soon as possible.</p>
 
 
-                            <form name="contactForm" id="contact_form"
+                            <form name="contactForm" id="contact-form"
                                 class="position-relative z1000 bg-light p-5 rounded" method="post" action="contact.php">
                                 <div class="row gx-4">
                                     <div class="col-lg-12 col-md-12 mb10">
@@ -84,13 +84,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <input type='submit' id='send_message' value='Send Message' class="btn-main">
                                 </div>
 
-                                <div id="success_message" class='success'>
+                                <!-- <div id="success_message" class='success'>
                                     Your message has been sent successfully. Refresh this page if you want to send more
                                     messages.
                                 </div>
                                 <div id="error_message" class='error'>
                                     Sorry there was an error sending your form.
-                                </div>
+                                </div> -->
+                                <p id="feedback" class="text-dark"></p>
                             </form>
 
                         </div>

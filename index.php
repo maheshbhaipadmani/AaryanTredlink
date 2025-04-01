@@ -92,80 +92,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
                 <!-- Efficient Refrigeration -->
-
-                <!-- Smart Office Tech -->
-                <div class="swiper-slide">
-                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/office-automation.avif)">
-                        <div class="sw-caption">
-                            <div class="container">
-                                <div class="row gx-5 align-items-center">
-
-                                    <div class="spacer-double"></div>
-
-                                    <div class="col-lg-8 offset-lg-2 text-center">
-                                        <div class="spacer-single"></div>
-                                        <div class="sw-text-wrapper">
-                                            <div class="subtitle s2 mb-2">Smart Office Tech</div>
-                                            <h2 class="slider-title mb-3">Upgrade Your Workspace Efficiency
-                                            </h2>
-                                            <h3 class="slider-teaser mb-3">Smart office automation for
-                                                seamless operations.</h3>
-                                            <div class="spacer-10"></div>
-                                            <a class="btn-main mb10 mb-3" href="Contact">Book a
-                                                Repair</a>
-                                        </div>
-                                    </div>
-
-                                    <div class="spacer-single"></div>
-                                </div>
-
-                                <div class="row g-4 slider-extra sm-hide">
-                                    <div class="col-lg-4 col-md-6 mb-sm-30">
-                                        <div class="relative">
-                                            <img src="images/icons/white/labor.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
-                                                alt="Expert Technicians Icon">
-                                            <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
-                                            <div class="pl-100">
-                                                <h4>Expert Technicians</h4>
-                                                <p>Skilled professionals ensuring top-quality products and services.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-4 col-md-6 mb-sm-30">
-                                        <div class="relative">
-                                            <img src="images/icons/white/calendar.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
-                                                alt="Flexible Scheduling Icon">
-                                            <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
-                                            <div class="pl-100">
-                                                <h4>Flexible Scheduling</h4>
-                                                <p>Honest and competitive pricing with no hidden costs.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-4 col-md-6 mb-sm-30">
-                                        <div class="relative">
-                                            <img src="images/icons/white/best-price.webp"
-                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
-                                                alt="Transparent Pricing Icon">
-                                            <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
-                                            <div class="pl-100">
-                                                <h4>Transparent Pricing</h4>
-                                                <p>Convenient and reliable services tailored to your needs.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="sw-overlay s2"></div>
-                    </div>
-                </div>
-                <!-- Smart Office Tech -->
-
+                 
                 <!-- Cooling & Comfort -->
                 <div class="swiper-slide">
                     <div class="swiper-inner" data-bgimage="url(images/hero-slider/commercial-refrigeration.avif)">
@@ -240,8 +167,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
                 <!-- Cooling & Comfort -->
 
-                <!-- Advanced IT Solutions -->
-                <div class="swiper-slide">
+                 <!-- Advanced IT Solutions -->
+                 <div class="swiper-slide">
                     <div class="swiper-inner" data-bgimage="url(images/hero-slider/Advanced-IT-Solutions-1.avif)">
                         <div class="sw-caption">
                             <div class="container">
@@ -314,7 +241,79 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
                 <!-- Advanced IT Solutions -->
+                 
+                <!-- Smart Office Tech -->
+                <div class="swiper-slide">
+                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/office-automation.avif)">
+                        <div class="sw-caption">
+                            <div class="container">
+                                <div class="row gx-5 align-items-center">
 
+                                    <div class="spacer-double"></div>
+
+                                    <div class="col-lg-8 offset-lg-2 text-center">
+                                        <div class="spacer-single"></div>
+                                        <div class="sw-text-wrapper">
+                                            <div class="subtitle s2 mb-2">Smart Office Tech</div>
+                                            <h2 class="slider-title mb-3">Upgrade Your Workspace Efficiency
+                                            </h2>
+                                            <h3 class="slider-teaser mb-3">Smart office automation for
+                                                seamless operations.</h3>
+                                            <div class="spacer-10"></div>
+                                            <a class="btn-main mb10 mb-3" href="Contact">Book a
+                                                Repair</a>
+                                        </div>
+                                    </div>
+
+                                    <div class="spacer-single"></div>
+                                </div>
+
+                                <div class="row g-4 slider-extra sm-hide">
+                                    <div class="col-lg-4 col-md-6 mb-sm-30">
+                                        <div class="relative">
+                                            <img src="images/icons/white/labor.webp"
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Expert Technicians Icon">
+                                            <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
+                                            <div class="pl-100">
+                                                <h4>Expert Technicians</h4>
+                                                <p>Skilled professionals ensuring top-quality products and services.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-4 col-md-6 mb-sm-30">
+                                        <div class="relative">
+                                            <img src="images/icons/white/calendar.webp"
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Flexible Scheduling Icon">
+                                            <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
+                                            <div class="pl-100">
+                                                <h4>Flexible Scheduling</h4>
+                                                <p>Honest and competitive pricing with no hidden costs.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-4 col-md-6 mb-sm-30">
+                                        <div class="relative">
+                                            <img src="images/icons/white/best-price.webp"
+                                                class="absolute w-80px p-3 mb-3 z-2" loading="lazy"
+                                                alt="Transparent Pricing Icon">
+                                            <div class="absolute bg-color-2 w-80px circle h-80px p-3"></div>
+                                            <div class="pl-100">
+                                                <h4>Transparent Pricing</h4>
+                                                <p>Convenient and reliable services tailored to your needs.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sw-overlay s2"></div>
+                    </div>
+                </div>
+                <!-- Smart Office Tech -->
             </div>
             <!-- If we need pagination -->
             <div class="swiper-pagination"></div>
@@ -339,12 +338,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-5 offset-lg-1">
                 <div class="subtitle wow fadeInUp mb-3">Trusted Solutions, Proven Expertise</div>
                 <h2 class="wow fadeInUp">About Aaryan Tradelink</h2>
-                <p class="wow fadeInUp">Aaryan Tradelink, established in 2009 and based in Ahmedabad, is a trusted name
-                    in IT solutions and air conditioning services. As a Complete Solution Provider, we offer managed IT
-                    services, network solutions, and cloud services, ensuring businesses stay ahead with cutting-edge
-                    technology. Our air conditioning installation and HVAC services provide energy-efficient cooling
-                    solutions for residential and commercial spaces. With strong vendor partnerships, we deliver
-                    top-quality products and services, driving market growth across Gujarat.</p>
+                <p class="wow fadeInUp">Aaryan Tradelink, established in 2009 and based in Ahmedabad, is a trusted name in air conditioning services and IT solutions. As a Complete Solution Provider, we offer air conditioning installation and HVAC services, providing energy-efficient cooling solutions for residential and commercial spaces. Our managed IT services, network solutions, and cloud services ensure businesses stay ahead with cutting-edge technology. With strong vendor partnerships, we deliver top-quality products and services, driving market growth across Gujarat.</p>
                 <div class="spacer-10"></div>
                 <a class="btn-main wow fadeInUp" href="About">Learn More</a>
             </div>
@@ -421,10 +415,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="col-lg-6 offset-lg-3 text-center">
                     <div class="subtitle bg-color-3 wow fadeInUp mb-3">Our Services</div>
                     <h2>Comprehensive Solutions for Your Needs</h2>
-                    <p class="lead wow fadeInUp">At Aaryan Tradelink, we provide a diverse range of IT solutions,
-                        including network solutions, cloud services, and cybersecurity to ensure reliability and
-                        innovation. Our expertise extends to air conditioning services, refrigeration solutions, and
-                        CCTV installation, delivering top-quality products with every solution.</p>
+                    <p class="lead wow fadeInUp">At Aaryan Tradelink, we provide a diverse range of air conditioning services, refrigeration solutions, and CCTV installation, delivering top-quality products with every solution. Our expertise extends to IT solutions, including network solutions, cloud services, and cybersecurity to ensure reliability and innovation.</p>
                 </div>
             </div>
             <!-- Air Conditioning & HVAC -->
@@ -537,12 +528,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-6">
                 <div class="subtitle wow fadeInUp mb-3">Your Trusted Business Partner</div>
                 <h2 class="wow fadeInUp" data-wow-delay=".2s">Why Choose Aaryan Tradelink?</h2>
-                <p class="wow fadeInUp"> With 15+ years of industry expertise, Aaryan Tradelink is a trusted provider of
-                    IT solutions, air conditioning services, office automation, and security systems. We offer certified
-                    products from top brands, including network solutions, CCTV installation, and commercial
-                    refrigeration, ensuring reliable and durable solutions. Our 24/7 support guarantees quick
-                    assistance, keeping your operations smooth and hassle-free. Partner with us for cutting-edge
-                    technology and long-term value.</p>
+                <p class="wow fadeInUp"> With 15+ years of industry expertise, Aaryan Tradelink is a trusted provider of air conditioning services, security systems, office automation, and IT solutions. We offer certified products from top brands, including CCTV installation, network solutions, and commercial refrigeration, ensuring reliable and durable solutions. Our 24/7 support guarantees quick assistance, keeping your operations smooth and hassle-free. Partner with us for cutting-edge technology and long-term value.</p>
             </div>
 
             <div class="col-lg-6">
@@ -596,6 +582,63 @@ include __DIR__ . '/A_Layout/Header/header.php';
     <div class="container-fluid">
         <div class="row">
             <div class="owl-carousel owl-theme wow fadeInUp" id="testimonial-carousel">
+            <div class="item">
+                    <div class="de_testi s2">
+                        <blockquote>
+                            <i class="icofont-quote-left absolute start-30px top-30px id-color-2"></i>
+                            <div class="de_testi_by">
+                                <img class="bg-white p-2 circle" loading="lazy" alt="circle"
+                                    src="images/home/testimonials/4.dharmendra-chotthani.avif">
+                                <div>Dharmendra Chotthani<span>CEO - Client First </span></div>
+                            </div>
+                            <p>"Our company became a Aaryan Tradelink client in 2016 and we’ve been
+                                extremely impressed with their IT services. They have done everything from
+                                helping us migrate to a new internet supplier to finding and removing a bad
+                                virus from one of our laptops. Not only do their consultants do an excellent
+                                job with ongoing IT maintenance and support, they’ve also been great about
+                                suggesting ways to improve our structure and system security and backup.
+                                When it comes to IT support, Aaryan Tradelink really offers a pro-active and
+                                complete solution"</p>
+                            <div class="de-rating-ext">
+                                <span class="d-stars">
+                                    <i>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                            fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                                            <path
+                                                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                        </svg>
+                                    </i>
+                                    <i>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                            fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                                            <path
+                                                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                        </svg>
+                                    </i>
+                                    <i>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                            fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                                            <path
+                                                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                        </svg>
+                                    </i>
+                                    <i>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                            fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                                            <path
+                                                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                        </svg>
+                                    </i>
+                                    <i>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-half" viewBox="0 0 16 16">
+                                      <path d="M5.354 5.119 7.538.792A.52.52 0 0 1 8 .5c.183 0 .366.097.465.292l2.184 4.327 4.898.696A.54.54 0 0 1 16 6.32a.55.55 0 0 1-.17.445l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256a.5.5 0 0 1-.146.05c-.342.06-.668-.254-.6-.642l.83-4.73L.173 6.765a.55.55 0 0 1-.172-.403.6.6 0 0 1 .085-.302.51.51 0 0 1 .37-.245zM8 12.027a.5.5 0 0 1 .232.056l3.686 1.894-.694-3.957a.56.56 0 0 1 .162-.505l2.907-2.77-4.052-.576a.53.53 0 0 1-.393-.288L8.001 2.223 8 2.226z"/>
+                                    </svg>
+                                    </i>
+                                </span>
+                            </div>
+                        </blockquote>
+                    </div>
+                </div>
                 <div class="item">
                     <div class="de_testi s2">
                         <blockquote>
@@ -749,63 +792,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <i>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
                                       <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.56.56 0 0 0-.163-.505L1.71 6.745l4.052-.576a.53.53 0 0 0 .393-.288L8 2.223l1.847 3.658a.53.53 0 0 0 .393.288l4.052.575-2.906 2.77a.56.56 0 0 0-.163.506l.694 3.957-3.686-1.894a.5.5 0 0 0-.461 0z"/>
-                                    </svg>
-                                    </i>
-                                </span>
-                            </div>
-                        </blockquote>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="de_testi s2">
-                        <blockquote>
-                            <i class="icofont-quote-left absolute start-30px top-30px id-color-2"></i>
-                            <div class="de_testi_by">
-                                <img class="bg-white p-2 circle" loading="lazy" alt="circle"
-                                    src="images/home/testimonials/4.dharmendra-chotthani.avif">
-                                <div>Dharmendra Chotthani<span>CEO - Client First </span></div>
-                            </div>
-                            <p>"Our company became a Aaryan Tradelink client in 2016 and we’ve been
-                                extremely impressed with their IT services. They have done everything from
-                                helping us migrate to a new internet supplier to finding and removing a bad
-                                virus from one of our laptops. Not only do their consultants do an excellent
-                                job with ongoing IT maintenance and support, they’ve also been great about
-                                suggesting ways to improve our structure and system security and backup.
-                                When it comes to IT support, Aaryan Tradelink really offers a pro-active and
-                                complete solution"</p>
-                            <div class="de-rating-ext">
-                                <span class="d-stars">
-                                    <i>
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                            fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
-                                            <path
-                                                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
-                                        </svg>
-                                    </i>
-                                    <i>
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                            fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
-                                            <path
-                                                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
-                                        </svg>
-                                    </i>
-                                    <i>
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                            fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
-                                            <path
-                                                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
-                                        </svg>
-                                    </i>
-                                    <i>
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                            fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
-                                            <path
-                                                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
-                                        </svg>
-                                    </i>
-                                    <i>
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-half" viewBox="0 0 16 16">
-                                      <path d="M5.354 5.119 7.538.792A.52.52 0 0 1 8 .5c.183 0 .366.097.465.292l2.184 4.327 4.898.696A.54.54 0 0 1 16 6.32a.55.55 0 0 1-.17.445l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256a.5.5 0 0 1-.146.05c-.342.06-.668-.254-.6-.642l.83-4.73L.173 6.765a.55.55 0 0 1-.172-.403.6.6 0 0 1 .085-.302.51.51 0 0 1 .37-.245zM8 12.027a.5.5 0 0 1 .232.056l3.686 1.894-.694-3.957a.56.56 0 0 1 .162-.505l2.907-2.77-4.052-.576a.53.53 0 0 1-.393-.288L8.001 2.223 8 2.226z"/>
                                     </svg>
                                     </i>
                                 </span>
@@ -1003,7 +989,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
     </div>
 </section>
 <!-- faq -->
-
 
 <!-- <section class="no-top mt-100">
     <div class="container">
