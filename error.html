@@ -10,7 +10,7 @@
 
 
 body {
-  background: lavenderblush;
+  background: #05635d;
 }
 
 .top {
@@ -33,7 +33,7 @@ body {
   position: absolute;
   border-radius: 50% 50% 0 0;
   background: white;
-  border: 1px solid gray;
+  border: 1px solid #D4B46D;
   border-bottom: none;
   animation: float 2s ease-out infinite;
 }
@@ -46,7 +46,7 @@ body {
   position: absolute;
   border-radius: 50% 50% 0 0;
   background: white;
-  border: 1px solid gray;
+  border: 1px solid #D4B46D;
   border-bottom: none;
   animation: float 2s ease-out infinite;
   z-index: 0;
@@ -61,7 +61,7 @@ body {
 }
 .eye, .eye-right {
   position: absolute;
-  background: gray;
+  background: #D4B46D;
   width: 13px;
   height: 13px;
   border-radius: 50%;
@@ -83,7 +83,7 @@ body {
   height: 10px;
   border: 3px solid;
   border-radius: 50%;
-  border-color: transparent gray gray transparent;
+  border-color: transparent #D4B46D #D4B46D transparent;
   transform: rotate(45deg);
 }
 
@@ -93,7 +93,7 @@ body {
   top: 85%;
   width: 25%;
   height: 23%;
-  border: 1px solid gray;
+  border: 1px solid #D4B46D;
   z-index: 0;
 }
 
@@ -121,7 +121,7 @@ body {
   position: absolute;
   width: 30%;
   height: 7%;
-  background: gray;
+  background: #D4B46D;
   left: 35%;
   top: 80%;
   border-radius: 50%;
@@ -157,28 +157,23 @@ h1 {
   text-align: center;
   font-size: 9em;
   margin: 0;
-  text-shadow: -1px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray;
+  text-shadow: -1px 0 #D4B46D, 0 1px #D4B46D, 1px 0 #D4B46D, 0 -1px #D4B46D;
 }
 h3 {
   font-family: body;
   font-size: 2em;
   text-transform: uppercase;
   text-align: center;
-  color: gray;
+  color: #D4B46D;
   margin-top: -20px;
   font-weight: 900;
 }
 p {
   text-align: center;
   font-family: body;
-  color: gray;
-  font-size: .6em;
+  color: #D4B46D;
+  font-size: 15px;
   margin-top: -20px;
-  text-transform: uppercase;
-}
-
-.search {
-  text-align: center;
 }
 
 .buttons {
@@ -188,73 +183,26 @@ p {
   margin-top: 10px;
 }
 
-/*search style*/
-
-.search-bar {
-  border: 1px solid gray;
-  padding: 5px;
-  height: 20px;
-  margin-left: -30px;
-  width: 200px;
-  outline: none;
-  &:focus {
-    border: 1px solid light;
-  }
-}
-
-.search-btn {
-  position: absolute;  
-  width: 30px;
-  height: 32px;
-  border: 1px solid gray;
-  background: gray;
-  text-align: center;
-  color: white;
-  cursor: pointer;
-  font-size: 1em;
-  outline: none;
-  &:hover {
-    background: white;
-    border: 1px solid white;
-    color: gray;
-    transition: all .2s ease;
-  }
-}
-
 .btn {
   background: white;
   padding: 15px 20px;
   margin: 5px;
-  color: gray;
+  color: #D4B46D;
   font-family: body;
   text-transform: uppercase;
-  font-size: .6em;
+  font-size: 15px;
   letter-spacing: 1px;
   border: 0;
-  &:hover {
-    background: gray;
-    transition: all .4s ease-out;
-  }
 }
-
-footer {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  text-align: center;
-  font-size: 0.8em;
-  text-transform: uppercase;
-  padding: 10px;
-  color: #EA7996;
-  letter-spacing: 3px;
-  font-family: body;
-  a {
-    color: #ffffff;
-    text-decoration: none;
-    &:hover {
-      color: #7d7d7d;
-    }
-  }
+.buttons .btn a{
+  text-decoration: none;
+  color: #D4B46D;
+  font-size: 15px;
+}
+.buttons .btn a:hover{
+  background: #D4B46D;
+    color: aliceblue;
+    transition: all .4s ease-out;
 }
     </style>
 </head>
@@ -281,21 +229,13 @@ footer {
   <div class="shadow"></div>
 </div>
 <div class="bottom">
-  <p>Boo, looks like a ghost stole this page!</p>
-  <form class="search">
-    <input type="text" class="search-bar" placeholder="Search">
-    <button type="submit" class="search-btn">
-      <i class="fa fa-search"></i>
-    </button>
-  </form>
+  <h3>Sorry Page Was Not Found!!</h3>
+  <p>Household shameless incommode at no objection behaviour. Especially do at <br> he possession insensible sympathize boisterous it. Songs he on an widen me event truth.</p>
+
   <div class="buttons">
-    <button class="btn">Back</button>
-    <button class="btn">Home</button>
+    <button class="btn"><a href="https://aaryantradelink.com/beta/Home">Back To Home</a></button>
   </div>
 </div>
 
-<footer>
-  <p>made by <a href="https://codepen.io/juliepark"> julie</a> ♡
-</footer>
 </body>
 </html>
