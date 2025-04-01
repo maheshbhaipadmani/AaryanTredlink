@@ -80,10 +80,15 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                 <div class="g-recaptcha" data-sitekey="6LdW03QgAAAAAJko8aINFd1eJUdHlpvT4vNKakj6"></div>
-                                <div id='submit' class="mt20">
-                                    <input type='submit' id='send_message' value='Send Message' class="btn-main">
-                                </div>
+                                <!-- <div id='submit' class="mt20">
+                                    <input type='submit' id='send_message' value='Send Message' class="btn-main send-message-btn">
+                                </div> -->
 
+                                <button type="submit" class="btn-main send-message-btn">
+                                    Send Message →
+                                  </button>
+                            
+                                <p id="feedback"></p>
                                 <!-- <div id="success_message" class='success'>
                                     Your message has been sent successfully. Refresh this page if you want to send more
                                     messages.
@@ -91,7 +96,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div id="error_message" class='error'>
                                     Sorry there was an error sending your form.
                                 </div> -->
-                                <p id="feedback" class="text-dark"></p>
                             </form>
 
                         </div>
