@@ -13,7 +13,7 @@ class SendMail
     {
         $inputData = json_decode(file_get_contents('php://input'), true);
         // $subject = isset($inputData['Subject']) ? $inputData['Subject'] : '';
-        $body = isset($inputData['Body']) ? $inputData['Body'] : '';
+        $body = isset($inputData['Body']) ? $inputData['Body'] : 'nothing';
 
 
         $mail = new PHPMailer();
@@ -50,14 +50,14 @@ class SendMail
                 // Handle failure
                 echo json_encode([
                     'status' => false,
-                    'message' => 'Message could not be sent.',
-                    'error' => $mail->ErrorInfo,
+                    'message' => 'Message could not be sent......',
+                    'error' => $mail->ErrorInfo . $body,
                 ]);
             } else {
                 // Handle success
                 echo json_encode([
                     'status' => true,
-                    'message' => 'Message sent successfully.',
+                    'message' => 'Message sent successfully 111111',
                 ]);
             }
         } catch (Exception $e) {
