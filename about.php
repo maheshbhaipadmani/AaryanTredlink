@@ -377,7 +377,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <h2>Trusted by 500+ Businesses Across Industries</h2>
                             <div class="spacer-10"></div>
                             <p>We are honored to serve 500+ clients across various industries, delivering reliable air conditioning services, refrigeration solutions, security systems, IT solutions, office automation, and networking solutions tailored to their needs. Their trust in our expertise drives us to maintain exceptional quality and service. Our commitment to customer satisfaction, cutting-edge technology, and seamless integration has helped us build long-term relationships with businesses of all sizes.</p>
-                            <a class="btn-main" href="#">Discover Plugins</a>
+                            <a class="btn-main" href="Home">Discover Plugins</a>
                         </div>
                     </div>
                 </div>

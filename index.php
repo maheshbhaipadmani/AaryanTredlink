@@ -41,8 +41,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <h3 class="slider-teaser mb-3">Top AC brands with expert
                                                 installation & service.</h3>
                                             <div class="spacer-10"></div>
-                                            <a class="btn-main mb10 mb-3" href="Contact">Book a
-                                                Repair</a>
+                                            <a class="btn-main mb10 mb-3" href="Contact">Send Inquiry</a>
                                         </div>
                                     </div>
 
@@ -111,8 +110,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <h3 class="slider-teaser mb-3">Commercial & industrial cooling
                                                 solutions.</h3>
                                             <div class="spacer-10"></div>
-                                            <a class="btn-main mb10 mb-3" href="Contact">Book a
-                                                Repair</a>
+                                            <a class="btn-main mb10 mb-3" href="Contact">Send Inquiry</a>
                                         </div>
                                     </div>
 
@@ -185,8 +183,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <h3 class="slider-teaser mb-3">High-performance IT hardware &
                                                 networking solutions. </h3>
                                             <div class="spacer-10"></div>
-                                            <a class="btn-main mb10 mb-3" href="Contact">Book a
-                                                Repair</a>
+                                            <a class="btn-main mb10 mb-3" href="Contact">Send Inquiry</a>
                                         </div>
                                     </div>
 
@@ -260,8 +257,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <h3 class="slider-teaser mb-3">Smart office automation for
                                                 seamless operations.</h3>
                                             <div class="spacer-10"></div>
-                                            <a class="btn-main mb10 mb-3" href="Contact">Book a
-                                                Repair</a>
+                                            <a class="btn-main mb10 mb-3" href="Contact">Send Inquiry</a>
                                         </div>
                                     </div>
 

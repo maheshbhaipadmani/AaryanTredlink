@@ -18,7 +18,7 @@ contactform.addEventListener("submit", function (event) {
         "SMTPSecure": "ssl",
         "SenderEmail": "hitixa.bhuva@uniqueconsumerservices.com",
         "SenderEmailPassword": "EWE1{@1@^9cE",
-        "ReciverEmail": "patelhitixa4439@gmail.com",
+        "ReciverEmail": "info@aaryantradelink.com",
         "Subject": message,
         "Body":`<!DOCTYPE html>
 <html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">

@@ -5,7 +5,7 @@ class SendMail
 {
     public $SenderEmail = "hitixa.bhuva@uniqueconsumerservices.com";
     public $SenderEmailPassword = "EWE1{@1@^9cE";
-    public $ReciverEmail = "patelhitixa4439@gmail.com";
+    public $ReciverEmail = "info@aaryantradelink.com";
     public $Subject = "";
     public $Body = "hello";
 
