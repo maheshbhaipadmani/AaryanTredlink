@@ -20,9 +20,9 @@ class SendMail
         $mail->SMTPDebug = 2; // Change to 3 for detailed debug output
         $mail->isSMTP();
         $mail->SMTPAuth = true;
-        $mail->SMTPSecure = 'tls';
+        $mail->SMTPSecure = 'ssl';
         $mail->Host = "216.10.241.228";
-        $mail->Port = 587;
+        $mail->Port = 465;
         $mail->isHTML(true);
         $mail->CharSet = 'UTF-8';
         $mail->Username = $this->SenderEmail;
