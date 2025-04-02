@@ -52,7 +52,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-lg-12 col-md-12 mb10">
                                         <div class="field-set">
                                             <span class="d-label">Name</span>
-                                            <input type="text" name="name" id="name" class="form-control"
+                                            <input type="number" name="name" id="name" class="form-control"
                                                 placeholder="Your Name" required>
                                         </div>
 
