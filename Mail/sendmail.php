@@ -51,7 +51,7 @@ class SendMail
                 echo json_encode([
                     'status' => false,
                     'message' => 'Message could not be sent......',
-                    'error' => $mail->ErrorInfo . $body,
+                    'error' => '$mail->ErrorInfo . $body'.$body,
                 ]);
             } else {
                 // Handle success
