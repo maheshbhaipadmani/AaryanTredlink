@@ -351,7 +351,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 <!-- counter -->
 <section class="bg-color text-light section-dark jarallax">
-    <img src="images/background/4.avif" loading="lazy" class="jarallax-img" alt="jarallax-img">
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-lg-8  text-center">
