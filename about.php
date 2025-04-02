@@ -116,7 +116,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <a href="Contact">
                                                     <img src="images/icons/white/contact-form.webp" loading="lazy" class="w-40 mb-3"
                                                         alt="book now">
-                                                    <p class="lead mb-0">Book us</p>
+                                                    <p class="lead mb-0">Inquiry</p>
                                                     <h4 class="mb-0">Schedule Now</h4>
                                                 </a>
                                             </div>

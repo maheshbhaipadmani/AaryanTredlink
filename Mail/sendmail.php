@@ -17,18 +17,17 @@ class SendMail
 
 
         $mail = new PHPMailer();
-        $mail->SMTPDebug = 2; // Change to 3 for detailed debug output
-        $mail->isSMTP();
-        $mail->SMTPAuth = true;
 
-        $mail->SMTPSecure = 'ssl';
-        $mail->Port = 465;
 
-   
+        $mail->SMTPDebug  = 3;
+        $mail->IsSMTP(); 
+        $mail->SMTPAuth = true; 
+        $mail->SMTPSecure = 'tls'; 
         $mail->Host = "216.10.241.228";
-
-        $mail->isHTML(true);
+        $mail->Port = 587; 
+        $mail->IsHTML(true);
         $mail->CharSet = 'UTF-8';
+   
         $mail->Username = $this->SenderEmail;
         $mail->Password = $this->SenderEmailPassword;
         $mail->setFrom($this->SenderEmail, 'Your Name or Company'); // Add a name for better identification
@@ -65,7 +64,7 @@ class SendMail
             echo json_encode([
                 'status' => false,
                 'message' => 'Message could not be sent. Mailer Error.',
-                'error' => $e->getMessage(),
+                'error' => $e,
             ]);
         }
     }
