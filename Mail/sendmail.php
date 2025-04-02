@@ -6,13 +6,13 @@ class SendMail
     public $SenderEmail = "hitixa.bhuva@uniqueconsumerservices.com";
     public $SenderEmailPassword = "EWE1{@1@^9cE";
     public $ReciverEmail = "info@aaryantradelink.com";
-    public $Subject = "";
+    public $Subject = "Get In Touch";
     public $Body = "hello";
 
     public function sendMail()
     {
         $inputData = json_decode(file_get_contents('php://input'), true);
-        $subject = isset($inputData['Subject']) ? $inputData['Subject'] : '';
+        // $subject = isset($inputData['Subject']) ? $inputData['Subject'] : '';
         $body = isset($inputData['Body']) ? $inputData['Body'] : '';
 
 
@@ -20,15 +20,19 @@ class SendMail
         $mail->SMTPDebug = 2; // Change to 3 for detailed debug output
         $mail->isSMTP();
         $mail->SMTPAuth = true;
+
         $mail->SMTPSecure = 'ssl';
-        $mail->Host = "216.10.241.228";
         $mail->Port = 465;
+
+   
+        $mail->Host = "216.10.241.228";
+
         $mail->isHTML(true);
         $mail->CharSet = 'UTF-8';
         $mail->Username = $this->SenderEmail;
         $mail->Password = $this->SenderEmailPassword;
         $mail->setFrom($this->SenderEmail, 'Your Name or Company'); // Add a name for better identification
-        $mail->Subject = $subject;
+        $mail->Subject = $this->Subject;
         $mail->Body = $body;
         $mail->addAddress($this->ReciverEmail);
 
