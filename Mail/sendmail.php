@@ -34,8 +34,8 @@ class SendMail
         $mail->Subject = $this->Subject;
         $mail->Body = $body;
         $mail->addAddress($this->ReciverEmail);
-
-
+        
+        
         // Optional: Configure SSL options
         $mail->SMTPOptions = [
             'ssl' => [
@@ -44,7 +44,8 @@ class SendMail
                 'allow_self_signed' => true,
             ],
         ];
-
+        
+        die($mail->send());
         try {
             if (!$mail->send()) {
                 // Handle failure
