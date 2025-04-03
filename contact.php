@@ -17,7 +17,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Contact Us</div>
                                 <h1>Get In Touch</h1>
                                 <ul class="crumb">
-                                    <li><a href="Home">Home</a></li>
+                                    <li><a href="home">Home</a></li>
                                     <li class="active">Contact Us</li>
                                 </ul>
                             </div>

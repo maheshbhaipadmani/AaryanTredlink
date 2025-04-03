@@ -41,7 +41,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <h3 class="slider-teaser mb-3">Top AC brands with expert
                                                 installation & service.</h3>
                                             <div class="spacer-10"></div>
-                                            <a class="btn-main mb10 mb-3" href="Contact">Send Inquiry</a>
+                                            <a class="btn-main mb10 mb-3" href="contact">Send Inquiry</a>
                                         </div>
                                     </div>
 
@@ -110,7 +110,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <h3 class="slider-teaser mb-3">Commercial & industrial cooling
                                                 solutions.</h3>
                                             <div class="spacer-10"></div>
-                                            <a class="btn-main mb10 mb-3" href="Contact">Send Inquiry</a>
+                                            <a class="btn-main mb10 mb-3" href="contact">Send Inquiry</a>
                                         </div>
                                     </div>
 
@@ -183,7 +183,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <h3 class="slider-teaser mb-3">High-performance IT hardware &
                                                 networking solutions. </h3>
                                             <div class="spacer-10"></div>
-                                            <a class="btn-main mb10 mb-3" href="Contact">Send Inquiry</a>
+                                            <a class="btn-main mb10 mb-3" href="contact">Send Inquiry</a>
                                         </div>
                                     </div>
 
@@ -257,7 +257,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <h3 class="slider-teaser mb-3">Smart office automation for
                                                 seamless operations.</h3>
                                             <div class="spacer-10"></div>
-                                            <a class="btn-main mb10 mb-3" href="Contact">Send Inquiry</a>
+                                            <a class="btn-main mb10 mb-3" href="contact">Send Inquiry</a>
                                         </div>
                                     </div>
 
@@ -336,7 +336,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <h2 class="wow fadeInUp">About Aaryan Tradelink</h2>
                 <p class="wow fadeInUp">Aaryan Tradelink, established in 2009 and based in Ahmedabad, is a trusted name in air conditioning services and IT solutions. As a Complete Solution Provider, we offer air conditioning installation and HVAC services, providing energy-efficient cooling solutions for residential and commercial spaces. Our managed IT services, network solutions, and cloud services ensure businesses stay ahead with cutting-edge technology. With strong vendor partnerships, we deliver top-quality products and services, driving market growth across Gujarat.</p>
                 <div class="spacer-10"></div>
-                <a class="btn-main wow fadeInUp" href="About">Learn More</a>
+                <a class="btn-main wow fadeInUp" href="about">Learn More</a>
             </div>
         </div>
 
@@ -424,7 +424,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p class="no-bottom">Expert HVAC services, including AC installation, air conditioner
                             maintenance, and climate control solutions for residential and commercial spaces. </p>
                         <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="Air-Conditioning">Read more</a>
+                        <a class="btn-main btn-light-trans" href="air-conditioning">Read more</a>
                     </div>
                 </div>
             </div>
@@ -436,7 +436,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p class="no-bottom">Reliable commercial refrigeration and industrial refrigeration systems
                             designed for long-lasting performance and energy-efficient cooling solutions.</p>
                         <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="Refrigeration">Read more</a>
+                        <a class="btn-main btn-light-trans" href="refrigeration">Read more</a>
                     </div>
                     <div class="relative">
                         <img src="./images/home/services/commercial-refrigeration.avif" class="img-fluid"
@@ -456,7 +456,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p class="no-bottom">Offering a comprehensive range of IT solutions, including IT hardware,
                             office software, and network solutions for businesses and individuals.</p>
                         <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="It-Products">Read more</a>
+                        <a class="btn-main btn-light-trans" href="it-products">Read more</a>
                     </div>
                 </div>
             </div>
@@ -469,7 +469,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p class="no-bottom">Boost productivity with office automation solutions, including
                             multifunction printers, photocopiers, and document management systems.</p>
                         <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="Office-Automation">Read more</a>
+                        <a class="btn-main btn-light-trans" href="office-automation">Read more</a>
                     </div>
                     <div class="relative">
                         <img src="./images/home/services/office-printer.avif" loading="lazy" class="img-fluid"
@@ -490,7 +490,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p class="no-bottom">Robust network solutions, including structured cabling, wireless solutions,
                             and network infrastructure for efficient connectivity. </p>
                         <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="Office-Automation">Read more</a>
+                        <a class="btn-main btn-light-trans" href="office-automation">Read more</a>
                     </div>
                 </div>
             </div>
@@ -502,7 +502,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <p class="no-bottom">Advanced CCTV installation, security camera systems, and surveillance
                             solutions for enhanced safety and remote monitoring.</p>
                         <div class="spacer-20"></div>
-                        <a class="btn-main btn-light-trans" href="Office-Automation">Read more</a>
+                        <a class="btn-main btn-light-trans" href="office-automation">Read more</a>
                     </div>
                     <div class="relative">
                         <img src="./images/home/services/CCTV-camera.avif" class="img-fluid" loading="lazy"
@@ -997,7 +997,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">We are CoolAir, specialize in
                                 providing top-notch heating, ventilation, and air conditioning services
                                 tailored to your unique needs.</h2>
-                            <a class="btn-main" href="Contact">Schedule Now</a>
+                            <a class="btn-main" href="contact">Schedule Now</a>
                         </div>
                         <div class="col-lg-4 text-center">
                             <img src="images/team/1.webp" class="img-fluid rounded-10px wow scaleIn" alt="team 1">

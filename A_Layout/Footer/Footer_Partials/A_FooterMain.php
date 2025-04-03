@@ -83,14 +83,12 @@ echo
                         <div class="row">
                             <div class="col-lg-6 col-sm-6">
                                 <div class="widget">
-                                    <h5>Company</h5>
+                                    <h5>Quick Links</h5>
                                     <ul>
-                                        <li><a href="Home">Home</a></li>
-                                        <li><a href="About">About Us</a></li>
-                                        <li><a href="javascript:void(0);">Products</a></li>
-                                        <li><a href="javascript:void(0);">Our Services</a></li>
-                                        <li><a href="Contact">Contact</a></li>
-                                        <li><a href="SiteMap">Sitemap</a></li>
+                                        <li><a href="home">Home</a></li>
+                                        <li><a href="about">About Us</a></li>
+                                        <li><a href="contact">Contact</a></li>
+                                        <li><a href="sitemap">Sitemap</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -98,10 +96,17 @@ echo
                                 <div class="widget">
                                     <h5>Our Services</h5>
                                     <ul>
-                                    <li><a href="Air-Conditioning"> Air Conditioning</a></li>
-                                    <li><a href="Refrigeration">Refrigeration </a></li>
-                                    <li><a href="It-Products">IT Products</a></li>
-                                    <li><a href="Office-Automation">Office Automation</a></li>
+                                    <li><a href="air-conditioning"> Air Conditioning</a></li>
+                                    <li><a href="refrigeration">Refrigeration </a></li>
+                                    <li><a href="it-products">IT Products</a></li>
+                                    <li><a href="office-automation">Office Automation</a></li>
+                                    </ul>
+                                    <h5 class="mt-4">Our Products</h5>
+                                    <ul>
+                                    <li><a href="air-conditioning-products"> Air Conditioning</a></li>
+                                    <li><a href="Refrigeration-Products">Refrigeration </a></li>
+                                    <li><a href="it-products-products">IT Products</a></li>
+                                    <li><a href="office-automation-products">Office Automation</a></li>
                                     </ul>
                                 </div>
                             </div>

@@ -16,7 +16,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Service</div>
                             <h1>Air Conditioning Repair</h1>
                             <ul class="crumb">
-                                <li><a href="Home">Home</a></li>
+                                <li><a href="home">Home</a></li>
                                 <li class="active">Air Conditioning Repair</li>
                             </ul>
                         </div>
@@ -31,7 +31,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <!-- section close -->
 
             <div class="bg-color relative z-index-1000 mt-40 mb40">
-                <a href="Contact">
+                <a href="contact">
                     <img src="images/svg/phone-calling-svgrepo-com.svg" loading="lazy"
                         class="border-white-6 fs-30 bg-color w-80px p-3 mb20 circle absolute abs-center sm-hide" alt="phone-calling-svgrep">
                 </a>
@@ -41,16 +41,16 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="container">
                     <div class="row g-5">
                         <div class="col-lg-3">
-                            <a href="Air-Conditioning"
+                            <a href="air-conditioning"
                                 class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3 relative">
                                 <h4 class="mb-0">About Us</h4>
                             </a>
-                            <a href="Air-Conditioning-Repair"
+                            <a href="air-conditioning-repair"
                                 class="bg-color-2 text-light d-block p-3 px-4 rounded-10px mb-3 relative">
                                 <h4 class="mb-0">Repair</h4>
                                 <i class="icofont-long-arrow-right absolute abs-middle fs-24 end-20px"></i>
                             </a>
-                            <a href="Air-Conditioning-Maintenance"
+                            <a href="air-conditioning-maintenance"
                                 class="bg-color-3 d-block p-3 px-4 rounded-10px mb-3">
                                 <h4 class="mb-0">Maintenance</h4>
                             </a>

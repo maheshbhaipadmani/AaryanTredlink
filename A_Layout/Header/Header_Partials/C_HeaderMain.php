@@ -70,7 +70,7 @@ echo
                             <div class="de-flex-col">
                                 <!-- logo begin -->
                                 <div id="logo">
-                                    <a href="Home">
+                                    <a href="home">
                                         <img class="logo-main" src="./images/logo/Aaryan Tredlink _Finle logo.png" loading="lazy"
                                             alt="aaryan logo">
                                         <img class="logo-scroll" src="./images/logo/Aaryan Tredlink _Finle logo.png" loading="lazy"
@@ -84,17 +84,17 @@ echo
                                 <ul id="mainmenu">
                                <li><a class="menu-item ' ?><?php if ($page == "index.php") {
                                     echo 'active';
-                                } ?><?php echo '" href="Home">Home</a></li>
+                                } ?><?php echo '" href="home">Home</a></li>
                                     <li><a class="menu-item ' ?><?php if ($page == "about.php") {
                                          echo 'active';
-                                     } ?><?php echo '" href="About">About Us</a></li>
+                                     } ?><?php echo '" href="about">About Us</a></li>
                                     <li class=" "><a class="menu-item ' ?><?php if ($page == "refrigeration-products.php" || $page == "office-automation-products.php" || $page == "air-conditioning-products.php" || $page == "it-products-products.php") {
                                          echo 'active';
                                      } ?><?php echo ' " aria-current="page" href="javascript:void(0);">Products</a>
                                         <ul>
                                          <li><a class="menu-item ' ?><?php if ($page == "air-conditioning-products.php") {
                                                  echo 'active';
-                                             } ?><?php echo '" href="Air-Conditioning-Products">Air
+                                             } ?><?php echo '" href="air-conditioning-products">Air
                                                     Conditioning</a></li>
                                          <li><a class="menu-item"
                                                     href="Refrigeration-Products ' ?><?php if ($page == "refrigeration-products.php") {
@@ -102,11 +102,11 @@ echo
                                              } ?><?php echo '">Refrigeration</a></li>
                                            <li><a class="menu-item ' ?><?php if ($page == "it-products-products.php") {
                                                  echo 'active';
-                                             } ?><?php echo '" href="It-Products-Products">IT Products</a>
+                                             } ?><?php echo '" href="it-products-products">IT Products</a>
                                             </li>
                                             <li><a class="menu-item ' ?><?php if ($page == "office-automation-products.php") {
                                                  echo 'active';
-                                             } ?><?php echo '" href="Office-Automation-Products">Office
+                                             } ?><?php echo '" href="office-automation-products">Office
                                                     Automation</a></li>
                                                                                        
                                         </ul>
@@ -117,30 +117,30 @@ echo
                                         <ul>
                                         <li><a class="menu-item ' ?><?php if ($page == "air-conditioning-maintenance.php" || $page == "air-conditioning-repair.php" || $page == "air-conditioning.php") {
                                                  echo 'active';
-                                             } ?><?php echo '" href="Air-Conditioning">Air Conditioning</a>
+                                             } ?><?php echo '" href="air-conditioning">Air Conditioning</a>
                                             </li>
                                             <li><a class="menu-item ' ?><?php if ($page == "refrigeration-maintenance.php" || $page == "refrigeration-repair.php" || $page == "refrigeration.php") {
                                                  echo 'active';
-                                             } ?><?php echo '" href="Refrigeration">Refrigeration</a></li>
+                                             } ?><?php echo '" href="refrigeration">Refrigeration</a></li>
                                               <li><a class="menu-item ' ?><?php if ($page == "maintenance.php" || $page == "repair.php" || $page == "installation.php") {
                                                  echo 'active';
-                                             } ?><?php echo ' " aria-current="page" href="It-Products">IT Products</a>
+                                             } ?><?php echo ' " aria-current="page" href="it-products">IT Products</a>
                                             </li>
                                             <li><a class="menu-item ' ?><?php if ($page == "office-automation-maintenance.php" || $page == "office-automation-repair.php" || $page == "office-automation.php") {
                                                  echo 'active';
-                                             } ?><?php echo ' " href="Office-Automation">Office Automation</a>
+                                             } ?><?php echo ' " href="office-automation">Office Automation</a>
                                             </li>
                                               
                                         </ul>
                                     </li>
                                     <li><a class="menu-item mobile-btn-show d-none' ?><?php if ($page == "contact.php") {
                                     echo 'active';
-                                } ?><?php echo '" href="Contact">Contact Us</a></li>
+                                } ?><?php echo '" href="contact">Contact Us</a></li>
                                 </ul>
                             </div>
                             <div class="de-flex-col">
                                 <div class="menu_side_area">
-                                    <a href="Contact" class="btn-main bg-color-2">Contact Us</a>
+                                    <a href="contact" class="btn-main bg-color-2">Contact Us</a>
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>

@@ -132,7 +132,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <h5>"Keeping freshness intact with energy-efficient refrigeration solutions."</h5>
                 <div class="spacer-half"></div>
 
-                <a class="btn-main mt-2 wow fadeInUp animated" data-wow-delay=".7s" href="It-Products"
+                <a class="btn-main mt-2 wow fadeInUp animated" data-wow-delay=".7s" href="it-products"
                     style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">Our
                     Services</a>
             </div>

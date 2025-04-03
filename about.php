@@ -17,7 +17,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Reliable Solutions</div>
                             <h1>About Us</h1>
                             <ul class="crumb">
-                                <li><a href="Home">Home</a></li>
+                                <li><a href="home">Home</a></li>
                                 <li class="active">About Us</li>
                             </ul>
                         </div>
@@ -80,7 +80,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
 
-                                <a class="btn-main mt-4 wow fadeInUp" data-wow-delay=".7s" href="It-Products">Our
+                                <a class="btn-main mt-4 wow fadeInUp" data-wow-delay=".7s" href="it-products">Our
                                     Services</a>
                             </div>
 
@@ -113,7 +113,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <div class="d-flex rounded-5 align-items-center justify-content-center h-100 p-4 bg-color-2 text-light wow scaleIn"
                                             data-wow-delay="1s">
                                             <div class="d-block text-center">
-                                                <a href="Contact">
+                                                <a href="contact">
                                                     <img src="images/icons/white/contact-form.webp" loading="lazy" class="w-40 mb-3"
                                                         alt="book now">
                                                     <p class="lead mb-0">Inquiry</p>
@@ -229,7 +229,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                             <div class="spacer-half"></div>
 
-                            <a class="btn-main" href="Contact">Contact Us</a>
+                            <a class="btn-main" href="contact">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -377,7 +377,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <h2>Trusted by 500+ Businesses Across Industries</h2>
                             <div class="spacer-10"></div>
                             <p>We are honored to serve 500+ clients across various industries, delivering reliable air conditioning services, refrigeration solutions, security systems, IT solutions, office automation, and networking solutions tailored to their needs. Their trust in our expertise drives us to maintain exceptional quality and service. Our commitment to customer satisfaction, cutting-edge technology, and seamless integration has helped us build long-term relationships with businesses of all sizes.</p>
-                            <a class="btn-main" href="Home">Discover Plugins</a>
+                            <a class="btn-main" href="home">Discover Plugins</a>
                         </div>
                     </div>
                 </div>
