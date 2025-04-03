@@ -30,7 +30,8 @@ class SendMail
    
         $mail->Username = $this->SenderEmail;
         $mail->Password = $this->SenderEmailPassword;
-        $mail->setFrom($this->SenderEmail, 'Your Name or Company'); // Add a name for better identification
+        $mail->setFrom($this->SenderEmail, 'Your Name or
+         Company'); // Add a name for better identification
         $mail->Subject = $this->Subject;
         $mail->Body = $body;
         $mail->addAddress($this->ReciverEmail);
