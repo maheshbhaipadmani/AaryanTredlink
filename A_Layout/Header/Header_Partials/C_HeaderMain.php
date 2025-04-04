@@ -27,8 +27,7 @@ echo
                                     </div>
 
                                     <div class="topbar-widget">
-                                        <a href="mailto:ashish@aaryantradelink.com"
-                                            style="text-decoration: none; color: white;">
+                                        <a href="mailto:ashish@aaryantradelink.com" class="headermain-mail">
                                             <i class="icofont-envelope"></i> ashish@aaryantradelink.com
                                         </a>
                                     </div>
@@ -94,10 +93,11 @@ echo
                                                  echo 'active';
                                              } ?><?php echo '" href="air-conditioning-products">Air
                                                     Conditioning</a></li>
-                                         <li><a class="menu-item"
-                                                    href="Refrigeration-Products ' ?><?php if ($page == "refrigeration-products.php") {
+                                        
+                                             <li><a class="menu-item ' ?><?php if ($page == "refrigeration-products.php") {
                                                  echo 'active';
-                                             } ?><?php echo '">Refrigeration</a></li>
+                                             } ?><?php echo '" href="refrigeration-products">Refrigeration</a>
+                                            </li>
                                            <li><a class="menu-item ' ?><?php if ($page == "it-products-products.php") {
                                                  echo 'active';
                                              } ?><?php echo '" href="it-products-products">IT Products</a>

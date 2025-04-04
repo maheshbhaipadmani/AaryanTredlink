@@ -103,7 +103,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="fw-bold text-dark">
                                 <i class="icofont-location-pin me-2 id-color-2"></i>
                                 <a href="https://maps.google.com/?q=Spectrum+Complex,Swami+Vivekanand+Chowk,Near+Yash+Arian,Memnagar,Ahmedabad,Gujarat-380052"
-                                    target="_blank" style="text-decoration: none; color: inherit;">
+                                    target="_blank" class="about-us-contact-number">
                                     Office Location
                                 </a>
                             </div>
@@ -113,7 +113,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="fw-bold text-dark">
                                 <i class="icofont-location-pin me-2 id-color-2"></i>
                                 <a href="https://maps.google.com/?q=DEEP,Amarnath+Plot,Opp+Amarnath+Mahadev+Mandir,Kalawad+Road,Rajkot,Gujarat-360001"
-                                    target="_blank" style="text-decoration: none; color: inherit;">
+                                    target="_blank" class="about-us-contact-number">
                                     Rajkot Office
                                 </a>
                             </div>
@@ -126,10 +126,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="fw-bold text-dark">
                                 <i class="icofont-envelope me-2 id-color-2"></i>Send a Message
                             </div>
-                            <a href="mailto:info@aaryantradelink.com" style="text-decoration: none; color: inherit;">
+                            <a href="mailto:info@aaryantradelink.com" class="about-us-contact-number">
                                 info@aaryantradelink.com
                             </a>,
-                            <a href="mailto:ashish@aaryantradelink.com" style="text-decoration: none; color: inherit;">
+                            <a href="mailto:ashish@aaryantradelink.com" class="about-us-contact-number">
                                 ashish@aaryantradelink.com
                             </a>
 
@@ -139,14 +139,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="fw-bold text-dark">
                                 <i class="icofont-phone me-2 id-color-2"></i>Call Us Directly
                             </div>
-                            <a href="tel:+919099903098" style="text-decoration: none; color: inherit;">
+                            <a href="tel:+919099903098" class="about-us-contact-number">
                                 +91-9099903098
                             </a>,
-                            <a href="tel:+919824000266" style="text-decoration: none; color: inherit;">
+                            <a href="tel:+919824000266" class="about-us-contact-number">
                                 +91-9824000266
                             </a>
                             <br>
-                            <a href="tel:+917940398160" style="text-decoration: none; color: inherit;">
+                            <a href="tel:+917940398160" class="about-us-contact-number">
                                 079-40398160
                             </a>
 
@@ -159,10 +159,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.2476251594057!2d72.53459382477105!3d23.05138151525356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e84a3ee2a134d%3A0x213e43f546da06e8!2sSigma%20Spectrum!5e0!3m2!1sen!2sin!4v1741088348167!5m2!1sen!2sin"
-                width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                width="100%" height="450" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
         </div>
       
         <?php

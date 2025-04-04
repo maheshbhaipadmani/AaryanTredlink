@@ -13,7 +13,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="container relative z-index-1000">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
-                            <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Product</div>
+                            <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Our Service</div>
                             <h1>Refrigeration</h1>
                             <ul class="crumb">
                                 <li><a href="home">Home</a></li>

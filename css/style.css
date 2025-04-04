@@ -4150,7 +4150,7 @@ h5.new:before{
 } 
 
 .text-light .subtitle.s2 {
-  background: rgb(255 255 255 / 22%);
+  background: rgb(255 255 255 / 100%) !important;
 }
 
 .subtitle.s2 span {
@@ -4473,7 +4473,7 @@ span.teaser {
 }
 
 .text-light, .text-light p {
-  color: var(--dark-body-font-color);
+  color: var(--dark-body-font-color) !important;
 }
 
 .text-dark {
@@ -10528,8 +10528,8 @@ p.slider-teaser{
   display: inline-block;
   font-size: 14px;
   font-weight: bold;
-  color: var(--title-font-color);
-  background: var(--tertiary-color);
+  color: var(--title-font-color) !important;
+  background: var(--tertiary-color) !important;
   padding: 2px 15px;
   border-radius: 30px;
 }
@@ -16251,4 +16251,36 @@ section {
     font-size: 14px;
     line-height: 18px;
 }
+}
+
+/* about -us */
+.about-us-contact-number{
+  text-decoration: none; 
+  color: inherit;
+}
+/* air-condition-productk */
+.animation-air-condition-product{
+  visibility: visible; 
+  animation-delay: 0.7s; 
+  animation-name: fadeInUp;
+}
+
+.custom-bg-air-condition-product{
+  background-size: cover; 
+  background-repeat: no-repeat;
+}
+.our-product-animation{
+  visibility: visible; 
+  animation-delay: 0.2s; 
+  animation-name: fadeInUp;
+}
+.headermain-mail{
+  text-decoration: none; 
+  color: white;
+}
+.footer-bg-color{
+  background-color: #333;
+}
+.footerl-color{
+  color: #333;
 }

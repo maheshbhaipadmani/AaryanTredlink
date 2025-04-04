@@ -1,7 +1,16 @@
-const contactform = document.getElementById("contact-form");
-contactform.addEventListener("submit", function (event) {
-    event.preventDefault();
-    console.log("Form submitted event triggered.");
+document.addEventListener("DOMContentLoaded", function () {
+    const contactForm = document.getElementById("contact-form");
+	
+		if (!contactForm) {
+			console.error("Error: Contact form element not found. Check if the form ID is correct.");
+			return;  // Storefrigeration-productsactiverefrigeration-productsactivep script execution if form is not found
+		}
+
+    contactForm.addEventListener("submit", function (event) {
+        event.preventDefault();
+        console.log("Form submitted event triggered.");
+
+
 
     // Gather data from the form
     const name = document.getElementById("name").value;
@@ -570,7 +579,7 @@ contactform.addEventListener("submit", function (event) {
           );
         });
 });
-
+});
 function isValidEmail(email) {
   console.log("Checking email format...");
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;

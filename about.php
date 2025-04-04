@@ -78,7 +78,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
 
-                                <a class="btn-main mt-4 wow fadeInUp" data-wow-delay=".7s" href="it-products">Our
+                                <a href="it-products" class="btn-main mt-4 wow fadeInUp" data-wow-delay=".7s">Our
                                     Services</a>
                             </div>
 
@@ -98,8 +98,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <img src="images/icons/white/call.webp" class="w-40 mb-3" alt="icon">
                                                 <p class="lead mb-0">24 Hours</p>
                                                 <h4 class="mb-0">
-                                                    <a href="tel:+919099903098"
-                                                        style="text-decoration: none; color: inherit;">
+                                                    <a href="tel:+919099903098" class="about-us-contact-number">
                                                         +91 90999 03098
                                                     </a>
                                                 </h4>
@@ -224,7 +223,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                             <div class="spacer-half"></div>
 
-                            <a class="btn-main" href="contact">Contact Us</a>
+                            <a  href="contact" class="btn-main">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -277,7 +276,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <h2>Trusted by 500+ Businesses Across Industries</h2>
                             <div class="spacer-10"></div>
                             <p>We are honored to serve 500+ clients across various industries, delivering reliable air conditioning services, refrigeration solutions, security systems, IT solutions, office automation, and networking solutions tailored to their needs. Their trust in our expertise drives us to maintain exceptional quality and service. Our commitment to customer satisfaction, cutting-edge technology, and seamless integration has helped us build long-term relationships with businesses of all sizes.</p>
-                            <a class="btn-main" href="home">Discover Plugins</a>
+                            <a href="home" class="btn-main" >Discover Plugins</a>
                         </div>
                     </div>
                 </div>
@@ -303,8 +302,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="spacer-double"></div>
                                             <div class="subtitle s2 mb-2">24 Hours &amp; Emergencies</div>
                                             <h2 class="phone mb0 wow fadeInUp" data-wow-delay=".2s">
-                                                <a href="tel:+919099903098"
-                                                    style="text-decoration: none; color: inherit;">
+                                                <a href="tel:+919099903098" class="about-us-contact-number">
                                                     <i class="icofont-phone-circle"></i> +91 90999 03098
                                                 </a>
                                             </h2>

@@ -13,7 +13,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
         <div class="row g-4 gx-5 align-items-center">
             <div class="col-lg-6 offset-lg-3 text-center">
                 <div class="subtitle s2 bg-color text-light wow fadeInUp mb-2">Enhanced Security</div>
-                <h1>Office Automation</h1>
+                <h1>Refrigeration</h1>
             </div>
 
             <div class="spacer-single"></div>
@@ -26,8 +26,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                     <div class="col-lg-12">
                         <div class="owl-custom-nav menu-float px-5" data-target="#img-carousel">
-                            <a class="btn-next"></a>
-                            <a class="btn-prev"></a>
+                            <a href="javascript:void(0)" class="btn-next"></a>
+                            <a href="javascript:void(0)" class="btn-prev"></a>
 
                             <div id="img-carousel" class="owl-carousel owl-theme owl-4-margin-15">
                                 <div class="item">
@@ -132,8 +132,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <h5>"Keeping freshness intact with energy-efficient refrigeration solutions."</h5>
                 <div class="spacer-half"></div>
 
-                <a class="btn-main mt-2 wow fadeInUp animated" data-wow-delay=".7s" href="it-products"
-                    style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">Our
+                <a href="it-products" class="btn-main mt-2 wow fadeInUp animated animation-air-condition-product" data-wow-delay=".7s" >Our
                     Services</a>
             </div>
         </div>
@@ -141,13 +140,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
 </section>
 
 
-<section class="" style="background-size: cover; background-repeat: no-repeat;">
-    <div class="container" style="background-size: cover; background-repeat: no-repeat;">
-        <div class="row" style="background-size: cover; background-repeat: no-repeat;">
-            <div class="col-lg-6 offset-lg-3 text-center" style="background-size: cover; background-repeat: no-repeat;">
-                <h2 class="wow fadeInUp animated" data-wow-delay=".2s"
-                    style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">Our Products</h2>
-                <div class="spacer-single" style="background-size: cover; background-repeat: no-repeat;">
+<section class=" custom-bg-air-condition-product">
+    <div class="container custom-bg-air-condition-product">
+        <div class="row custom-bg-air-condition-product">
+            <div class="col-lg-6 offset-lg-3 text-center custom-bg-air-condition-product">
+                <h2 class="wow fadeInUp animated our-product-animation" data-wow-delay=".2s">Our Products</h2>
+                <div class="spacer-single custom-bg-air-condition-product">
                 </div>
             </div>
             <div class="container">
