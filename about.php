@@ -8,7 +8,6 @@ $MetaKeywords = "Discover Aaryan Tradelink, a partnership firm established in 20
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-            <!-- section begin -->
             <section id="subheader" class="jarallax text-light">
                 <img src="images/background/11.webp" class="jarallax-img" alt="jarallax-img" loading="lazy">
                 <div class="container relative z-index-1000">
@@ -28,7 +27,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
                 <div class="de-overlay"></div>
             </section>
-            <!-- section close -->
 
             <div class="bg-color relative z-index-1000 mt-40 mb40">
                 <div class="border-white-6 text-center bg-color text-white w-84px h-80px p-3 circle absolute abs-center sm-hide">
@@ -135,7 +133,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 <div class="de-gradient-edge-bottom"></div>
             </section>
-            <!-- Who We Are -->
 
             <!-- Our Guiding Principles -->
             <section class="bg-color-3">
@@ -199,7 +196,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 </div>
             </section>
-            <!-- Our Guiding Principles -->
 
             <!-- What We Offer -->
             <section id="subheader">
@@ -212,7 +208,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="bg-color-3 relative hover overflow-hidden rounded-20px">
                                 <div class="text-center py-3 faq-img-wid">
                                     <img src="images/products/1.webp" class="w-80" alt="products1" loading="lazy">
-                                    <!-- <h4>AeroChill</h4> -->
                                 </div>
                             </div>
                         </div>
@@ -234,101 +229,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </section>
-            <!-- What We Offer -->
-
-            <!-- Our Team -->
-            <!-- <section class="no-top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-
-                            <div class="p-5 bg-color text-white rounded-20px">
-                                <div class="row">
-                                    <div class="col-lg-6 offset-lg-3 text-center">
-                                        <div class="bg-color-2 text-light subtitle wow fadeInUp mb-3">Behind the Scene
-                                        </div>
-                                        <h2 class="wow fadeInUp" data-wow-delay=".2s">Meet Our Team</h2>
-                                        <p class="lead">Our dedicated team ensures seamless solutions with expertise in
-                                            IT, security, and HVAC. We strive for innovation, reliability, and
-                                            excellence in every project.</p>
-                                        <div class="spacer-single"></div>
-                                    </div>
-                                </div>
-                                <div class="row g-4">
-                                    <div class="col-lg-3">
-                                        <img src="images/team/1.webp" class="img-fluid rounded-10px" alt="team1">
-                                        <div class="p-3 text-center
-                                        ">
-                                            <h4 class="mb-0">Jeffery Mussman</h4>
-                                            <p class="mb-2">Founder &amp; CEO</p>
-                                            <div class="social-icons">
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-facebook-f"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-x-twitter"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-3">
-                                        <img src="images/team/2.webp" class="img-fluid rounded-10px" alt="team2">
-                                        <div class="p-3 text-center
-                                        ">
-                                            <h4 class="mb-0">Jeffery Mussman</h4>
-                                            <p class="mb-2">Founder &amp; CEO</p>
-                                            <div class="social-icons">
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-facebook-f"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-x-twitter"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-3">
-                                        <img src="images/team/3.webp" class="img-fluid rounded-10px" alt="team3">
-                                        <div class="p-3 text-center
-                                        ">
-                                            <h4 class="mb-0">Jeffery Mussman</h4>
-                                            <p class="mb-2">Founder &amp; CEO</p>
-                                            <div class="social-icons">
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-facebook-f"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-x-twitter"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-3">
-                                        <img src="images/team/4.webp" class="img-fluid rounded-10px" alt="team4">
-                                        <div class="p-3 text-center
-                                        ">
-                                            <h4 class="mb-0">Jeffery Mussman</h4>
-                                            <p class="mb-2">Founder &amp; CEO</p>
-                                            <div class="social-icons">
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-facebook-f"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-x-twitter"></i></a>
-                                                <a href="#"><i
-                                                        class="bg-white id-color bg-hover-2 text-hover-white fa-brands fa-instagram"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-            <!-- Our Team -->
 
             <!-- Our Valued Clients -->
             <section class="no-top">
@@ -382,7 +282,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </section>
-            <!-- Our Valued Clients -->
 
             <!-- CTA -->
             <section class="no-top relative">
@@ -418,9 +317,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </section>
-            <!-- CTA -->
         </div>
-        <!-- content close -->
+
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>

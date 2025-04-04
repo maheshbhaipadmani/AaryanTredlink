@@ -27,7 +27,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
     </div>
     <div class="de-overlay"></div>
 </section>
-<!-- section close -->
+
 
 <div class="bg-color relative z-index-1000 mt-40 mb40">
     <a href="contact">
@@ -150,7 +150,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
     </div>
 </section>
 </div>
-<!-- content close -->
+
 <!-- footer begin -->
 <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';

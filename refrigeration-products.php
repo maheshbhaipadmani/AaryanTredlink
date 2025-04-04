@@ -139,7 +139,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </div>
     </div>
 </section>
-<!-- section close -->
+
 
 <section class="" style="background-size: cover; background-repeat: no-repeat;">
     <div class="container" style="background-size: cover; background-repeat: no-repeat;">
@@ -236,13 +236,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
     <div class="container-fluid position-relative half-fluid">
         <div class="container">
             <div class="row">
-                <!-- Image -->
+                
                 <div class="col-lg-6 position-lg-absolute left-half h-100">
                     <div class="image"
                         data-bgimage="url(images/product/refrigeration/supermarket-refrigerated-aisle-with-products_605022-212641.avif) center">
                     </div>
                 </div>
-                <!-- Text -->
+                
                 <div class="col-lg-5 offset-lg-7 py-5 pe-lg-5">
                     <div class="spacer-double sm-hide"></div>
                     <h3>Innovative and energy-efficient refrigeration for optimal cooling, freshness, and
@@ -322,7 +322,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 </section>
 
 </div>
-<!-- content close -->
+
 <!-- footer begin -->
 <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';

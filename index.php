@@ -8,20 +8,10 @@ $MetaKeywords = "Aaryan Tradelink, based in Ahmedabad, offers IT products, offic
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-<!-- <a href="#"><i class="fa-brands fa-facebook fa-lg"></i></a>
-                                    <a href="#"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
-                                    <a href="#"><i class="fa-brands fa-youtube fa-lg"></i></a>
-                                    <a href="#"><i class="fa-brands fa-pinterest fa-lg"></i></a>
-                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                            <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                            <a href="#"><i class="fa-brands fa-discord"></i></a>
-                            <a href="#"><i class="fa-brands fa-tiktok"></i></a>
-                            <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
 
 <section class="section-dark text-light no-top no-bottom position-relative overflow-hidden z-1000">
     <div class="v-center">
         <div class="swiper">
-            <!-- Additional required wrapper -->
             <div class="swiper-wrapper">
                 <!-- Efficient Refrigeration -->
                 <div class="swiper-slide">
@@ -90,7 +80,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="sw-overlay"></div>
                     </div>
                 </div>
-                <!-- Efficient Refrigeration -->
                  
                 <!-- Cooling & Comfort -->
                 <div class="swiper-slide">
@@ -163,7 +152,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="sw-overlay"></div>
                     </div>
                 </div>
-                <!-- Cooling & Comfort -->
 
                  <!-- Advanced IT Solutions -->
                  <div class="swiper-slide">
@@ -237,7 +225,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="sw-overlay s2"></div>
                     </div>
                 </div>
-                <!-- Advanced IT Solutions -->
                  
                 <!-- Smart Office Tech -->
                 <div class="swiper-slide">
@@ -309,16 +296,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="sw-overlay s2"></div>
                     </div>
                 </div>
-                <!-- Smart Office Tech -->
             </div>
             <!-- If we need pagination -->
             <div class="swiper-pagination"></div>
 
-            <!-- If we need navigation buttons -->
             <div class="swiper-button-prev"></div>
             <div class="swiper-button-next"></div>
 
-            <!-- If we need scrollbar -->
             <div class="swiper-scrollbar"></div>
         </div>
     </div>
@@ -343,7 +327,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
         <div class="spacer-double"></div>
     </div>
 </section>
-<!-- About Aaryan Tradelink -->
 
 <!-- counter -->
 <section class="bg-color text-light section-dark jarallax">
@@ -400,7 +383,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </div>
     </div>
 </section>
-<!-- counter -->
 
 <!-- Our Services -->
 <section class="">
@@ -514,7 +496,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </div>
     </div>
 </section>
-<!-- Our Services -->
 
 <!-- Why Choose Aaryan Tradelink? -->
 <section class="">
@@ -559,7 +540,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </div>
     </div>
 </section>
-<!-- Why Choose Aaryan Tradelink? -->
 
 <!-- Testimonials -->
 <section class="no-top text-center">
@@ -909,7 +889,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </div>
     </div>
 </section>
-<!-- Testimonials -->
 
 <!-- faq -->
 <section class="bg-color-3">
@@ -983,33 +962,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </div>
     </div>
 </section>
-<!-- faq -->
-
-<!-- <section class="no-top mt-100">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="padding60 rounded-1 sm-padding40 overflow-hidden position-relative jarallax text-light">
-                    <img src="images/background/9.webp" class="jarallax-img" alt="bg 9">
-                    <div class="row align-items-center g-4 gx-5 relative z-index-1000">
-                        <div class="col-lg-8">
-                            <div class="subtitle s2 wow fadeInUp mb-3">HVAC Specialist</div>
-                            <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">We are CoolAir, specialize in
-                                providing top-notch heating, ventilation, and air conditioning services
-                                tailored to your unique needs.</h2>
-                            <a class="btn-main" href="contact">Schedule Now</a>
-                        </div>
-                        <div class="col-lg-4 text-center">
-                            <img src="images/team/1.webp" class="img-fluid rounded-10px wow scaleIn" alt="team 1">
-                            <h5 class="mt-3 mb-0">Jeffery Mussman</h5>
-                            <p class="small mb-2">Founder &amp; CEO</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
 
 <!-- CTA -->
 <section class="no-top relative">
@@ -1044,7 +996,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </div>
     </div>
 </section>
-<!-- CTA -->
 
 <!-- Our Clients -->
 <section class="no-top">
@@ -1108,10 +1059,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </div>
     </div>
 </section>
-<!-- Our Clients -->
 
 </div>
-<!-- content close -->
 
 <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';

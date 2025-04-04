@@ -11,7 +11,6 @@ echo
 
         <!-- page preloader begin -->
         <div id="de-loader"></div>
-        <!-- page preloader close -->
 
         <!-- header begin -->
         <header class="transparent scroll-light has-topbar">
@@ -78,7 +77,6 @@ echo
                                         <img class="logo-mobile" src="./images/logo/Aaryan Tredlink _Finle logo.png" alt="logo" loading="lazy">
                                     </a>
                                 </div>
-                                <!-- logo close -->
                             </div>
                             <div class="de-flex-col header-col-mid">
                                 <ul id="mainmenu">

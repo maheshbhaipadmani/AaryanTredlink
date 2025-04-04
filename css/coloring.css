@@ -267,13 +267,6 @@ section.dark {
     background: rgba(var(--primary-color-rgb), .98);
 }
 
-.feature-box-group .d-card i,
-.accordion-section-title.active,
-.accordion.secondary .accordion-section-title:before
-.d-card i {
-    background: var(--secondary-color);
-}
-
 .bg-color-3{
     background: var(--tertiary-color);
 }
@@ -297,30 +290,6 @@ header.header-gradient,
 .p-tagline,
 h5.title{
     background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
-}
-
-.gradient-soft {
-    background: -moz-linear-gradient(180deg, rgba(var(--primary-color-rgb), 0.125) 0%, rgba(var(--primary-color-rgb), 0) 100%);
-    background: -webkit-linear-gradient(180deg, rgba(var(--primary-color-rgb), 0.125) 0%, rgba(var(--primary-color-rgb), 0) 100%);
-    background: linear-gradient(180deg, rgba(var(--primary-color-rgb), 0.125) 0%, rgba(var(--primary-color-rgb), 0) 100%);
-}
-
-.gradient-soft-2 {
-    background: -moz-linear-gradient(180deg, rgba(var(--primary-color-rgb), 0.2) 0%, rgba(var(--primary-color-rgb), 0) 100%);
-    background: -webkit-linear-gradient(180deg, rgba(var(--primary-color-rgb), 0.2) 0%, rgba(var(--primary-color-rgb), 0) 100%);
-    background: linear-gradient(180deg, rgba(var(--primary-color-rgb), 0.2) 0%, rgba(var(--primary-color-rgb), 0) 100%);
-}
-
-.gradient-soft-45 {
-    background: -moz-linear-gradient(45deg, rgba(var(--secondary-color-rgb), .3) 0%, rgba(var(--primary-color-rgb), .3) 100%);
-    background: -webkit-linear-gradient(45deg, rgba(var(--secondary-color-rgb), .3) 0%, rgba(var(--primary-color-rgb), .3) 100%);
-    background: linear-gradient(45deg, rgba(var(--secondary-color-rgb), .3) 0%, rgba(var(--primary-color-rgb), .3) 100%);
-}
-
-.d-card i,.d-card:hover i{
-    background: -moz-linear-gradient(180deg, rgba(var(--primary-color-rgb), 1) 20%, rgba(var(--primary-color-rgb), 0) 100%);
-    background: -webkit-linear-gradient(180deg, rgba(var(--primary-color-rgb), 1) 20%, rgba(var(--primary-color-rgb), 0) 100%);
-    background: linear-gradient(180deg, rgba(var(--primary-color-rgb), 1) 20%, rgba(var(--primary-color-rgb), 0) 100%);
 }
 
 #preloader {
@@ -489,12 +458,6 @@ header.transparent #mainmenu a.menu-item span,
     background: linear-gradient(45deg,var(--primary-color) 0%, var(--secondary-color) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-}
-
-.gradient-soft{
-background: -moz-linear-gradient(0deg, rgba(var(--primary-color-rgb), .45) 0%, rgba(var(--secondary-color-rgb), 0.25) 100%);
-background: -webkit-linear-gradient(0deg, rgba(var(--primary-color-rgb), .45) 0%, rgba(var(--secondary-color-rgb), 0.25) 100%);
-background: linear-gradient(0deg, rgba(var(--primary-color-rgb), .45) 0%, rgba(var(--secondary-color-rgb), 0.25) 100%);
 }
 
 .menu-col li a{

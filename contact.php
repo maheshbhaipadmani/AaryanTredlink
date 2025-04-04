@@ -29,7 +29,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
                 <div class="de-overlay"></div>
             </section>
-            <!-- section close -->
+          
 
             <div class="bg-color relative z-index-1000 mt-40 mb40">
                 <div class="border-white-6 text-center bg-color text-white w-84px h-80px p-3 circle absolute abs-center sm-hide">
@@ -80,22 +80,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                 <div class="g-recaptcha" data-sitekey="6LdW03QgAAAAAJko8aINFd1eJUdHlpvT4vNKakj6"></div>
-                                <!-- <div id='submit' class="mt20">
-                                    <input type='submit' id='send_message' value='Send Message' class="btn-main send-message-btn">
-                                </div> -->
-
+                              
                                 <button type="submit" class="btn-main send-message-btn">
                                     Send Message →
                                   </button>
                             
                                 <p id="feedback"></p>
-                                <!-- <div id="success_message" class='success'>
-                                    Your message has been sent successfully. Refresh this page if you want to send more
-                                    messages.
-                                </div>
-                                <div id="error_message" class='error'>
-                                    Sorry there was an error sending your form.
-                                </div> -->
                             </form>
 
                         </div>
@@ -174,7 +164,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
         </div>
-        <!-- content close -->
+      
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>
