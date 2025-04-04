@@ -12,6 +12,8 @@ echo
     <link href="css/coloring.css" rel="stylesheet" type="text/css">
     <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
     <link id="colors" href="css/sitemap.css" rel="stylesheet" type="text/css">
+    <link id="colors" href="css/dev-style.css" rel="stylesheet" type="text/css">
+    <link id="colors" href="css/responsive.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;700&display=swap" rel="stylesheet">
 
 </head>

@@ -1,0 +1,33 @@
+@import url("../css/style.css");
+
+/* about -us */
+.about-us-contact-number{
+    text-decoration: none; 
+    color: inherit;
+  }
+  /* air-condition-productk */
+  .animation-air-condition-product{
+    visibility: visible; 
+    animation-delay: 0.7s; 
+    animation-name: fadeInUp;
+  }
+  
+  .custom-bg-air-condition-product{
+    background-size: cover; 
+    background-repeat: no-repeat;
+  }
+  .our-product-animation{
+    visibility: visible; 
+    animation-delay: 0.2s; 
+    animation-name: fadeInUp;
+  }
+  .headermain-mail{
+    text-decoration: none; 
+    color: white;
+  }
+  .footer-bg-color{
+    background-color: #333;
+  }
+  .footerl-color{
+    color: #333;
+  }

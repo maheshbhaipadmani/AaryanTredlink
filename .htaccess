@@ -5,7 +5,7 @@ Header always set Content-Security-Policy "upgrade-insecure-requests"
 
 
 # Define custom error pages
-ErrorDocument 404 /error.html	
+ErrorDocument 404 /error.php	
 
 # Rewrite rules for clean URLs
 RewriteRule ^home$ index.php [L,NC]

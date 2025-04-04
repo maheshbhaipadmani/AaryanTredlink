@@ -32,7 +32,7 @@ echo
                                         </a>
                                     </div>
 
-                                    <div class="topbar-widget"><a href="javascript:void(0);"><i class="icofont-wall-clock"></i>Mon - Fri
+                                    <div class="topbar-widget"><a href="/mon-fri" onclick="event.preventDefault(); toggleDropdown(this);"><i class="icofont-wall-clock"></i>Mon - Fri
                                             08.00 AM - 18.00 PM</a></div>
                                 </div>
 
@@ -87,7 +87,7 @@ echo
                                      } ?><?php echo '" href="about">About Us</a></li>
                                     <li class=" "><a class="menu-item ' ?><?php if ($page == "refrigeration-products.php" || $page == "office-automation-products.php" || $page == "air-conditioning-products.php" || $page == "it-products-products.php") {
                                          echo 'active';
-                                     } ?><?php echo ' " aria-current="page" href="javascript:void(0);">Products</a>
+                                     } ?><?php echo ' " aria-current="page" href="/products" onclick="event.preventDefault(); toggleDropdown(this);">Products</a>
                                         <ul>
                                          <li><a class="menu-item ' ?><?php if ($page == "air-conditioning-products.php") {
                                                  echo 'active';
@@ -111,7 +111,7 @@ echo
                                     </li>
                                     <li><a class="menu-item ' ?><?php if ($page == "refrigeration-maintenance.php" || $page == "refrigeration-repair.php" || $page == "refrigeration.php" || $page == "office-automation-maintenance.php" || $page == "office-automation-repair.php" || $page == "office-automation.php" || $page == "maintenance.php" || $page == "air-conditioning.php" || $page == "repair.php" || $page == "air-conditioning-repair.php" || $page == "installation.php") {
                                          echo 'active';
-                                     } ?><?php echo ' " aria-current="page" href="javascript:void(0);">Services</a>
+                                     } ?><?php echo ' " aria-current="page" href="/services onclick="event.preventDefault(); toggleDropdown(this);">Services</a>
                                         <ul>
                                         <li><a class="menu-item ' ?><?php if ($page == "air-conditioning-maintenance.php" || $page == "air-conditioning-repair.php" || $page == "air-conditioning.php") {
                                                  echo 'active';

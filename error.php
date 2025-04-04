@@ -17,7 +17,6 @@ body {
 .top {
   margin-top: 30px;
 }
-
 .container {
   margin: 0 auto;
   position: relative;
@@ -231,7 +230,6 @@ p {
 </div>
 <div class="bottom">
   <h3>Sorry Page Was Not Found!!</h3>
-
   <div class="buttons">
     <button class="btn"><a href="https://aaryantradelink.com/beta/Home">Back To Home</a></button>
   </div>
