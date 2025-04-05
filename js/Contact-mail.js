@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Port": "587",
         "SMTPSecure": "ssl",
         "SenderEmail": "hitixa.bhuva@uniqueconsumerservices.com",
-        "SenderEmailPassword": "EWE1{@1@^9cE",
+        "SenderEmailPassword": "1f1UOc{3U*64",
         "ReciverEmail": "info@aaryantradelink.com",
         "Subject": message,
         "Body":`<!DOCTYPE html>

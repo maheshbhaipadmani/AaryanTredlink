@@ -15,7 +15,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="swiper-wrapper">
                 <!-- Efficient Refrigeration -->
                 <div class="swiper-slide">
-                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/2.avif)">
+                    <div class="swiper-inner home-slider-one" rel="preload" as="image">
                         <div class="sw-caption">
                             <div class="container">
                                 <div class="row gx-5 align-items-center">
@@ -83,7 +83,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                  
                 <!-- Cooling & Comfort -->
                 <div class="swiper-slide">
-                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/commercial-refrigeration.avif)">
+                    <div class="swiper-inner home-slider-two" rel="preload" as="image" >
                         <div class="sw-caption">
                             <div class="container">
                                 <div class="row gx-5 align-items-center">
@@ -155,7 +155,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                  <!-- Advanced IT Solutions -->
                  <div class="swiper-slide">
-                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/Advanced-IT-Solutions-1.avif)">
+                    <div class="swiper-inner home-slider-three" rel="preload" as="image" >
                         <div class="sw-caption">
                             <div class="container">
                                 <div class="row gx-5 align-items-center">
@@ -228,7 +228,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                  
                 <!-- Smart Office Tech -->
                 <div class="swiper-slide">
-                    <div class="swiper-inner" data-bgimage="url(images/hero-slider/office-automation.avif)">
+                    <div class="swiper-inner home-slider-four" rel="preload" as="image" >
                         <div class="sw-caption">
                             <div class="container">
                                 <div class="row gx-5 align-items-center">

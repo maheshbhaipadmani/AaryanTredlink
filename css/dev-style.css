@@ -31,3 +31,23 @@
   .footerl-color{
     color: #333;
   }
+  .home-slider-one{ 
+    background-image: url('../images/hero-slider/2.avif'); 
+    background-size: cover; 
+    background-position: center;
+  }
+  .home-slider-two{
+    background-image: url(../images/hero-slider/commercial-refrigeration.avif);
+    background-size: cover; 
+    background-position: center;
+  }
+  .home-slider-three{
+    background-image: url(../images/hero-slider/Advanced-IT-Solutions-1.avif);
+    background-size: cover; 
+    background-position: center;
+  }
+  .home-slider-four{
+    background-image: url(../images/hero-slider/office-automation.avif);
+    background-size: cover; 
+    background-position: center;
+  } 

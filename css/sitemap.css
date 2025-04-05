@@ -11,9 +11,9 @@
     font-weight: 700;
   }
   
-  .sitemap-section {
+  /* .sitemap-section {
     margin-bottom: 30px;
-  }
+  } */
   
   .sitemap-main {
     background-color: #05635D;
@@ -84,7 +84,7 @@
     background-color: #ffffff;
     border-color: #05635D;
   }
-  
+/*   
   .sitemap-arrow {
     height: 30px;
     position: relative;
@@ -103,7 +103,7 @@
   .sitemap-row {
     margin-bottom: 15px;
   }
-  
+   */
   .level-arrow {
     position: relative;
   }

@@ -7,7 +7,8 @@
   .arcontactus-widget * {
     box-sizing: border-box
   }
-  .arcontactus-widget.arcu-bubble.left .messangers-block,
+
+  /* .arcontactus-widget.arcu-bubble.left .messangers-block,
   .arcontactus-widget.arcu-elastic.left .messangers-block {
     right: auto;
     left: 0;
@@ -85,8 +86,8 @@
     transform: translate3d(0, 0, 0);
     transition-delay: 0.3s
   }
-  
-  .arcontactus-widget.arcu-bubble.open .messangers-block .messangers-list,
+   */
+  /* .arcontactus-widget.arcu-bubble.open .messangers-block .messangers-list,
   .arcontactus-widget.arcu-bubble.open.left .messangers-block,
   .arcontactus-widget.arcu-elastic.open.left .messangers-block {
     transform: translate3d(0, 0, 0)
@@ -156,7 +157,7 @@
   .arcontactus-widget.arcu-bubble.open .messangers-block.has-header .arcu-menu-header {
     transform: translate3d(0, 0, 0);
     transition-delay: 0.5s
-  }
+  } */
   
   .arcontactus-widget.left.arcontactus-message {
     left: 20px;
@@ -171,7 +172,7 @@
     right: auto
   }
   
-  .arcontactus-widget.left .arcontactus-prompt {
+  /* .arcontactus-widget.left .arcontactus-prompt {
     left: 80px;
     right: auto;
     transform-origin: 0 50%
@@ -298,7 +299,7 @@
   
   .arcontactus-widget.left .messangers-block .messangers-list.arcu-fromaside li:nth-child(20) {
     transform: translate3d(-10000px, 0, 0)
-  }
+  } */
   
   .arcontactus-widget.left .callback-countdown-block::before,
   .arcontactus-widget.left .messangers-block::before {
@@ -306,7 +307,7 @@
     right: auto
   }
   
-  .arcontactus-widget.left.open .messangers-block .messangers-list.arcu-downtoup,
+  /* .arcontactus-widget.left.open .messangers-block .messangers-list.arcu-downtoup,
   .arcontactus-widget.left.open .messangers-block .messangers-list.arcu-fromaside,
   .arcontactus-widget.left.open .messangers-block .messangers-list.arcu-uptodown,
   .arcontactus-widget.open .messangers-block .messangers-list.arcu-downtoup,
@@ -384,7 +385,7 @@
     height: 70px;
     margin-top: -35px;
     margin-left: -35px
-  }
+  } */
   
   .arcontactus-widget.md .arcontactus-message-button,
   .arcontactus-widget.md.arcontactus-message {
@@ -405,7 +406,7 @@
     right: auto
   }
   
-  .arcontactus-widget.md.left .arcontactus-prompt {
+  /* .arcontactus-widget.md.left .arcontactus-prompt {
     left: 70px
   }
   
@@ -418,7 +419,7 @@
   .arcontactus-widget.md.left .arcontactus-prompt.arcu-prompt-top:before {
     left: 21px;
     right: auto
-  }
+  } */
   
   .arcontactus-widget.md.right .arcontactus-prompt.arcu-prompt-top:before,
   .arcontactus-widget.md.right .arcu-popup:before,
@@ -427,7 +428,7 @@
     right: 21px
   }
   
-  .arcontactus-widget.md.right .arcontactus-prompt {
+  /* .arcontactus-widget.md.right .arcontactus-prompt {
     right: 70px
   }
   
@@ -435,7 +436,7 @@
     right: 0;
     bottom: 70px
   }
-  
+   */
   .arcontactus-widget.md .arcontactus-message-button .pulsation {
     width: 74px;
     height: 74px
@@ -451,7 +452,7 @@
     margin-left: -20px
   }
   
-  .arcontactus-widget.sm .arcontactus-message-button,
+  /* .arcontactus-widget.sm .arcontactus-message-button,
   .arcontactus-widget.sm.arcontactus-message {
     width: 50px;
     height: 50px
@@ -509,14 +510,14 @@
     width: 64px;
     height: 64px
   }
-  
+   */
   .arcontactus-widget .arcontactus-prompt:hover .arcontactus-prompt-close,
   .arcontactus-widget.active {
     opacity: 1
   }
   
   .arcontactus-widget.arcontactus-message {
-    z-index: 1000000;
+    z-index: 999;
     left: 20px;
     bottom: 20px;
     position: fixed !important;
@@ -572,7 +573,7 @@
     animation: 2s infinite arcontactus-pulse
   }
   
-  .arcontactus-widget .arcontactus-message-button .icons {
+  /* .arcontactus-widget .arcontactus-message-button .icons {
     background-color: #fff;
     width: 44px;
     height: 44px;
@@ -583,7 +584,7 @@
     left: 50%;
     margin-top: -22px;
     margin-left: -22px
-  }
+  } */
   
   .arcontactus-widget .arcontactus-message-button .static {
     position: absolute;

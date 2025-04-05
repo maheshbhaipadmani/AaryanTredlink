@@ -30,7 +30,7 @@
 .far,
 .fa-regular {
   font-family: 'Font Awesome 6 Free'; }
-
+/* 
 .fab,
 .fa-brands {
   font-family: 'Font Awesome 6 Brands'; }
@@ -97,7 +97,7 @@
 
 .fa-fw {
   text-align: center;
-  width: 1.25em; }
+  width: 1.25em; } */
 
 .fa-ul {
   list-style-type: none;
@@ -112,7 +112,7 @@
   text-align: center;
   width: var(--fa-li-width, 2em);
   line-height: inherit; }
-
+/* 
 .fa-border {
   border-color: var(--fa-border-color, #eee);
   border-radius: var(--fa-border-radius, 0.1em);
@@ -261,7 +261,7 @@
     -webkit-transition-delay: 0s;
             transition-delay: 0s;
     -webkit-transition-duration: 0s;
-            transition-duration: 0s; } }
+            transition-duration: 0s; } } */
 
 @-webkit-keyframes fa-beat {
   0%, 90% {
@@ -436,7 +436,7 @@
   100% {
     -webkit-transform: rotate(360deg);
             transform: rotate(360deg); } }
-
+/* 
 .fa-rotate-90 {
   -webkit-transform: rotate(90deg);
           transform: rotate(90deg); }
@@ -489,7 +489,7 @@
   font-size: 2em; }
 
 .fa-inverse {
-  color: var(--fa-inverse, #fff); }
+  color: var(--fa-inverse, #fff); } */
 
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
 readers do not read off random characters that represent icons */
@@ -523,7 +523,7 @@ readers do not read off random characters that represent icons */
 
 .fa-9::before {
   content: "\39"; }
-
+/* 
 .fa-fill-drip::before {
   content: "\f576"; }
 
@@ -597,7 +597,7 @@ readers do not read off random characters that represent icons */
   content: "\f527"; }
 
 .fa-calendar-days::before {
-  content: "\f073"; }
+  content: "\f073"; } */
 
 .fa-calendar-alt::before {
   content: "\f073"; }

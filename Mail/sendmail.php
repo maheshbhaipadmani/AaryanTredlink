@@ -4,7 +4,7 @@ require 'smtp/PHPMailerAutoload.php';
 class SendMail
 {
     public $SenderEmail = "hitixa.bhuva@uniqueconsumerservices.com";
-    public $SenderEmailPassword = "EWE1{@1@^9cE";
+    public $SenderEmailPassword = "1f1UOc{3U*64";
     public $ReciverEmail = "info@aaryantradelink.com";
     public $Subject = "Get In Touch";
     public $Body = "hello";
