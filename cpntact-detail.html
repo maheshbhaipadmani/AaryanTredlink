@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download contact details of Aaryan tradelink</title>
+</head>
+<body>
+
+    <h2>Download contact details of Aaryan tradelink</h2>
+    <button onclick="downloadVCF()">Download vCard</button>
+
+    <script>
+        function downloadVCF() {
+            // vCard file content
+            const vCardData = `BEGIN:VCARD
+VERSION:3.0
+FN:ASHISH PANDEY
+N:Pandey;Ashish;;;
+EMAIL:info@aaryantradelink.com
+TEL:+919824000266
+ADR:;;Shop no-2 spectrum complex, Swami Vivekanand Chowk near Yash Arian Memnagar;Ahmedabad;380052;
+ORG:Aaryan Tradelink
+URL:http://www.aaryantradelink.com
+END:VCARD`;
+
+            // Create a Blob (VCF file)
+            const blob = new Blob([vCardData], { type: "text/vcard" });
+            const url = URL.createObjectURL(blob);
+
+            // Create a temporary <a> element for download
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = "contact.vcf"; // File name
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+
+            // Revoke URL after download
+            URL.revokeObjectURL(url);
+        }
+    </script>
+
+</body>
+</html>
